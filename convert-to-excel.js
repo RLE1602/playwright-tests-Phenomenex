@@ -9,7 +9,7 @@ try {
   // 🔹 🔥 UPDATE THESE 3 VALUES
   const repoOwner = "RLE1602";
   const repoName = "playwright-tests-Phenomenex";
-  const commitHash = "06404f5657729ea4c49cf32e9a2a3b83504348c9";
+  const commitHash = process.env.GITHUB_SHA;
 
   if (!fs.existsSync(jsonFile)) {
     console.warn('⚠ test-results.json not found. Excel will be empty.');
@@ -147,3 +147,4 @@ try {
   console.error('❌ Excel generation failed:', err);
   console.log('⚠ Continuing workflow despite Excel failure');
 }
+
