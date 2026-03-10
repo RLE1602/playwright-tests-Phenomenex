@@ -32,7 +32,7 @@ jobs:
           mkdir -p "$PREVIEW_DIR"
 
           # Do NOT fail workflow if tests fail
-          npx playwright test tests/Regression/CoreScenarios || true
+          npx playwright test tests/Regression_PHX_US || true
 
       - name: Convert JSON to Excel
         run: |
@@ -61,3 +61,4 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
