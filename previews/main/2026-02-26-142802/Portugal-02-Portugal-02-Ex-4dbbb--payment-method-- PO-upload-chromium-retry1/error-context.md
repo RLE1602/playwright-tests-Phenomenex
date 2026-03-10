@@ -1,0 +1,629 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e8]:
+      - generic [ref=e11]:
+        - generic [ref=e13]:
+          - link "white_wave_logo":
+            - /url: /
+            - img "white_wave_logo" [ref=e14] [cursor=pointer]
+        - list [ref=e16]:
+          - listitem [ref=e17] [cursor=pointer]:
+            - button "Welcome portugal_user6 account_circle" [ref=e19]:
+              - generic [ref=e20]: Welcome portugal_user6
+              - generic [ref=e21]: account_circle
+          - listitem [ref=e22]:
+            - generic [ref=e24]:
+              - text: Portugal
+              - generic [ref=e25]: language
+      - generic [ref=e27]:
+        - generic [ref=e28]:
+          - generic [ref=e33]:
+            - generic [ref=e35] [cursor=pointer]: search
+            - textbox "Search by Part No., Product, Application, or Keyword" [ref=e36]
+          - generic [ref=e38]:
+            - link "Quick Order bolt" [ref=e40] [cursor=pointer]:
+              - /url: /quick-order
+              - text: Quick Order
+              - generic [ref=e41]: bolt
+            - link "Quote sms 0" [ref=e43] [cursor=pointer]:
+              - /url: https://stage-shop.phenomenex.com/eu/en/quote-cart.html
+              - text: Quote
+              - generic [ref=e44]: sms
+              - generic [ref=e45]: "0"
+            - link "Cart shopping_cart 2" [ref=e47] [cursor=pointer]:
+              - /url: https://stage-shop.phenomenex.com/eu/en/cart.html
+              - text: Cart
+              - generic [ref=e48]: shopping_cart
+              - generic [ref=e49]: "2"
+        - list [ref=e53]:
+          - listitem [ref=e54] [cursor=pointer]:
+            - generic [ref=e56]: LC
+          - listitem [ref=e57] [cursor=pointer]:
+            - generic [ref=e59]: GC
+          - listitem [ref=e60] [cursor=pointer]:
+            - generic [ref=e62]: Sample Prep
+          - listitem [ref=e63] [cursor=pointer]:
+            - link "Industry Applications" [ref=e65]:
+              - /url: /service-listing-industries
+          - listitem [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: Resources
+          - listitem [ref=e69] [cursor=pointer]:
+            - generic [ref=e71]: Our Company
+    - generic [ref=e77]:
+      - list [ref=e81]:
+        - listitem [ref=e82] [cursor=pointer]: Profile
+        - listitem [ref=e83] [cursor=pointer]: Order History
+        - listitem [ref=e84] [cursor=pointer]: CQA / CofA
+        - listitem [ref=e85] [cursor=pointer]: Favorites
+        - listitem [ref=e86] [cursor=pointer]: Promotions
+        - listitem [ref=e87] [cursor=pointer]: Quotes
+      - generic [ref=e89]:
+        - heading "Order History Within the last Industry" [level=1] [ref=e90]:
+          - text: Order History
+          - generic [ref=e94] [cursor=pointer]:
+            - combobox "Within the last Industry" [ref=e95]:
+              - generic [ref=e98]: Industry
+            - generic:
+              - generic: Within the last
+        - 'button "Ref. No: PT00002419 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e104] [cursor=pointer]':
+          - generic [ref=e108]:
+            - generic [ref=e109]:
+              - generic [ref=e110]:
+                - generic [ref=e111]: "Ref. No:"
+                - generic [ref=e112]: PT00002419
+              - generic [ref=e113]:
+                - generic [ref=e114]: "Order Date:"
+                - generic [ref=e115]: 26-Feb-2026
+              - generic [ref=e116]:
+                - generic [ref=e117]: "Order Status:"
+                - generic [ref=e118]: Pending
+              - generic [ref=e119]:
+                - generic [ref=e120]: "Ship To:"
+                - generic [ref=e121]: portugal_user6 testlname
+            - generic [ref=e122]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002415 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e126] [cursor=pointer]':
+          - generic [ref=e130]:
+            - generic [ref=e131]:
+              - generic [ref=e132]:
+                - generic [ref=e133]: "Ref. No:"
+                - generic [ref=e134]: PT00002415
+              - generic [ref=e135]:
+                - generic [ref=e136]: "Order Date:"
+                - generic [ref=e137]: 26-Feb-2026
+              - generic [ref=e138]:
+                - generic [ref=e139]: "Order Status:"
+                - generic [ref=e140]: Pending
+              - generic [ref=e141]:
+                - generic [ref=e142]: "Ship To:"
+                - generic [ref=e143]: portugal_user6 testlname
+            - generic [ref=e144]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002411 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e148] [cursor=pointer]':
+          - generic [ref=e152]:
+            - generic [ref=e153]:
+              - generic [ref=e154]:
+                - generic [ref=e155]: "Ref. No:"
+                - generic [ref=e156]: PT00002411
+              - generic [ref=e157]:
+                - generic [ref=e158]: "Order Date:"
+                - generic [ref=e159]: 26-Feb-2026
+              - generic [ref=e160]:
+                - generic [ref=e161]: "Order Status:"
+                - generic [ref=e162]: Pending
+              - generic [ref=e163]:
+                - generic [ref=e164]: "Ship To:"
+                - generic [ref=e165]: portugal_user6 testlname
+            - generic [ref=e166]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002407 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e170] [cursor=pointer]':
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - generic [ref=e176]:
+                - generic [ref=e177]: "Ref. No:"
+                - generic [ref=e178]: PT00002407
+              - generic [ref=e179]:
+                - generic [ref=e180]: "Order Date:"
+                - generic [ref=e181]: 26-Feb-2026
+              - generic [ref=e182]:
+                - generic [ref=e183]: "Order Status:"
+                - generic [ref=e184]: Pending
+              - generic [ref=e185]:
+                - generic [ref=e186]: "Ship To:"
+                - generic [ref=e187]: portugal_user6 testlname
+            - generic [ref=e188]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002403 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e192] [cursor=pointer]':
+          - generic [ref=e196]:
+            - generic [ref=e197]:
+              - generic [ref=e198]:
+                - generic [ref=e199]: "Ref. No:"
+                - generic [ref=e200]: PT00002403
+              - generic [ref=e201]:
+                - generic [ref=e202]: "Order Date:"
+                - generic [ref=e203]: 26-Feb-2026
+              - generic [ref=e204]:
+                - generic [ref=e205]: "Order Status:"
+                - generic [ref=e206]: Pending
+              - generic [ref=e207]:
+                - generic [ref=e208]: "Ship To:"
+                - generic [ref=e209]: portugal_user6 testlname
+            - generic [ref=e210]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002399 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e214] [cursor=pointer]':
+          - generic [ref=e218]:
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - generic [ref=e221]: "Ref. No:"
+                - generic [ref=e222]: PT00002399
+              - generic [ref=e223]:
+                - generic [ref=e224]: "Order Date:"
+                - generic [ref=e225]: 26-Feb-2026
+              - generic [ref=e226]:
+                - generic [ref=e227]: "Order Status:"
+                - generic [ref=e228]: Pending
+              - generic [ref=e229]:
+                - generic [ref=e230]: "Ship To:"
+                - generic [ref=e231]: portugal_user6 testlname
+            - generic [ref=e232]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002395 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e236] [cursor=pointer]':
+          - generic [ref=e240]:
+            - generic [ref=e241]:
+              - generic [ref=e242]:
+                - generic [ref=e243]: "Ref. No:"
+                - generic [ref=e244]: PT00002395
+              - generic [ref=e245]:
+                - generic [ref=e246]: "Order Date:"
+                - generic [ref=e247]: 26-Feb-2026
+              - generic [ref=e248]:
+                - generic [ref=e249]: "Order Status:"
+                - generic [ref=e250]: Pending
+              - generic [ref=e251]:
+                - generic [ref=e252]: "Ship To:"
+                - generic [ref=e253]: portugal_user6 testlname
+            - generic [ref=e254]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002391 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e258] [cursor=pointer]':
+          - generic [ref=e262]:
+            - generic [ref=e263]:
+              - generic [ref=e264]:
+                - generic [ref=e265]: "Ref. No:"
+                - generic [ref=e266]: PT00002391
+              - generic [ref=e267]:
+                - generic [ref=e268]: "Order Date:"
+                - generic [ref=e269]: 26-Feb-2026
+              - generic [ref=e270]:
+                - generic [ref=e271]: "Order Status:"
+                - generic [ref=e272]: Pending
+              - generic [ref=e273]:
+                - generic [ref=e274]: "Ship To:"
+                - generic [ref=e275]: portugal_user6 testlname
+            - generic [ref=e276]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002389 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e280] [cursor=pointer]':
+          - generic [ref=e284]:
+            - generic [ref=e285]:
+              - generic [ref=e286]:
+                - generic [ref=e287]: "Ref. No:"
+                - generic [ref=e288]: PT00002389
+              - generic [ref=e289]:
+                - generic [ref=e290]: "Order Date:"
+                - generic [ref=e291]: 26-Feb-2026
+              - generic [ref=e292]:
+                - generic [ref=e293]: "Order Status:"
+                - generic [ref=e294]: Pending
+              - generic [ref=e295]:
+                - generic [ref=e296]: "Ship To:"
+                - generic [ref=e297]: portugal_user6 testlname
+            - generic [ref=e298]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002384 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e302] [cursor=pointer]':
+          - generic [ref=e306]:
+            - generic [ref=e307]:
+              - generic [ref=e308]:
+                - generic [ref=e309]: "Ref. No:"
+                - generic [ref=e310]: PT00002384
+              - generic [ref=e311]:
+                - generic [ref=e312]: "Order Date:"
+                - generic [ref=e313]: 26-Feb-2026
+              - generic [ref=e314]:
+                - generic [ref=e315]: "Order Status:"
+                - generic [ref=e316]: Pending
+              - generic [ref=e317]:
+                - generic [ref=e318]: "Ship To:"
+                - generic [ref=e319]: portugal_user6 testlname
+            - generic [ref=e320]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002379 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e324] [cursor=pointer]':
+          - generic [ref=e328]:
+            - generic [ref=e329]:
+              - generic [ref=e330]:
+                - generic [ref=e331]: "Ref. No:"
+                - generic [ref=e332]: PT00002379
+              - generic [ref=e333]:
+                - generic [ref=e334]: "Order Date:"
+                - generic [ref=e335]: 26-Feb-2026
+              - generic [ref=e336]:
+                - generic [ref=e337]: "Order Status:"
+                - generic [ref=e338]: Pending
+              - generic [ref=e339]:
+                - generic [ref=e340]: "Ship To:"
+                - generic [ref=e341]: portugal_user6 testlname
+            - generic [ref=e342]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002375 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e346] [cursor=pointer]':
+          - generic [ref=e350]:
+            - generic [ref=e351]:
+              - generic [ref=e352]:
+                - generic [ref=e353]: "Ref. No:"
+                - generic [ref=e354]: PT00002375
+              - generic [ref=e355]:
+                - generic [ref=e356]: "Order Date:"
+                - generic [ref=e357]: 26-Feb-2026
+              - generic [ref=e358]:
+                - generic [ref=e359]: "Order Status:"
+                - generic [ref=e360]: Pending
+              - generic [ref=e361]:
+                - generic [ref=e362]: "Ship To:"
+                - generic [ref=e363]: portugal_user6 testlname
+            - generic [ref=e364]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002371 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e368] [cursor=pointer]':
+          - generic [ref=e372]:
+            - generic [ref=e373]:
+              - generic [ref=e374]:
+                - generic [ref=e375]: "Ref. No:"
+                - generic [ref=e376]: PT00002371
+              - generic [ref=e377]:
+                - generic [ref=e378]: "Order Date:"
+                - generic [ref=e379]: 26-Feb-2026
+              - generic [ref=e380]:
+                - generic [ref=e381]: "Order Status:"
+                - generic [ref=e382]: Pending
+              - generic [ref=e383]:
+                - generic [ref=e384]: "Ship To:"
+                - generic [ref=e385]: portugal_user6 testlname
+            - generic [ref=e386]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002368 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e390] [cursor=pointer]':
+          - generic [ref=e394]:
+            - generic [ref=e395]:
+              - generic [ref=e396]:
+                - generic [ref=e397]: "Ref. No:"
+                - generic [ref=e398]: PT00002368
+              - generic [ref=e399]:
+                - generic [ref=e400]: "Order Date:"
+                - generic [ref=e401]: 26-Feb-2026
+              - generic [ref=e402]:
+                - generic [ref=e403]: "Order Status:"
+                - generic [ref=e404]: Pending
+              - generic [ref=e405]:
+                - generic [ref=e406]: "Ship To:"
+                - generic [ref=e407]: portugal_user6 testlname
+            - generic [ref=e408]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002363 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e412] [cursor=pointer]':
+          - generic [ref=e416]:
+            - generic [ref=e417]:
+              - generic [ref=e418]:
+                - generic [ref=e419]: "Ref. No:"
+                - generic [ref=e420]: PT00002363
+              - generic [ref=e421]:
+                - generic [ref=e422]: "Order Date:"
+                - generic [ref=e423]: 26-Feb-2026
+              - generic [ref=e424]:
+                - generic [ref=e425]: "Order Status:"
+                - generic [ref=e426]: Pending
+              - generic [ref=e427]:
+                - generic [ref=e428]: "Ship To:"
+                - generic [ref=e429]: portugal_user6 testlname
+            - generic [ref=e430]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002359 Order Date: 26-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e434] [cursor=pointer]':
+          - generic [ref=e438]:
+            - generic [ref=e439]:
+              - generic [ref=e440]:
+                - generic [ref=e441]: "Ref. No:"
+                - generic [ref=e442]: PT00002359
+              - generic [ref=e443]:
+                - generic [ref=e444]: "Order Date:"
+                - generic [ref=e445]: 26-Feb-2026
+              - generic [ref=e446]:
+                - generic [ref=e447]: "Order Status:"
+                - generic [ref=e448]: Pending
+              - generic [ref=e449]:
+                - generic [ref=e450]: "Ship To:"
+                - generic [ref=e451]: portugal_user6 testlname
+            - generic [ref=e452]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002355 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e456] [cursor=pointer]':
+          - generic [ref=e460]:
+            - generic [ref=e461]:
+              - generic [ref=e462]:
+                - generic [ref=e463]: "Ref. No:"
+                - generic [ref=e464]: PT00002355
+              - generic [ref=e465]:
+                - generic [ref=e466]: "Order Date:"
+                - generic [ref=e467]: 25-Feb-2026
+              - generic [ref=e468]:
+                - generic [ref=e469]: "Order Status:"
+                - generic [ref=e470]: Pending
+              - generic [ref=e471]:
+                - generic [ref=e472]: "Ship To:"
+                - generic [ref=e473]: portugal_user6 testlname
+            - generic [ref=e474]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002352 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e478] [cursor=pointer]':
+          - generic [ref=e482]:
+            - generic [ref=e483]:
+              - generic [ref=e484]:
+                - generic [ref=e485]: "Ref. No:"
+                - generic [ref=e486]: PT00002352
+              - generic [ref=e487]:
+                - generic [ref=e488]: "Order Date:"
+                - generic [ref=e489]: 25-Feb-2026
+              - generic [ref=e490]:
+                - generic [ref=e491]: "Order Status:"
+                - generic [ref=e492]: Pending
+              - generic [ref=e493]:
+                - generic [ref=e494]: "Ship To:"
+                - generic [ref=e495]: portugal_user6 testlname
+            - generic [ref=e496]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002347 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e500] [cursor=pointer]':
+          - generic [ref=e504]:
+            - generic [ref=e505]:
+              - generic [ref=e506]:
+                - generic [ref=e507]: "Ref. No:"
+                - generic [ref=e508]: PT00002347
+              - generic [ref=e509]:
+                - generic [ref=e510]: "Order Date:"
+                - generic [ref=e511]: 25-Feb-2026
+              - generic [ref=e512]:
+                - generic [ref=e513]: "Order Status:"
+                - generic [ref=e514]: Pending
+              - generic [ref=e515]:
+                - generic [ref=e516]: "Ship To:"
+                - generic [ref=e517]: portugal_user6 testlname
+            - generic [ref=e518]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002343 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e522] [cursor=pointer]':
+          - generic [ref=e526]:
+            - generic [ref=e527]:
+              - generic [ref=e528]:
+                - generic [ref=e529]: "Ref. No:"
+                - generic [ref=e530]: PT00002343
+              - generic [ref=e531]:
+                - generic [ref=e532]: "Order Date:"
+                - generic [ref=e533]: 25-Feb-2026
+              - generic [ref=e534]:
+                - generic [ref=e535]: "Order Status:"
+                - generic [ref=e536]: Pending
+              - generic [ref=e537]:
+                - generic [ref=e538]: "Ship To:"
+                - generic [ref=e539]: portugal_user6 testlname
+            - generic [ref=e540]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002339 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e544] [cursor=pointer]':
+          - generic [ref=e548]:
+            - generic [ref=e549]:
+              - generic [ref=e550]:
+                - generic [ref=e551]: "Ref. No:"
+                - generic [ref=e552]: PT00002339
+              - generic [ref=e553]:
+                - generic [ref=e554]: "Order Date:"
+                - generic [ref=e555]: 25-Feb-2026
+              - generic [ref=e556]:
+                - generic [ref=e557]: "Order Status:"
+                - generic [ref=e558]: Pending
+              - generic [ref=e559]:
+                - generic [ref=e560]: "Ship To:"
+                - generic [ref=e561]: portugal_user6 testlname
+            - generic [ref=e562]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002335 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e566] [cursor=pointer]':
+          - generic [ref=e570]:
+            - generic [ref=e571]:
+              - generic [ref=e572]:
+                - generic [ref=e573]: "Ref. No:"
+                - generic [ref=e574]: PT00002335
+              - generic [ref=e575]:
+                - generic [ref=e576]: "Order Date:"
+                - generic [ref=e577]: 25-Feb-2026
+              - generic [ref=e578]:
+                - generic [ref=e579]: "Order Status:"
+                - generic [ref=e580]: Pending
+              - generic [ref=e581]:
+                - generic [ref=e582]: "Ship To:"
+                - generic [ref=e583]: portugal_user6 testlname
+            - generic [ref=e584]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002331 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e588] [cursor=pointer]':
+          - generic [ref=e592]:
+            - generic [ref=e593]:
+              - generic [ref=e594]:
+                - generic [ref=e595]: "Ref. No:"
+                - generic [ref=e596]: PT00002331
+              - generic [ref=e597]:
+                - generic [ref=e598]: "Order Date:"
+                - generic [ref=e599]: 25-Feb-2026
+              - generic [ref=e600]:
+                - generic [ref=e601]: "Order Status:"
+                - generic [ref=e602]: Pending
+              - generic [ref=e603]:
+                - generic [ref=e604]: "Ship To:"
+                - generic [ref=e605]: portugal_user6 testlname
+            - generic [ref=e606]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002327 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e610] [cursor=pointer]':
+          - generic [ref=e614]:
+            - generic [ref=e615]:
+              - generic [ref=e616]:
+                - generic [ref=e617]: "Ref. No:"
+                - generic [ref=e618]: PT00002327
+              - generic [ref=e619]:
+                - generic [ref=e620]: "Order Date:"
+                - generic [ref=e621]: 25-Feb-2026
+              - generic [ref=e622]:
+                - generic [ref=e623]: "Order Status:"
+                - generic [ref=e624]: Pending
+              - generic [ref=e625]:
+                - generic [ref=e626]: "Ship To:"
+                - generic [ref=e627]: portugal_user6 testlname
+            - generic [ref=e628]: keyboard_arrow_down
+        - 'button "Ref. No: PT00002324 Order Date: 25-Feb-2026 Order Status: Pending Ship To: portugal_user6 testlname keyboard_arrow_down" [ref=e632] [cursor=pointer]':
+          - generic [ref=e636]:
+            - generic [ref=e637]:
+              - generic [ref=e638]:
+                - generic [ref=e639]: "Ref. No:"
+                - generic [ref=e640]: PT00002324
+              - generic [ref=e641]:
+                - generic [ref=e642]: "Order Date:"
+                - generic [ref=e643]: 25-Feb-2026
+              - generic [ref=e644]:
+                - generic [ref=e645]: "Order Status:"
+                - generic [ref=e646]: Pending
+              - generic [ref=e647]:
+                - generic [ref=e648]: "Ship To:"
+                - generic [ref=e649]: portugal_user6 testlname
+            - generic [ref=e650]: keyboard_arrow_down
+        - link "Show More keyboard_arrow_down" [ref=e652] [cursor=pointer]:
+          - /url: javascript:void(0);
+          - generic [ref=e653]: Show More
+          - generic [ref=e654]: keyboard_arrow_down
+    - generic [ref=e657]:
+      - generic [ref=e660]:
+        - generic [ref=e661]:
+          - generic [ref=e662]:
+            - img "Phenomenex" [ref=e664]
+            - generic [ref=e666]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+            - link "Connect With Us" [ref=e668] [cursor=pointer]:
+              - /url: https://discover.phenomenex.com/customersupport
+          - generic [ref=e670]:
+            - generic [ref=e671]:
+              - paragraph [ref=e672]: Products and Services
+              - paragraph [ref=e673]:
+                - link "Products" [ref=e674] [cursor=pointer]:
+                  - /url: /service-listing-products
+              - paragraph [ref=e675]:
+                - link "Techniques" [ref=e676] [cursor=pointer]:
+                  - /url: /service-listing-techniques
+              - paragraph [ref=e677]:
+                - link "Industries" [ref=e678] [cursor=pointer]:
+                  - /url: /service-listing-industries
+              - paragraph [ref=e679]:
+                - link "Quick Order" [ref=e680] [cursor=pointer]:
+                  - /url: /quick-order
+            - generic [ref=e681]:
+              - paragraph [ref=e682]: Support
+              - paragraph [ref=e683]:
+                - link "Product/Method Support" [ref=e684] [cursor=pointer]:
+                  - /url: https://discover.phenomenex.com/customersupport
+              - paragraph [ref=e685]:
+                - link "Troubleshooting Help" [ref=e686] [cursor=pointer]:
+                  - /url: https://discover.phenomenex.com/technical-support
+              - paragraph [ref=e687]:
+                - link "Contact Us" [ref=e688] [cursor=pointer]:
+                  - /url: /contact-us
+              - paragraph [ref=e689]:
+                - link "CQA / CofA" [ref=e690] [cursor=pointer]:
+                  - /url: /dashboard/cqa
+            - generic [ref=e691]:
+              - paragraph [ref=e692]: Our company
+              - paragraph [ref=e693]:
+                - link "About Phenomenex" [ref=e694] [cursor=pointer]:
+                  - /url: /our-company/about-phenomenex
+              - paragraph [ref=e695]:
+                - link "Blog" [ref=e696] [cursor=pointer]:
+                  - /url: /our-company/phenomenex-blog
+              - paragraph [ref=e697]:
+                - link "News" [ref=e698] [cursor=pointer]:
+                  - /url: /news
+              - paragraph [ref=e699]:
+                - link "Danaher Life Sciences" [ref=e700] [cursor=pointer]:
+                  - /url: https://lifesciences.danaher.com/?utm_source=phenomenex_website&amp;utm_medium=referral&amp;utm_content=footer&amp;ajs_aid=d5d95cbf-ead4-43e4-a243-b3a5be722d51
+          - generic [ref=e701]:
+            - generic [ref=e702]:
+              - link "Facebook" [ref=e703] [cursor=pointer]:
+                - /url: http://www.facebook.com/phenomenex
+                - img "Facebook" [ref=e704]
+              - link "Instagram" [ref=e705] [cursor=pointer]:
+                - /url: https://www.instagram.com/phenomenex
+                - img "Instagram" [ref=e706]
+              - link "Linkedln" [ref=e707] [cursor=pointer]:
+                - /url: http://www.linkedin.com/company/phenomenex
+                - img "Linkedln" [ref=e708]
+              - link "Twitter" [ref=e709] [cursor=pointer]:
+                - /url: http://www.twitter.com/phenomenex
+                - img "Twitter" [ref=e710]
+              - link "Youtube" [ref=e711] [cursor=pointer]:
+                - /url: http://www.youtube.com/user/phenomenex
+                - img "Youtube" [ref=e712]
+            - img "Danaher" [ref=e713]
+        - generic [ref=e717]:
+          - link "Company Logo" [ref=e718] [cursor=pointer]:
+            - /url: https://www.abcam.com
+            - img "Company Logo" [ref=e719]
+          - link "Company Logo" [ref=e720] [cursor=pointer]:
+            - /url: https://www.aldevron.com
+            - img "Company Logo" [ref=e721]
+          - link "Company Logo" [ref=e722] [cursor=pointer]:
+            - /url: https://www.mybeckman.com
+            - img "Company Logo" [ref=e723]
+          - link "Company Logo" [ref=e724] [cursor=pointer]:
+            - /url: https://www.genedata.com
+            - img "Company Logo" [ref=e725]
+          - link "Company Logo" [ref=e726] [cursor=pointer]:
+            - /url: https://www.idbs.com
+            - img "Company Logo" [ref=e727]
+          - link "Company Logo" [ref=e728] [cursor=pointer]:
+            - /url: https://www.idtdna.com
+            - img "Company Logo" [ref=e729]
+          - link "Company Logo" [ref=e730] [cursor=pointer]:
+            - /url: https://www.leica-microsystems.com
+            - img "Company Logo" [ref=e731]
+          - link "Company Logo" [ref=e732] [cursor=pointer]:
+            - /url: https://www.moleculardevices.com
+            - img "Company Logo" [ref=e733]
+          - link "Company Logo" [ref=e734] [cursor=pointer]:
+            - /url: https://sciex.com/
+            - img "Company Logo" [ref=e735]
+      - generic [ref=e738]:
+        - generic [ref=e740]:
+          - generic [ref=e741]:
+            - link "Terms and Conditions" [ref=e742] [cursor=pointer]:
+              - /url: /phx-terms-and-conditions-of-sale
+            - text: "|"
+          - generic [ref=e743]:
+            - link "Privacy Statement" [ref=e744] [cursor=pointer]:
+              - /url: /phx-privacy-policy
+            - text: "|"
+          - generic [ref=e745]:
+            - link "Quality Policy" [ref=e746] [cursor=pointer]:
+              - /url: /phx-quality-policy
+            - text: "|"
+          - generic [ref=e747]:
+            - link "Terms of Use" [ref=e748] [cursor=pointer]:
+              - /url: /phx-site-terms-of-use
+            - text: "|"
+          - generic [ref=e749]:
+            - link "Trademarks" [ref=e750] [cursor=pointer]:
+              - /url: /phx-trademarks
+            - text: "|"
+          - generic [ref=e751]:
+            - link "CA Supply Chains Act" [ref=e752] [cursor=pointer]:
+              - /url: /phx-california-supply-chains-act
+            - text: "|"
+          - generic [ref=e753]:
+            - link "CA Consumer Privacy" [ref=e754] [cursor=pointer]:
+              - /url: /phx-california-consumer-rights-notice
+            - text: "|"
+          - generic [ref=e755]:
+            - link "Cookie Policy" [ref=e756] [cursor=pointer]:
+              - /url: /phx-cookie-policy
+            - text: "|"
+          - generic [ref=e757]:
+            - link "Cookie Settings" [ref=e758] [cursor=pointer]:
+              - /url: /phx-cookie-policy
+            - text: "|"
+          - link "Impressum" [ref=e760] [cursor=pointer]:
+            - /url: /phx-impressum
+        - generic [ref=e761]: © 2026 Phenomenex Inc. All rights reserved.
+  - iframe [ref=e763]:
+    - button "Click to start chatting" [ref=f26e2] [cursor=pointer]:
+      - img [ref=f26e4]
+  - generic:
+    - generic:
+      - generic [ref=e764]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more.}"
+      - iframe [ref=e765]:
+        - generic [ref=f14e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f14e2]:
+            - img [ref=f14e3]
+          - generic [ref=f14e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f14e6]:
+              - generic [ref=f14e8]:
+                - text: LIVE CHAT NOW!
+                - text: Our experts can help with product recommendations, quotes and more.
+            - button "Type and start" [ref=f14e9]
+```

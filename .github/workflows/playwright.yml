@@ -1,0 +1,63 @@
+name: Phenomenenx
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps
+
+      - name: Run regression tests
+        env: 
+          PREVIEW_DIR: previews/${{ github.ref_name }}/$(date +%Y-%m-%d-%H%M%S)
+        run: |
+          echo "Using preview dir: $PREVIEW_DIR"
+          mkdir -p "$PREVIEW_DIR"
+
+          # Do NOT fail workflow if tests fail
+          npx playwright test tests/Regression/CoreScenarios || true
+
+      - name: Convert JSON to Excel
+        run: |
+          npm install xlsx
+          node convert-to-excel.js || echo "⚠ Excel generation failed, continuing workflow..."
+
+      - name: Upload Excel Report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: Playwright-Excel-Report
+          path: Playwright_Test_Report.xlsx
+          
+      - name: Show preview structure
+        run: |
+          echo "Preview folder structure:"
+          ls -R previews || echo "No previews generated"
+
+      - name: Commit previews
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          git add -f previews/
+          git diff --cached --quiet || git commit -m "Update Playwright screenshots & videos [skip ci]"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
