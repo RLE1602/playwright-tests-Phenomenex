@@ -1,0 +1,151 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner
+  - contentinfo [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+          - link "CONNECT WITH US" [ref=e15] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: Products and Services
+          - link "Products" [ref=e18] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-products?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - link "Techniques" [ref=e19] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-techniques?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - link "Industries" [ref=e20] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-industries?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - link "Quick Order" [ref=e21] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/quick-order?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: Support
+          - link "Product Method Support" [ref=e24] [cursor=pointer]:
+            - /url: "#"
+          - link "Product Troubleshooting" [ref=e25] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact Us" [ref=e26] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/contact-us?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - link "CQA / CofA" [ref=e27] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/dashboard/cqa?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+        - generic [ref=e28]:
+          - paragraph [ref=e29]: Our company
+          - link "About Phenomenex" [ref=e30] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/our-company/about-phenomenex?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - link "Blog" [ref=e31] [cursor=pointer]:
+            - /url: https://phenomenex.blog/
+          - link "News" [ref=e32] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/news?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - link "Danaher Life Sciences" [ref=e33] [cursor=pointer]:
+            - /url: https://lifesciences.danaher.com/
+        - generic [ref=e35]:
+          - link [ref=e36] [cursor=pointer]:
+            - /url: https://www.facebook.com/phenomenex
+          - link [ref=e37] [cursor=pointer]:
+            - /url: https://www.instagram.com/accounts/login/
+          - link [ref=e38] [cursor=pointer]:
+            - /url: http://www.linkedin.com/company/phenomenex
+          - link [ref=e39] [cursor=pointer]:
+            - /url: http://www.twitter.com/phenomenex
+          - link [ref=e40] [cursor=pointer]:
+            - /url: http://www.youtube.com/user/phenomenex
+      - generic [ref=e43]:
+        - link "Company Logo" [ref=e45] [cursor=pointer]:
+          - /url: https://www.abcam.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e46]
+        - link "Company Logo" [ref=e48] [cursor=pointer]:
+          - /url: https://www.aldevron.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e49]
+        - link "Company Logo" [ref=e51] [cursor=pointer]:
+          - /url: https://www.mybeckman.com/
+          - img "Company Logo" [ref=e52]
+        - link "Company Logo" [ref=e54] [cursor=pointer]:
+          - /url: https://www.genedata.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e55]
+        - link "Company Logo" [ref=e57] [cursor=pointer]:
+          - /url: https://www.idbs.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e58]
+        - link "Company Logo" [ref=e60] [cursor=pointer]:
+          - /url: https://www.idtdna.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e61]
+        - link "Company Logo" [ref=e63] [cursor=pointer]:
+          - /url: https://www.leica-microsystems.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e64]
+        - link "Company Logo" [ref=e66] [cursor=pointer]:
+          - /url: https://www.moleculardevices.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e67]
+        - link "Company Logo" [ref=e69] [cursor=pointer]:
+          - /url: https://sciex.com/?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - img "Company Logo" [ref=e70]
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - link "Terms and Conditions" [ref=e75] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-terms-and-conditions-of-sale?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "Privacy Statement" [ref=e76] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-privacy-policy?utm_source=dhls_website&ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "Quality Policy" [ref=e77] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-quality-policy?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "Terms of Use" [ref=e78] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-site-terms-of-use?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "Trademarks" [ref=e79] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-trademarks?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "CA Supply Chains Act" [ref=e80] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-california-supply-chains-act?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "Cookie Policy" [ref=e81] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-cookie-policy?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+          - text: "|"
+          - link "Impressum" [ref=e82] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-impressum?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+        - link "© 2025 Phenomenex Inc. All rights reserved." [ref=e83] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/phx-privacy-policy?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+      - generic [ref=e84]:
+        - generic [ref=e85]: "Also of Interest:"
+        - link "Our Products | Phenomenex Product Listing" [ref=e86] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/service-listing-products?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+        - text: "|"
+        - 'link "Novum: Faster, Easier, Reliable SLE Simplified" [ref=e87] [cursor=pointer]':
+          - /url: https://stage10.phenomenex.com/documents/2022/05/20/18/54/novum-faster-easier-reliable-sle-simplified?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+        - text: "|"
+        - link "Zebron Gas Chromatography Columns | Phenomenex" [ref=e88] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/products/zebron-gc-columns?ajs_aid=05b56178-2173-40bd-84d4-6034959002c1
+  - iframe [ref=e91]:
+    - generic [ref=f28e4]:
+      - text: protected by
+      - strong [ref=f28e5]: reCAPTCHA
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button "Feedback - Show survey" [ref=e92] [cursor=pointer]:
+                - img [ref=e94]
+                - generic [ref=e96]: Feedback
+              - dialog:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=2]: How would you rate your experience?
+                          - radiogroup:
+                            - generic:
+                              - generic: Not satisfied at all
+                              - generic: Very satisfied
+                        - generic:
+                          - generic:
+                            - button [disabled]: Next
+  - iframe [ref=e97]:
+    - button "Open Live Chat window" [ref=f33e2] [cursor=pointer]:
+      - img [ref=f33e4]
+```

@@ -1,0 +1,161 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - banner
+  - contentinfo [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+          - link "CONNECT WITH US" [ref=e15] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: Products and Services
+          - link "Products" [ref=e18] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-products
+          - link "Techniques" [ref=e19] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-techniques
+          - link "Industries" [ref=e20] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-industries
+          - link "Quick Order" [ref=e21] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/quick-order
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: Support
+          - link "Product Method Support" [ref=e24] [cursor=pointer]:
+            - /url: "#"
+          - link "Product Troubleshooting" [ref=e25] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact Us" [ref=e26] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/contact-us
+          - link "CQA / CofA" [ref=e27] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/dashboard/cqa
+        - generic [ref=e28]:
+          - paragraph [ref=e29]: Our company
+          - link "About Phenomenex" [ref=e30] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/our-company/about-phenomenex
+          - link "Blog" [ref=e31] [cursor=pointer]:
+            - /url: https://phenomenex.blog/
+          - link "News" [ref=e32] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/news
+          - link "Danaher Life Sciences" [ref=e33] [cursor=pointer]:
+            - /url: https://lifesciences.danaher.com/
+        - generic [ref=e35]:
+          - link [ref=e36] [cursor=pointer]:
+            - /url: https://www.facebook.com/phenomenex
+          - link [ref=e37] [cursor=pointer]:
+            - /url: https://www.instagram.com/accounts/login/
+          - link [ref=e38] [cursor=pointer]:
+            - /url: http://www.linkedin.com/company/phenomenex
+          - link [ref=e39] [cursor=pointer]:
+            - /url: http://www.twitter.com/phenomenex
+          - link [ref=e40] [cursor=pointer]:
+            - /url: http://www.youtube.com/user/phenomenex
+      - generic [ref=e43]:
+        - link "Company Logo" [ref=e45] [cursor=pointer]:
+          - /url: https://www.abcam.com/
+          - img "Company Logo" [ref=e46]
+        - link "Company Logo" [ref=e48] [cursor=pointer]:
+          - /url: https://www.aldevron.com/
+          - img "Company Logo" [ref=e49]
+        - link "Company Logo" [ref=e51] [cursor=pointer]:
+          - /url: https://www.mybeckman.com/
+          - img "Company Logo" [ref=e52]
+        - link "Company Logo" [ref=e54] [cursor=pointer]:
+          - /url: https://www.genedata.com/
+          - img "Company Logo" [ref=e55]
+        - link "Company Logo" [ref=e57] [cursor=pointer]:
+          - /url: https://www.idbs.com/
+          - img "Company Logo" [ref=e58]
+        - link "Company Logo" [ref=e60] [cursor=pointer]:
+          - /url: https://www.idtdna.com/
+          - img "Company Logo" [ref=e61]
+        - link "Company Logo" [ref=e63] [cursor=pointer]:
+          - /url: https://www.leica-microsystems.com/
+          - img "Company Logo" [ref=e64]
+        - link "Company Logo" [ref=e66] [cursor=pointer]:
+          - /url: https://www.moleculardevices.com/
+          - img "Company Logo" [ref=e67]
+        - link "Company Logo" [ref=e69] [cursor=pointer]:
+          - /url: https://sciex.com/
+          - img "Company Logo" [ref=e70]
+    - generic [ref=e72]:
+      - generic [ref=e73]:
+        - generic [ref=e74]:
+          - link "Terms and Conditions" [ref=e75] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-terms-and-conditions-of-sale
+          - text: "|"
+          - link "Privacy Statement" [ref=e76] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-privacy-policy?utm_source=dhls_website
+          - text: "|"
+          - link "Quality Policy" [ref=e77] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-quality-policy
+          - text: "|"
+          - link "Terms of Use" [ref=e78] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-site-terms-of-use
+          - text: "|"
+          - link "Trademarks" [ref=e79] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-trademarks
+          - text: "|"
+          - link "CA Supply Chains Act" [ref=e80] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-california-supply-chains-act
+          - text: "|"
+          - link "Cookie Policy" [ref=e81] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-cookie-policy
+          - text: "|"
+          - link "Impressum" [ref=e82] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-impressum
+        - link "© 2025 Phenomenex Inc. All rights reserved." [ref=e83] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/phx-privacy-policy
+      - generic [ref=e84]:
+        - generic [ref=e85]: "Also of Interest:"
+        - link "Our Products | Phenomenex Product Listing" [ref=e86] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/service-listing-products
+        - text: "|"
+        - 'link "Novum: Faster, Easier, Reliable SLE Simplified" [ref=e87] [cursor=pointer]':
+          - /url: https://stage10.phenomenex.com/documents/2022/05/20/18/54/novum-faster-easier-reliable-sle-simplified
+        - text: "|"
+        - link "Zebron Gas Chromatography Columns | Phenomenex" [ref=e88] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/products/zebron-gc-columns
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button "Feedback - Show survey" [ref=e89] [cursor=pointer]:
+                - img [ref=e91]
+                - generic [ref=e93]: Feedback
+              - dialog:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - heading [level=2]: How would you rate your experience?
+                          - radiogroup:
+                            - generic:
+                              - generic: Not satisfied at all
+                              - generic: Very satisfied
+                        - generic:
+                          - generic:
+                            - button [disabled]: Next
+  - iframe [ref=e96]:
+    - generic [ref=f4e4]:
+      - text: protected by
+      - strong [ref=f4e5]: reCAPTCHA
+  - dialog "Privacy" [ref=e99]:
+    - generic [ref=e100]:
+      - generic [ref=e101]:
+        - generic:
+          - generic [ref=e102]:
+            - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
+            - link ", opens in a new tab" [ref=e103] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/phx-cookie-policy
+              - text: Cookie Notice
+          - button "Phenomenex Cookie Partners Details" [ref=e104] [cursor=pointer]
+      - generic [ref=e106]:
+        - button "Cookie Settings, Opens the preference center dialog" [ref=e107] [cursor=pointer]: Cookie Settings
+        - button "Accept All Cookies" [ref=e109] [cursor=pointer]
+```
