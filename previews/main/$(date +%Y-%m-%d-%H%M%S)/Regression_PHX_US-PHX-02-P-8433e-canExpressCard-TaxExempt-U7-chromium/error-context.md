@@ -33,11 +33,11 @@
               - text: Quote
               - generic [ref=e44]: sms
               - generic [ref=e45]: "1"
-            - link "Cart shopping_cart 2" [ref=e47] [cursor=pointer]:
+            - link "Cart shopping_cart 17" [ref=e47] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/cart.html
               - text: Cart
               - generic [ref=e48]: shopping_cart
-              - generic [ref=e49]: "2"
+              - generic [ref=e49]: "17"
         - list [ref=e53]:
           - listitem [ref=e54] [cursor=pointer]:
             - generic [ref=e56]: LC
@@ -76,11 +76,11 @@
               - text: Documents
               - generic [ref=e93]: "0"
           - listitem [ref=e94] [cursor=pointer]:
-            - link "widgets Part Numbers 175" [ref=e95]:
+            - link "widgets Part Numbers 176" [ref=e95]:
               - /url: javascript:void(0)
               - generic [ref=e96]: widgets
               - text: Part Numbers
-              - generic [ref=e97]: "175"
+              - generic [ref=e97]: "176"
           - listitem [ref=e98] [cursor=pointer]:
             - link "web Product Information 0" [ref=e99]:
               - /url: javascript:void(0)
@@ -163,12 +163,12 @@
             - listitem [ref=e171] [cursor=pointer]:
               - generic [ref=e173]:
                 - generic [ref=e174]:
-                  - checkbox "Lux 45" [ref=e175]
+                  - checkbox "Lux 46" [ref=e175]
                   - generic:
                     - img
                 - generic [ref=e177]:
                   - generic [ref=e178]: Lux
-                  - generic [ref=e179]: "45"
+                  - generic [ref=e179]: "46"
             - listitem [ref=e180] [cursor=pointer]:
               - generic [ref=e182]:
                 - generic [ref=e183]:
@@ -215,8 +215,8 @@
         - generic [ref=e232]:
           - img [ref=e234]
           - generic [ref=e235]:
-            - generic [ref=e236]: "Part: 00D-4496-A0"
-            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e236]: "Part: 00B-4496-A0"
+            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e239]: ()
           - generic [ref=e240]:
             - generic [ref=e242]:
@@ -230,8 +230,8 @@
         - generic [ref=e255]:
           - img [ref=e257]
           - generic [ref=e258]:
-            - generic [ref=e259]: "Part: 00B-4496-A0"
-            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e259]: "Part: 00D-4496-A0"
+            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e262]: ()
           - generic [ref=e263]:
             - generic [ref=e265]:
@@ -395,8 +395,8 @@
         - generic [ref=e508]:
           - img [ref=e510]
           - generic [ref=e511]:
-            - generic [ref=e512]: "Part: 00F-4162-A0"
-            - paragraph [ref=e513] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e512]: "Part: 00F-4167-A0"
+            - paragraph [ref=e513] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e515]: ()
           - generic [ref=e516]:
             - generic [ref=e518]:
@@ -410,8 +410,8 @@
         - generic [ref=e531]:
           - img [ref=e533]
           - generic [ref=e534]:
-            - generic [ref=e535]: "Part: 00F-4167-A0"
-            - paragraph [ref=e536] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e535]: "Part: 00F-4162-A0"
+            - paragraph [ref=e536] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e538]: ()
           - generic [ref=e539]:
             - generic [ref=e541]:
@@ -440,8 +440,8 @@
         - generic [ref=e577]:
           - img [ref=e579]
           - generic [ref=e580]:
-            - generic [ref=e581]: "Part: 00F-4726-A0"
-            - paragraph [ref=e582] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e581]: "Part: 00F-4248-A0"
+            - paragraph [ref=e582] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e584]: ()
           - generic [ref=e585]:
             - generic [ref=e587]:
@@ -455,8 +455,8 @@
         - generic [ref=e600]:
           - img [ref=e602]
           - generic [ref=e603]:
-            - generic [ref=e604]: "Part: 00F-4248-A0"
-            - paragraph [ref=e605] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e604]: "Part: 00F-4726-A0"
+            - paragraph [ref=e605] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
             - generic [ref=e607]: ()
           - generic [ref=e608]:
             - generic [ref=e610]:
@@ -560,8 +560,8 @@
         - generic [ref=e761]:
           - img [ref=e763]
           - generic [ref=e764]:
-            - generic [ref=e765]: "Part: 00C-4496-Y0"
-            - paragraph [ref=e766] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 3 mm, Ea
+            - generic [ref=e765]: "Part: 00C-4496-E0"
+            - paragraph [ref=e766] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 4.6 mm, Ea
             - generic [ref=e768]: ()
           - generic [ref=e769]:
             - generic [ref=e771]:
@@ -715,19 +715,19 @@
             - /url: /phx-impressum
         - generic [ref=e891]: © 2026 Phenomenex Inc. All rights reserved.
   - iframe [ref=e893]:
-    - button "Click to start chatting" [ref=f19e2] [cursor=pointer]:
-      - img [ref=f19e4]
+    - button "Click to start chatting" [ref=f21e2] [cursor=pointer]:
+      - img [ref=f21e4]
   - generic:
     - generic:
       - generic [ref=e894]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more.}"
       - iframe [ref=e895]:
-        - generic [ref=f11e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f11e2]:
-            - img [ref=f11e3]
-          - generic [ref=f11e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f11e6]:
-              - generic [ref=f11e8]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f13e6]:
+              - generic [ref=f13e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more.
-            - button "Type and start" [ref=f11e9]
+            - button "Type and start" [ref=f13e9]
 ```
