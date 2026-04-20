@@ -2,834 +2,813 @@
 
 ```yaml
 - generic [ref=e1]:
-  - generic [ref=e9]:
-    - generic [ref=e13]:
-      - generic [ref=e16]:
-        - generic [ref=e18]:
+  - generic [ref=e10]:
+    - generic [ref=e14]:
+      - generic [ref=e17]:
+        - generic [ref=e19]:
           - link "white_wave_logo":
             - /url: /
-            - img "white_wave_logo" [ref=e19] [cursor=pointer]
-        - list [ref=e21]:
-          - listitem [ref=e22] [cursor=pointer]:
-            - button "Welcome U7_stage account_circle" [ref=e24]:
-              - generic [ref=e25]: Welcome U7_stage
-              - generic [ref=e26]: account_circle
-          - listitem [ref=e27]:
-            - generic [ref=e29]:
+            - img "white_wave_logo" [ref=e20] [cursor=pointer]
+        - list [ref=e22]:
+          - listitem [ref=e23] [cursor=pointer]:
+            - button "Welcome U7_stage account_circle" [ref=e25]:
+              - generic [ref=e26]: Welcome U7_stage
+              - generic [ref=e27]: account_circle
+          - listitem [ref=e28]:
+            - generic [ref=e30]:
               - text: United States
-              - generic [ref=e30]: language
-      - generic [ref=e32]:
-        - generic [ref=e33]:
-          - generic [ref=e37]:
-            - generic [ref=e38]:
-              - generic [ref=e40] [cursor=pointer]: search
-              - textbox "Search by Part No., Product, Application, or Keyword" [ref=e41]: 00B-4446-B0
-            - generic [ref=e42]:
-              - generic [ref=e43]:
-                - textbox "Search by Part No., Product, Application, or Keyword" [ref=e44]: 00B-4446-B0
-                - generic [ref=e46] [cursor=pointer]: search
-                - generic [ref=e48] [cursor=pointer]: close
-              - generic [ref=e49]:
-                - list [ref=e50]:
-                  - listitem [ref=e51]: 00B-4446-B0 in Application Search
-                - list [ref=e52]:
-                  - listitem [ref=e53]: 00B-4446-B0 in Documents
-                  - listitem [ref=e54]: 00B-4446-B0 in Part Numbers
-                  - listitem [ref=e55]: 00B-4446-B0 in Product Information
-                  - listitem [ref=e56]: 00B-4446-B0 in Webinars
-                  - listitem [ref=e57]: 00B-4446-B0 in Blog
-          - generic [ref=e59]:
-            - link "Quick Order bolt" [ref=e61] [cursor=pointer]:
+              - generic [ref=e31]: language
+      - generic [ref=e33]:
+        - generic [ref=e34]:
+          - generic [ref=e39]:
+            - generic [ref=e41] [cursor=pointer]: search
+            - textbox "Search by Part No., Product, Application, or Keyword" [ref=e42]: 00F-4496-A0
+          - generic [ref=e44]:
+            - link "Quick Order bolt" [ref=e46] [cursor=pointer]:
               - /url: /quick-order
               - text: Quick Order
-              - generic [ref=e62]: bolt
-            - link "Quote sms 1" [ref=e64] [cursor=pointer]:
+              - generic [ref=e47]: bolt
+            - link "Quote sms 1" [ref=e49] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/quote-cart.html
               - text: Quote
-              - generic [ref=e65]: sms
-              - generic [ref=e66]: "1"
-            - link "Cart shopping_cart 63" [ref=e68] [cursor=pointer]:
+              - generic [ref=e50]: sms
+              - generic [ref=e51]: "1"
+            - link "Cart shopping_cart 68" [ref=e53] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/cart.html
               - text: Cart
-              - generic [ref=e69]: shopping_cart
-              - generic [ref=e70]: "63"
-        - list [ref=e74]:
-          - listitem [ref=e75] [cursor=pointer]:
-            - generic [ref=e77]: LC
-          - listitem [ref=e78] [cursor=pointer]:
-            - generic [ref=e80]: GC
-          - listitem [ref=e81] [cursor=pointer]:
-            - generic [ref=e83]: Sample Prep
-          - listitem [ref=e84] [cursor=pointer]:
-            - link "Industry Applications" [ref=e86]:
+              - generic [ref=e54]: shopping_cart
+              - generic [ref=e55]: "68"
+        - list [ref=e59]:
+          - listitem [ref=e60] [cursor=pointer]:
+            - generic [ref=e62]: LC
+          - listitem [ref=e63] [cursor=pointer]:
+            - generic [ref=e65]: GC
+          - listitem [ref=e66] [cursor=pointer]:
+            - generic [ref=e68]: Sample Prep
+          - listitem [ref=e69] [cursor=pointer]:
+            - link "Industry Applications" [ref=e71]:
               - /url: /service-listing-industries
-          - listitem [ref=e87] [cursor=pointer]:
-            - generic [ref=e89]: Resources
-          - listitem [ref=e90] [cursor=pointer]:
-            - generic [ref=e92]: Our Company
-    - generic [ref=e98]:
-      - generic [ref=e99]:
-        - list [ref=e100]:
-          - listitem [ref=e101]:
-            - generic [ref=e102]: "Filter by:"
-        - list [ref=e103]:
-          - listitem [ref=e104] [cursor=pointer]:
-            - link "All Results 181" [ref=e105]:
+          - listitem [ref=e72] [cursor=pointer]:
+            - generic [ref=e74]: Resources
+          - listitem [ref=e75] [cursor=pointer]:
+            - generic [ref=e77]: Our Company
+    - generic [ref=e83]:
+      - generic [ref=e84]:
+        - list [ref=e85]:
+          - listitem [ref=e86]:
+            - generic [ref=e87]: "Filter by:"
+        - list [ref=e88]:
+          - listitem [ref=e89] [cursor=pointer]:
+            - link "All Results 181" [ref=e90]:
               - /url: javascript:void(0)
               - text: All Results
-              - generic [ref=e106]: "181"
-          - listitem [ref=e107] [cursor=pointer]:
-            - link "assessment Applications 0" [ref=e108]:
+              - generic [ref=e91]: "181"
+          - listitem [ref=e92] [cursor=pointer]:
+            - link "assessment Applications 0" [ref=e93]:
               - /url: javascript:void(0)
-              - generic [ref=e109]: assessment
+              - generic [ref=e94]: assessment
               - text: Applications
-              - generic [ref=e110]: "0"
-          - listitem [ref=e111] [cursor=pointer]:
-            - link "description Documents 0" [ref=e112]:
+              - generic [ref=e95]: "0"
+          - listitem [ref=e96] [cursor=pointer]:
+            - link "description Documents 0" [ref=e97]:
               - /url: javascript:void(0)
-              - generic [ref=e113]: description
+              - generic [ref=e98]: description
               - text: Documents
-              - generic [ref=e114]: "0"
-          - listitem [ref=e115] [cursor=pointer]:
-            - link "widgets Part Numbers 176" [ref=e116]:
+              - generic [ref=e99]: "0"
+          - listitem [ref=e100] [cursor=pointer]:
+            - link "widgets Part Numbers 176" [ref=e101]:
               - /url: javascript:void(0)
-              - generic [ref=e117]: widgets
+              - generic [ref=e102]: widgets
               - text: Part Numbers
-              - generic [ref=e118]: "176"
-          - listitem [ref=e119] [cursor=pointer]:
-            - link "web Product Information 0" [ref=e120]:
+              - generic [ref=e103]: "176"
+          - listitem [ref=e104] [cursor=pointer]:
+            - link "web Product Information 0" [ref=e105]:
               - /url: javascript:void(0)
-              - generic [ref=e121]: web
+              - generic [ref=e106]: web
               - text: Product Information
-              - generic [ref=e122]: "0"
-          - listitem [ref=e123] [cursor=pointer]:
-            - link "desktop_mac Webinars 0" [ref=e124]:
+              - generic [ref=e107]: "0"
+          - listitem [ref=e108] [cursor=pointer]:
+            - link "desktop_mac Webinars 0" [ref=e109]:
               - /url: javascript:void(0)
-              - generic [ref=e125]: desktop_mac
+              - generic [ref=e110]: desktop_mac
               - text: Webinars
-              - generic [ref=e126]: "0"
-          - listitem [ref=e127] [cursor=pointer]:
-            - link "rss_feed Blog 0" [ref=e128]:
+              - generic [ref=e111]: "0"
+          - listitem [ref=e112] [cursor=pointer]:
+            - link "rss_feed Blog 0" [ref=e113]:
               - /url: javascript:void(0)
-              - generic [ref=e129]: rss_feed
+              - generic [ref=e114]: rss_feed
               - text: Blog
-              - generic [ref=e130]: "0"
-        - list [ref=e131]:
-          - listitem [ref=e132]: Refine Search
-        - list [ref=e133]:
-          - listitem [ref=e134]:
+              - generic [ref=e115]: "0"
+        - list [ref=e116]:
+          - listitem [ref=e117]: Refine Search
+        - list [ref=e118]:
+          - listitem [ref=e119]:
             - text: Brand
-            - generic [ref=e136]: expand_less
-          - generic [ref=e137]:
-            - listitem [ref=e138] [cursor=pointer]:
-              - generic [ref=e140]:
-                - generic [ref=e141]:
-                  - checkbox "Aeris 7" [ref=e142]
+            - generic [ref=e121]: expand_less
+          - generic [ref=e122]:
+            - listitem [ref=e123] [cursor=pointer]:
+              - generic [ref=e125]:
+                - generic [ref=e126]:
+                  - checkbox "Aeris 7" [ref=e127]
                   - generic:
                     - img
+                - generic [ref=e129]:
+                  - generic [ref=e130]: Aeris
+                  - generic [ref=e131]: "7"
+            - listitem [ref=e132] [cursor=pointer]:
+              - generic [ref=e134]:
+                - generic [ref=e135]:
+                  - checkbox "Gemini 16" [ref=e136]
+                  - generic:
+                    - img
+                - generic [ref=e138]:
+                  - generic [ref=e139]: Gemini
+                  - generic [ref=e140]: "16"
+            - listitem [ref=e141] [cursor=pointer]:
+              - generic [ref=e143]:
                 - generic [ref=e144]:
-                  - generic [ref=e145]: Aeris
-                  - generic [ref=e146]: "7"
-            - listitem [ref=e147] [cursor=pointer]:
-              - generic [ref=e149]:
-                - generic [ref=e150]:
-                  - checkbox "Gemini 16" [ref=e151]
+                  - checkbox "Jupiter 3" [ref=e145]
                   - generic:
                     - img
+                - generic [ref=e147]:
+                  - generic [ref=e148]: Jupiter
+                  - generic [ref=e149]: "3"
+            - listitem [ref=e150] [cursor=pointer]:
+              - generic [ref=e152]:
                 - generic [ref=e153]:
-                  - generic [ref=e154]: Gemini
-                  - generic [ref=e155]: "16"
-            - listitem [ref=e156] [cursor=pointer]:
-              - generic [ref=e158]:
-                - generic [ref=e159]:
-                  - checkbox "Jupiter 3" [ref=e160]
+                  - checkbox "Kinetex 77" [ref=e154]
                   - generic:
                     - img
+                - generic [ref=e156]:
+                  - generic [ref=e157]: Kinetex
+                  - generic [ref=e158]: "77"
+            - listitem [ref=e159] [cursor=pointer]:
+              - generic [ref=e161]:
                 - generic [ref=e162]:
-                  - generic [ref=e163]: Jupiter
-                  - generic [ref=e164]: "3"
-            - listitem [ref=e165] [cursor=pointer]:
-              - generic [ref=e167]:
-                - generic [ref=e168]:
-                  - checkbox "Kinetex 77" [ref=e169]
+                  - checkbox "Luna 16" [ref=e163]
                   - generic:
                     - img
+                - generic [ref=e165]:
+                  - generic [ref=e166]: Luna
+                  - generic [ref=e167]: "16"
+            - listitem [ref=e168] [cursor=pointer]:
+              - generic [ref=e170]:
                 - generic [ref=e171]:
-                  - generic [ref=e172]: Kinetex
-                  - generic [ref=e173]: "77"
-            - listitem [ref=e174] [cursor=pointer]:
-              - generic [ref=e176]:
-                - generic [ref=e177]:
-                  - checkbox "Luna 16" [ref=e178]
+                  - checkbox "Luna Omega 6" [ref=e172]
                   - generic:
                     - img
+                - generic [ref=e174]:
+                  - generic [ref=e175]: Luna Omega
+                  - generic [ref=e176]: "6"
+            - listitem [ref=e177] [cursor=pointer]:
+              - generic [ref=e179]:
                 - generic [ref=e180]:
-                  - generic [ref=e181]: Luna
-                  - generic [ref=e182]: "16"
-            - listitem [ref=e183] [cursor=pointer]:
-              - generic [ref=e185]:
-                - generic [ref=e186]:
-                  - checkbox "Luna Omega 6" [ref=e187]
+                  - checkbox "Lux 46" [ref=e181]
                   - generic:
                     - img
+                - generic [ref=e183]:
+                  - generic [ref=e184]: Lux
+                  - generic [ref=e185]: "46"
+            - listitem [ref=e186] [cursor=pointer]:
+              - generic [ref=e188]:
                 - generic [ref=e189]:
-                  - generic [ref=e190]: Luna Omega
-                  - generic [ref=e191]: "6"
-            - listitem [ref=e192] [cursor=pointer]:
-              - generic [ref=e194]:
-                - generic [ref=e195]:
-                  - checkbox "Lux 46" [ref=e196]
+                  - checkbox "Synergi 5" [ref=e190]
                   - generic:
                     - img
-                - generic [ref=e198]:
-                  - generic [ref=e199]: Lux
-                  - generic [ref=e200]: "46"
-            - listitem [ref=e201] [cursor=pointer]:
-              - generic [ref=e203]:
-                - generic [ref=e204]:
-                  - checkbox "Synergi 5" [ref=e205]
-                  - generic:
-                    - img
-                - generic [ref=e207]:
-                  - generic [ref=e208]: Synergi
-                  - generic [ref=e209]: "5"
-        - list [ref=e210]:
-          - listitem [ref=e211]:
+                - generic [ref=e192]:
+                  - generic [ref=e193]: Synergi
+                  - generic [ref=e194]: "5"
+        - list [ref=e195]:
+          - listitem [ref=e196]:
             - text: Phase
-            - generic [ref=e213]: expand_more
-        - list [ref=e214]:
-          - listitem [ref=e215]:
+            - generic [ref=e198]: expand_more
+        - list [ref=e199]:
+          - listitem [ref=e200]:
             - text: Separation Mode
-            - generic [ref=e217]: expand_more
-      - generic [ref=e219]:
-        - heading "181 Results for “00F-4496-A0” share" [level=1] [ref=e220]:
-          - generic [ref=e221]: 181 Results for “00F-4496-A0”
-          - link "share" [ref=e222] [cursor=pointer]:
+            - generic [ref=e202]: expand_more
+      - generic [ref=e204]:
+        - heading "181 Results for “00F-4496-A0” share" [level=1] [ref=e205]:
+          - generic [ref=e206]: 181 Results for “00F-4496-A0”
+          - link "share" [ref=e207] [cursor=pointer]:
             - /url: javascript:void(0)
-            - generic [ref=e223]: share
-        - generic [ref=e224]:
+            - generic [ref=e208]: share
+        - generic [ref=e209]:
           - text: Not the results you are looking for? Try our
-          - link "Application Search" [ref=e225] [cursor=pointer]:
+          - link "Application Search" [ref=e210] [cursor=pointer]:
             - /url: /applications
           - text: .
-        - generic [ref=e230]:
-          - img [ref=e232]
-          - generic [ref=e233]:
-            - generic [ref=e234]: "Part: 00F-4496-A0"
-            - paragraph [ref=e235] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 1.0 mm, Ea
-            - generic [ref=e237]: $1,082.00 (USD) (Ea)
-          - generic [ref=e238]:
-            - generic [ref=e240]:
-              - link "link" [ref=e241] [cursor=pointer]:
+        - generic [ref=e215]:
+          - img [ref=e217]
+          - generic [ref=e218]:
+            - generic [ref=e219]: "Part: 00F-4496-A0"
+            - paragraph [ref=e220] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e222]: $1,082.00 (USD) (Ea)
+          - generic [ref=e223]:
+            - generic [ref=e225]:
+              - link "link" [ref=e226] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e242]: link
-              - link "favorite_border" [ref=e243] [cursor=pointer]:
+                - generic [ref=e227]: link
+              - link "favorite_border" [ref=e228] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e244]: favorite_border
-            - generic [ref=e246]:
-              - textbox [ref=e248]: "1"
-              - generic [ref=e249]:
-                - button "Add To Cart" [active] [ref=e251] [cursor=pointer]
-                - button "Add To Quote" [ref=e253] [cursor=pointer]
-        - generic [ref=e258]:
-          - img [ref=e260]
-          - generic [ref=e261]:
-            - generic [ref=e262]: "Part: 00D-4496-A0"
-            - paragraph [ref=e263] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
-            - generic [ref=e265]: $1,017.00 (USD) (Ea)
-          - generic [ref=e266]:
-            - generic [ref=e268]:
-              - link "link" [ref=e269] [cursor=pointer]:
+                - generic [ref=e229]: favorite_border
+            - generic [ref=e231]:
+              - textbox [ref=e233]: "1"
+              - generic [ref=e234]:
+                - button "Add To Cart" [active] [ref=e236] [cursor=pointer]
+                - button "Add To Quote" [ref=e238] [cursor=pointer]
+        - generic [ref=e243]:
+          - img [ref=e245]
+          - generic [ref=e246]:
+            - generic [ref=e247]: "Part: 00B-4496-A0"
+            - paragraph [ref=e248] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e250]: $926.00 (USD) (Ea)
+          - generic [ref=e251]:
+            - generic [ref=e253]:
+              - link "link" [ref=e254] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e270]: link
-              - link "favorite_border" [ref=e271] [cursor=pointer]:
+                - generic [ref=e255]: link
+              - link "favorite_border" [ref=e256] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e272]: favorite_border
-            - generic [ref=e274]:
-              - textbox [ref=e276]: "1"
-              - generic [ref=e277]:
-                - button "Add To Cart" [ref=e279] [cursor=pointer]
-                - button "Add To Quote" [ref=e281] [cursor=pointer]
-        - generic [ref=e286]:
-          - img [ref=e288]
-          - generic [ref=e289]:
-            - generic [ref=e290]: "Part: 00B-4496-A0"
-            - paragraph [ref=e291] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
-            - generic [ref=e293]: $926.00 (USD) (Ea)
-          - generic [ref=e294]:
-            - generic [ref=e296]:
-              - link "link" [ref=e297] [cursor=pointer]:
+                - generic [ref=e257]: favorite_border
+            - generic [ref=e259]:
+              - textbox [ref=e261]: "1"
+              - generic [ref=e262]:
+                - button "Add To Cart" [ref=e264] [cursor=pointer]
+                - button "Add To Quote" [ref=e266] [cursor=pointer]
+        - generic [ref=e271]:
+          - img [ref=e273]
+          - generic [ref=e274]:
+            - generic [ref=e275]: "Part: 00D-4496-A0"
+            - paragraph [ref=e276] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e278]: $1,017.00 (USD) (Ea)
+          - generic [ref=e279]:
+            - generic [ref=e281]:
+              - link "link" [ref=e282] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e298]: link
-              - link "favorite_border" [ref=e299] [cursor=pointer]:
+                - generic [ref=e283]: link
+              - link "favorite_border" [ref=e284] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e300]: favorite_border
-            - generic [ref=e302]:
-              - textbox [ref=e304]: "1"
-              - generic [ref=e305]:
-                - button "Add To Cart" [ref=e307] [cursor=pointer]
-                - button "Add To Quote" [ref=e309] [cursor=pointer]
-        - generic [ref=e314]:
-          - img [ref=e316]
-          - generic [ref=e317]:
-            - generic [ref=e318]: "Part: 00F-4496-AN"
-            - paragraph [ref=e319] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 2.1 mm, Ea
-            - generic [ref=e321]: $1,082.00 (USD) (Ea)
-          - generic [ref=e322]:
-            - generic [ref=e324]:
-              - link "link" [ref=e325] [cursor=pointer]:
+                - generic [ref=e285]: favorite_border
+            - generic [ref=e287]:
+              - textbox [ref=e289]: "1"
+              - generic [ref=e290]:
+                - button "Add To Cart" [ref=e292] [cursor=pointer]
+                - button "Add To Quote" [ref=e294] [cursor=pointer]
+        - generic [ref=e299]:
+          - img [ref=e301]
+          - generic [ref=e302]:
+            - generic [ref=e303]: "Part: 00F-4496-AN"
+            - paragraph [ref=e304] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 2.1 mm, Ea
+            - generic [ref=e306]: $1,082.00 (USD) (Ea)
+          - generic [ref=e307]:
+            - generic [ref=e309]:
+              - link "link" [ref=e310] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e326]: link
-              - link "favorite_border" [ref=e327] [cursor=pointer]:
+                - generic [ref=e311]: link
+              - link "favorite_border" [ref=e312] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e328]: favorite_border
-            - generic [ref=e330]:
-              - textbox [ref=e332]: "1"
-              - generic [ref=e333]:
-                - button "Add To Cart" [ref=e335] [cursor=pointer]
-                - button "Add To Quote" [ref=e337] [cursor=pointer]
-        - generic [ref=e342]:
-          - img [ref=e344]
-          - generic [ref=e345]:
-            - generic [ref=e346]: "Part: 00F-4496-AF"
-            - paragraph [ref=e347] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
-            - generic [ref=e349]: $1,145.00 (USD) (Ea)
-          - generic [ref=e350]:
-            - generic [ref=e352]:
-              - link "link" [ref=e353] [cursor=pointer]:
+                - generic [ref=e313]: favorite_border
+            - generic [ref=e315]:
+              - textbox [ref=e317]: "1"
+              - generic [ref=e318]:
+                - button "Add To Cart" [ref=e320] [cursor=pointer]
+                - button "Add To Quote" [ref=e322] [cursor=pointer]
+        - generic [ref=e327]:
+          - img [ref=e329]
+          - generic [ref=e330]:
+            - generic [ref=e331]: "Part: 00F-4496-AF"
+            - paragraph [ref=e332] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
+            - generic [ref=e334]: $1,145.00 (USD) (Ea)
+          - generic [ref=e335]:
+            - generic [ref=e337]:
+              - link "link" [ref=e338] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e354]: link
-              - link "favorite_border" [ref=e355] [cursor=pointer]:
+                - generic [ref=e339]: link
+              - link "favorite_border" [ref=e340] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e356]: favorite_border
-            - generic [ref=e358]:
-              - textbox [ref=e360]: "1"
-              - generic [ref=e361]:
-                - button "Add To Cart" [ref=e363] [cursor=pointer]
-                - button "Add To Quote" [ref=e365] [cursor=pointer]
-        - generic [ref=e370]:
-          - img [ref=e372]
-          - generic [ref=e373]:
-            - generic [ref=e374]: "Part: 00F-4496-AC"
-            - paragraph [ref=e375] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
-            - generic [ref=e377]: $1,145.00 (USD) (Ea)
-          - generic [ref=e378]:
-            - generic [ref=e380]:
-              - link "link" [ref=e381] [cursor=pointer]:
+                - generic [ref=e341]: favorite_border
+            - generic [ref=e343]:
+              - textbox [ref=e345]: "1"
+              - generic [ref=e346]:
+                - button "Add To Cart" [ref=e348] [cursor=pointer]
+                - button "Add To Quote" [ref=e350] [cursor=pointer]
+        - generic [ref=e355]:
+          - img [ref=e357]
+          - generic [ref=e358]:
+            - generic [ref=e359]: "Part: 00F-4496-AC"
+            - paragraph [ref=e360] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e362]: $1,145.00 (USD) (Ea)
+          - generic [ref=e363]:
+            - generic [ref=e365]:
+              - link "link" [ref=e366] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e382]: link
-              - link "favorite_border" [ref=e383] [cursor=pointer]:
+                - generic [ref=e367]: link
+              - link "favorite_border" [ref=e368] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e384]: favorite_border
-            - generic [ref=e386]:
-              - textbox [ref=e388]: "1"
-              - generic [ref=e389]:
-                - button "Add To Cart" [ref=e391] [cursor=pointer]
-                - button "Add To Quote" [ref=e393] [cursor=pointer]
-        - generic [ref=e398]:
-          - img [ref=e400]
-          - generic [ref=e401]:
-            - generic [ref=e402]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e403] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
-            - generic [ref=e405]: $1,082.00 (USD) (Ea)
-          - generic [ref=e406]:
-            - generic [ref=e408]:
-              - link "link" [ref=e409] [cursor=pointer]:
+                - generic [ref=e369]: favorite_border
+            - generic [ref=e371]:
+              - textbox [ref=e373]: "1"
+              - generic [ref=e374]:
+                - button "Add To Cart" [ref=e376] [cursor=pointer]
+                - button "Add To Quote" [ref=e378] [cursor=pointer]
+        - generic [ref=e383]:
+          - img [ref=e385]
+          - generic [ref=e386]:
+            - generic [ref=e387]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e388] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e390]: $1,082.00 (USD) (Ea)
+          - generic [ref=e391]:
+            - generic [ref=e393]:
+              - link "link" [ref=e394] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e410]: link
-              - link "favorite_border" [ref=e411] [cursor=pointer]:
+                - generic [ref=e395]: link
+              - link "favorite_border" [ref=e396] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e412]: favorite_border
-            - generic [ref=e414]:
-              - textbox [ref=e416]: "1"
-              - generic [ref=e417]:
-                - button "Add To Cart" [ref=e419] [cursor=pointer]
-                - button "Add To Quote" [ref=e421] [cursor=pointer]
-        - generic [ref=e426]:
-          - img [ref=e428]
-          - generic [ref=e429]:
-            - generic [ref=e430]: "Part: 00F-4496-E0"
-            - paragraph [ref=e431] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
-            - generic [ref=e433]: $1,082.00 (USD) (Ea)
-          - generic [ref=e434]:
-            - generic [ref=e436]:
-              - link "link" [ref=e437] [cursor=pointer]:
+                - generic [ref=e397]: favorite_border
+            - generic [ref=e399]:
+              - textbox [ref=e401]: "1"
+              - generic [ref=e402]:
+                - button "Add To Cart" [ref=e404] [cursor=pointer]
+                - button "Add To Quote" [ref=e406] [cursor=pointer]
+        - generic [ref=e411]:
+          - img [ref=e413]
+          - generic [ref=e414]:
+            - generic [ref=e415]: "Part: 00F-4496-E0"
+            - paragraph [ref=e416] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
+            - generic [ref=e418]: $1,082.00 (USD) (Ea)
+          - generic [ref=e419]:
+            - generic [ref=e421]:
+              - link "link" [ref=e422] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e438]: link
-              - link "favorite_border" [ref=e439] [cursor=pointer]:
+                - generic [ref=e423]: link
+              - link "favorite_border" [ref=e424] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e440]: favorite_border
-            - generic [ref=e442]:
-              - textbox [ref=e444]: "1"
-              - generic [ref=e445]:
-                - button "Add To Cart" [ref=e447] [cursor=pointer]
-                - button "Add To Quote" [ref=e449] [cursor=pointer]
-        - generic [ref=e454]:
-          - img [ref=e456]
-          - generic [ref=e457]:
-            - generic [ref=e458]: "Part: 00F-4435-A0"
-            - paragraph [ref=e459] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e461]: $1,097.00 (USD) (Ea)
-          - generic [ref=e462]:
-            - generic [ref=e464]:
-              - link "link" [ref=e465] [cursor=pointer]:
+                - generic [ref=e425]: favorite_border
+            - generic [ref=e427]:
+              - textbox [ref=e429]: "1"
+              - generic [ref=e430]:
+                - button "Add To Cart" [ref=e432] [cursor=pointer]
+                - button "Add To Quote" [ref=e434] [cursor=pointer]
+        - generic [ref=e439]:
+          - img [ref=e441]
+          - generic [ref=e442]:
+            - generic [ref=e443]: "Part: 00F-4435-A0"
+            - paragraph [ref=e444] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e446]: $1,097.00 (USD) (Ea)
+          - generic [ref=e447]:
+            - generic [ref=e449]:
+              - link "link" [ref=e450] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e466]: link
-              - link "favorite_border" [ref=e467] [cursor=pointer]:
+                - generic [ref=e451]: link
+              - link "favorite_border" [ref=e452] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e468]: favorite_border
-            - generic [ref=e470]:
-              - textbox [ref=e472]: "1"
-              - generic [ref=e473]:
-                - button "Add To Cart" [ref=e475] [cursor=pointer]
-                - button "Add To Quote" [ref=e477] [cursor=pointer]
-        - generic [ref=e482]:
-          - img [ref=e484]
-          - generic [ref=e485]:
-            - generic [ref=e486]: "Part: 00F-4424-A0"
-            - paragraph [ref=e487] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e489]: $1,052.00 (USD) (Ea)
-          - generic [ref=e490]:
-            - generic [ref=e492]:
-              - link "link" [ref=e493] [cursor=pointer]:
+                - generic [ref=e453]: favorite_border
+            - generic [ref=e455]:
+              - textbox [ref=e457]: "1"
+              - generic [ref=e458]:
+                - button "Add To Cart" [ref=e460] [cursor=pointer]
+                - button "Add To Quote" [ref=e462] [cursor=pointer]
+        - generic [ref=e467]:
+          - img [ref=e469]
+          - generic [ref=e470]:
+            - generic [ref=e471]: "Part: 00F-4424-A0"
+            - paragraph [ref=e472] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e474]: $1,052.00 (USD) (Ea)
+          - generic [ref=e475]:
+            - generic [ref=e477]:
+              - link "link" [ref=e478] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e494]: link
-              - link "favorite_border" [ref=e495] [cursor=pointer]:
+                - generic [ref=e479]: link
+              - link "favorite_border" [ref=e480] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e496]: favorite_border
-            - generic [ref=e498]:
-              - textbox [ref=e500]: "1"
-              - generic [ref=e501]:
-                - button "Add To Cart" [ref=e503] [cursor=pointer]
-                - button "Add To Quote" [ref=e505] [cursor=pointer]
-        - generic [ref=e510]:
-          - img [ref=e512]
-          - generic [ref=e513]:
-            - generic [ref=e514]: "Part: 00F-4377-A0"
-            - paragraph [ref=e515] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e517]: $1,058.00 (USD) (Ea)
-          - generic [ref=e518]:
-            - generic [ref=e520]:
-              - link "link" [ref=e521] [cursor=pointer]:
+                - generic [ref=e481]: favorite_border
+            - generic [ref=e483]:
+              - textbox [ref=e485]: "1"
+              - generic [ref=e486]:
+                - button "Add To Cart" [ref=e488] [cursor=pointer]
+                - button "Add To Quote" [ref=e490] [cursor=pointer]
+        - generic [ref=e495]:
+          - img [ref=e497]
+          - generic [ref=e498]:
+            - generic [ref=e499]: "Part: 00F-4377-A0"
+            - paragraph [ref=e500] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e502]: $1,058.00 (USD) (Ea)
+          - generic [ref=e503]:
+            - generic [ref=e505]:
+              - link "link" [ref=e506] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e522]: link
-              - link "favorite_border" [ref=e523] [cursor=pointer]:
+                - generic [ref=e507]: link
+              - link "favorite_border" [ref=e508] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e524]: favorite_border
-            - generic [ref=e526]:
-              - textbox [ref=e528]: "1"
-              - generic [ref=e529]:
-                - button "Add To Cart" [ref=e531] [cursor=pointer]
-                - button "Add To Quote" [ref=e533] [cursor=pointer]
-        - generic [ref=e538]:
-          - img [ref=e540]
-          - generic [ref=e541]:
-            - generic [ref=e542]: "Part: 00F-4375-A0"
-            - paragraph [ref=e543] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e545]: $1,052.00 (USD) (Ea)
-          - generic [ref=e546]:
-            - generic [ref=e548]:
-              - link "link" [ref=e549] [cursor=pointer]:
+                - generic [ref=e509]: favorite_border
+            - generic [ref=e511]:
+              - textbox [ref=e513]: "1"
+              - generic [ref=e514]:
+                - button "Add To Cart" [ref=e516] [cursor=pointer]
+                - button "Add To Quote" [ref=e518] [cursor=pointer]
+        - generic [ref=e523]:
+          - img [ref=e525]
+          - generic [ref=e526]:
+            - generic [ref=e527]: "Part: 00F-4375-A0"
+            - paragraph [ref=e528] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e530]: $1,052.00 (USD) (Ea)
+          - generic [ref=e531]:
+            - generic [ref=e533]:
+              - link "link" [ref=e534] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e550]: link
-              - link "favorite_border" [ref=e551] [cursor=pointer]:
+                - generic [ref=e535]: link
+              - link "favorite_border" [ref=e536] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e552]: favorite_border
-            - generic [ref=e554]:
-              - textbox [ref=e556]: "1"
-              - generic [ref=e557]:
-                - button "Add To Cart" [ref=e559] [cursor=pointer]
-                - button "Add To Quote" [ref=e561] [cursor=pointer]
-        - generic [ref=e566]:
-          - img [ref=e568]
-          - generic [ref=e569]:
-            - generic [ref=e570]: "Part: 00F-4251-A0"
-            - paragraph [ref=e571] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e573]: $1,058.00 (USD) (Ea)
-          - generic [ref=e574]:
-            - generic [ref=e576]:
-              - link "link" [ref=e577] [cursor=pointer]:
+                - generic [ref=e537]: favorite_border
+            - generic [ref=e539]:
+              - textbox [ref=e541]: "1"
+              - generic [ref=e542]:
+                - button "Add To Cart" [ref=e544] [cursor=pointer]
+                - button "Add To Quote" [ref=e546] [cursor=pointer]
+        - generic [ref=e551]:
+          - img [ref=e553]
+          - generic [ref=e554]:
+            - generic [ref=e555]: "Part: 00F-4251-A0"
+            - paragraph [ref=e556] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e558]: $1,058.00 (USD) (Ea)
+          - generic [ref=e559]:
+            - generic [ref=e561]:
+              - link "link" [ref=e562] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e578]: link
-              - link "favorite_border" [ref=e579] [cursor=pointer]:
+                - generic [ref=e563]: link
+              - link "favorite_border" [ref=e564] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e580]: favorite_border
-            - generic [ref=e582]:
-              - textbox [ref=e584]: "1"
-              - generic [ref=e585]:
-                - button "Add To Cart" [ref=e587] [cursor=pointer]
-                - button "Add To Quote" [ref=e589] [cursor=pointer]
-        - generic [ref=e594]:
-          - img [ref=e596]
-          - generic [ref=e597]:
-            - generic [ref=e598]: "Part: 00F-4167-A0"
-            - paragraph [ref=e599] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e601]: $1,182.00 (USD) (Ea)
-          - generic [ref=e602]:
-            - generic [ref=e604]:
-              - link "link" [ref=e605] [cursor=pointer]:
+                - generic [ref=e565]: favorite_border
+            - generic [ref=e567]:
+              - textbox [ref=e569]: "1"
+              - generic [ref=e570]:
+                - button "Add To Cart" [ref=e572] [cursor=pointer]
+                - button "Add To Quote" [ref=e574] [cursor=pointer]
+        - generic [ref=e579]:
+          - img [ref=e581]
+          - generic [ref=e582]:
+            - generic [ref=e583]: "Part: 00F-4162-A0"
+            - paragraph [ref=e584] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e586]: $1,058.00 (USD) (Ea)
+          - generic [ref=e587]:
+            - generic [ref=e589]:
+              - link "link" [ref=e590] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e606]: link
-              - link "favorite_border" [ref=e607] [cursor=pointer]:
+                - generic [ref=e591]: link
+              - link "favorite_border" [ref=e592] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e608]: favorite_border
-            - generic [ref=e610]:
-              - textbox [ref=e612]: "1"
-              - generic [ref=e613]:
-                - button "Add To Cart" [ref=e615] [cursor=pointer]
-                - button "Add To Quote" [ref=e617] [cursor=pointer]
-        - generic [ref=e622]:
-          - img [ref=e624]
-          - generic [ref=e625]:
-            - generic [ref=e626]: "Part: 00F-4162-A0"
-            - paragraph [ref=e627] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e629]: $1,058.00 (USD) (Ea)
-          - generic [ref=e630]:
-            - generic [ref=e632]:
-              - link "link" [ref=e633] [cursor=pointer]:
+                - generic [ref=e593]: favorite_border
+            - generic [ref=e595]:
+              - textbox [ref=e597]: "1"
+              - generic [ref=e598]:
+                - button "Add To Cart" [ref=e600] [cursor=pointer]
+                - button "Add To Quote" [ref=e602] [cursor=pointer]
+        - generic [ref=e607]:
+          - img [ref=e609]
+          - generic [ref=e610]:
+            - generic [ref=e611]: "Part: 00F-4167-A0"
+            - paragraph [ref=e612] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e614]: $1,182.00 (USD) (Ea)
+          - generic [ref=e615]:
+            - generic [ref=e617]:
+              - link "link" [ref=e618] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e634]: link
-              - link "favorite_border" [ref=e635] [cursor=pointer]:
+                - generic [ref=e619]: link
+              - link "favorite_border" [ref=e620] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e636]: favorite_border
-            - generic [ref=e638]:
-              - textbox [ref=e640]: "1"
-              - generic [ref=e641]:
-                - button "Add To Cart" [ref=e643] [cursor=pointer]
-                - button "Add To Quote" [ref=e645] [cursor=pointer]
-        - generic [ref=e650]:
-          - img [ref=e652]
-          - generic [ref=e653]:
-            - generic [ref=e654]: "Part: 00F-4748-A0"
-            - paragraph [ref=e655] [cursor=pointer]: Luna Omega 1.6 µm Polar C18 100 Å, LC Column 150 x 1.0 mm, Ea
-            - generic [ref=e657]: $965.00 (USD) (Ea)
-          - generic [ref=e658]:
-            - generic [ref=e660]:
-              - link "link" [ref=e661] [cursor=pointer]:
+                - generic [ref=e621]: favorite_border
+            - generic [ref=e623]:
+              - textbox [ref=e625]: "1"
+              - generic [ref=e626]:
+                - button "Add To Cart" [ref=e628] [cursor=pointer]
+                - button "Add To Quote" [ref=e630] [cursor=pointer]
+        - generic [ref=e635]:
+          - img [ref=e637]
+          - generic [ref=e638]:
+            - generic [ref=e639]: "Part: 00F-4748-A0"
+            - paragraph [ref=e640] [cursor=pointer]: Luna Omega 1.6 µm Polar C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e642]: $965.00 (USD) (Ea)
+          - generic [ref=e643]:
+            - generic [ref=e645]:
+              - link "link" [ref=e646] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e662]: link
-              - link "favorite_border" [ref=e663] [cursor=pointer]:
+                - generic [ref=e647]: link
+              - link "favorite_border" [ref=e648] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e664]: favorite_border
-            - generic [ref=e666]:
-              - textbox [ref=e668]: "1"
-              - generic [ref=e669]:
-                - button "Add To Cart" [ref=e671] [cursor=pointer]
-                - button "Add To Quote" [ref=e673] [cursor=pointer]
-        - generic [ref=e678]:
-          - img [ref=e680]
-          - generic [ref=e681]:
-            - generic [ref=e682]: "Part: 00F-4248-A0"
-            - paragraph [ref=e683] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e685]: $1,058.00 (USD) (Ea)
-          - generic [ref=e686]:
-            - generic [ref=e688]:
-              - link "link" [ref=e689] [cursor=pointer]:
+                - generic [ref=e649]: favorite_border
+            - generic [ref=e651]:
+              - textbox [ref=e653]: "1"
+              - generic [ref=e654]:
+                - button "Add To Cart" [ref=e656] [cursor=pointer]
+                - button "Add To Quote" [ref=e658] [cursor=pointer]
+        - generic [ref=e663]:
+          - img [ref=e665]
+          - generic [ref=e666]:
+            - generic [ref=e667]: "Part: 00F-4248-A0"
+            - paragraph [ref=e668] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e670]: $1,058.00 (USD) (Ea)
+          - generic [ref=e671]:
+            - generic [ref=e673]:
+              - link "link" [ref=e674] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e690]: link
-              - link "favorite_border" [ref=e691] [cursor=pointer]:
+                - generic [ref=e675]: link
+              - link "favorite_border" [ref=e676] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e692]: favorite_border
-            - generic [ref=e694]:
-              - textbox [ref=e696]: "1"
-              - generic [ref=e697]:
-                - button "Add To Cart" [ref=e699] [cursor=pointer]
-                - button "Add To Quote" [ref=e701] [cursor=pointer]
-        - generic [ref=e706]:
-          - img [ref=e708]
-          - generic [ref=e709]:
-            - generic [ref=e710]: "Part: 00F-4726-A0"
-            - paragraph [ref=e711] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
-            - generic [ref=e713]: $1,231.00 (USD) (Ea)
-          - generic [ref=e714]:
-            - generic [ref=e716]:
-              - link "link" [ref=e717] [cursor=pointer]:
+                - generic [ref=e677]: favorite_border
+            - generic [ref=e679]:
+              - textbox [ref=e681]: "1"
+              - generic [ref=e682]:
+                - button "Add To Cart" [ref=e684] [cursor=pointer]
+                - button "Add To Quote" [ref=e686] [cursor=pointer]
+        - generic [ref=e691]:
+          - img [ref=e693]
+          - generic [ref=e694]:
+            - generic [ref=e695]: "Part: 00F-4726-A0"
+            - paragraph [ref=e696] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e698]: $1,231.00 (USD) (Ea)
+          - generic [ref=e699]:
+            - generic [ref=e701]:
+              - link "link" [ref=e702] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e718]: link
-              - link "favorite_border" [ref=e719] [cursor=pointer]:
+                - generic [ref=e703]: link
+              - link "favorite_border" [ref=e704] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e720]: favorite_border
-            - generic [ref=e722]:
-              - textbox [ref=e724]: "1"
-              - generic [ref=e725]:
-                - button "Add To Cart" [ref=e727] [cursor=pointer]
-                - button "Add To Quote" [ref=e729] [cursor=pointer]
-        - generic [ref=e734]:
-          - img [ref=e736]
-          - generic [ref=e737]:
-            - generic [ref=e738]: "Part: 00F-4742-A0"
-            - paragraph [ref=e739] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
-            - generic [ref=e741]: $965.00 (USD) (Ea)
-          - generic [ref=e742]:
-            - generic [ref=e744]:
-              - link "link" [ref=e745] [cursor=pointer]:
+                - generic [ref=e705]: favorite_border
+            - generic [ref=e707]:
+              - textbox [ref=e709]: "1"
+              - generic [ref=e710]:
+                - button "Add To Cart" [ref=e712] [cursor=pointer]
+                - button "Add To Quote" [ref=e714] [cursor=pointer]
+        - generic [ref=e719]:
+          - img [ref=e721]
+          - generic [ref=e722]:
+            - generic [ref=e723]: "Part: 00F-4742-A0"
+            - paragraph [ref=e724] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e726]: $965.00 (USD) (Ea)
+          - generic [ref=e727]:
+            - generic [ref=e729]:
+              - link "link" [ref=e730] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e746]: link
-              - link "favorite_border" [ref=e747] [cursor=pointer]:
+                - generic [ref=e731]: link
+              - link "favorite_border" [ref=e732] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e748]: favorite_border
-            - generic [ref=e750]:
-              - textbox [ref=e752]: "1"
-              - generic [ref=e753]:
-                - button "Add To Cart" [ref=e755] [cursor=pointer]
-                - button "Add To Quote" [ref=e757] [cursor=pointer]
-        - generic [ref=e762]:
-          - img [ref=e764]
-          - generic [ref=e765]:
-            - generic [ref=e766]: "Part: 00F-4447-A0"
-            - paragraph [ref=e767] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e769]: $1,058.00 (USD) (Ea)
-          - generic [ref=e770]:
-            - generic [ref=e772]:
-              - link "link" [ref=e773] [cursor=pointer]:
+                - generic [ref=e733]: favorite_border
+            - generic [ref=e735]:
+              - textbox [ref=e737]: "1"
+              - generic [ref=e738]:
+                - button "Add To Cart" [ref=e740] [cursor=pointer]
+                - button "Add To Quote" [ref=e742] [cursor=pointer]
+        - generic [ref=e747]:
+          - img [ref=e749]
+          - generic [ref=e750]:
+            - generic [ref=e751]: "Part: 00F-4447-A0"
+            - paragraph [ref=e752] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e754]: $1,058.00 (USD) (Ea)
+          - generic [ref=e755]:
+            - generic [ref=e757]:
+              - link "link" [ref=e758] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e774]: link
-              - link "favorite_border" [ref=e775] [cursor=pointer]:
+                - generic [ref=e759]: link
+              - link "favorite_border" [ref=e760] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e776]: favorite_border
-            - generic [ref=e778]:
-              - textbox [ref=e780]: "1"
-              - generic [ref=e781]:
-                - button "Add To Cart" [ref=e783] [cursor=pointer]
-                - button "Add To Quote" [ref=e785] [cursor=pointer]
-        - generic [ref=e790]:
-          - img [ref=e792]
-          - generic [ref=e793]:
-            - generic [ref=e794]: "Part: 00F-4252-A0"
-            - paragraph [ref=e795] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e797]: $1,009.00 (USD) (Ea)
-          - generic [ref=e798]:
-            - generic [ref=e800]:
-              - link "link" [ref=e801] [cursor=pointer]:
+                - generic [ref=e761]: favorite_border
+            - generic [ref=e763]:
+              - textbox [ref=e765]: "1"
+              - generic [ref=e766]:
+                - button "Add To Cart" [ref=e768] [cursor=pointer]
+                - button "Add To Quote" [ref=e770] [cursor=pointer]
+        - generic [ref=e775]:
+          - img [ref=e777]
+          - generic [ref=e778]:
+            - generic [ref=e779]: "Part: 00F-4252-A0"
+            - paragraph [ref=e780] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e782]: $1,009.00 (USD) (Ea)
+          - generic [ref=e783]:
+            - generic [ref=e785]:
+              - link "link" [ref=e786] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e802]: link
-              - link "favorite_border" [ref=e803] [cursor=pointer]:
+                - generic [ref=e787]: link
+              - link "favorite_border" [ref=e788] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e804]: favorite_border
-            - generic [ref=e806]:
-              - textbox [ref=e808]: "1"
-              - generic [ref=e809]:
-                - button "Add To Cart" [ref=e811] [cursor=pointer]
-                - button "Add To Quote" [ref=e813] [cursor=pointer]
-        - generic [ref=e818]:
-          - img [ref=e820]
-          - generic [ref=e821]:
-            - generic [ref=e822]: "Part: 00C-4496-AN"
-            - paragraph [ref=e823] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
-            - generic [ref=e825]: $986.00 (USD) (Ea)
-          - generic [ref=e826]:
-            - generic [ref=e828]:
-              - link "link" [ref=e829] [cursor=pointer]:
+                - generic [ref=e789]: favorite_border
+            - generic [ref=e791]:
+              - textbox [ref=e793]: "1"
+              - generic [ref=e794]:
+                - button "Add To Cart" [ref=e796] [cursor=pointer]
+                - button "Add To Quote" [ref=e798] [cursor=pointer]
+        - generic [ref=e803]:
+          - img [ref=e805]
+          - generic [ref=e806]:
+            - generic [ref=e807]: "Part: 00C-4496-AN"
+            - paragraph [ref=e808] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
+            - generic [ref=e810]: $986.00 (USD) (Ea)
+          - generic [ref=e811]:
+            - generic [ref=e813]:
+              - link "link" [ref=e814] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e830]: link
-              - link "favorite_border" [ref=e831] [cursor=pointer]:
+                - generic [ref=e815]: link
+              - link "favorite_border" [ref=e816] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e832]: favorite_border
-            - generic [ref=e834]:
-              - textbox [ref=e836]: "1"
-              - generic [ref=e837]:
-                - button "Add To Cart" [ref=e839] [cursor=pointer]
-                - button "Add To Quote" [ref=e841] [cursor=pointer]
-        - generic [ref=e846]:
-          - img [ref=e848]
-          - generic [ref=e849]:
-            - generic [ref=e850]: "Part: 00B-4496-AN"
-            - paragraph [ref=e851] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
-            - generic [ref=e853]: $926.00 (USD) (Ea)
-          - generic [ref=e854]:
-            - generic [ref=e856]:
-              - link "link" [ref=e857] [cursor=pointer]:
+                - generic [ref=e817]: favorite_border
+            - generic [ref=e819]:
+              - textbox [ref=e821]: "1"
+              - generic [ref=e822]:
+                - button "Add To Cart" [ref=e824] [cursor=pointer]
+                - button "Add To Quote" [ref=e826] [cursor=pointer]
+        - generic [ref=e831]:
+          - img [ref=e833]
+          - generic [ref=e834]:
+            - generic [ref=e835]: "Part: 00B-4496-AN"
+            - paragraph [ref=e836] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
+            - generic [ref=e838]: $926.00 (USD) (Ea)
+          - generic [ref=e839]:
+            - generic [ref=e841]:
+              - link "link" [ref=e842] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e858]: link
-              - link "favorite_border" [ref=e859] [cursor=pointer]:
+                - generic [ref=e843]: link
+              - link "favorite_border" [ref=e844] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e860]: favorite_border
-            - generic [ref=e862]:
-              - textbox [ref=e864]: "1"
-              - generic [ref=e865]:
-                - button "Add To Cart" [ref=e867] [cursor=pointer]
-                - button "Add To Quote" [ref=e869] [cursor=pointer]
-        - generic [ref=e874]:
-          - img [ref=e876]
-          - generic [ref=e877]:
-            - generic [ref=e878]: "Part: 00D-4496-AN"
-            - paragraph [ref=e879] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
-            - generic [ref=e881]: $1,017.00 (USD) (Ea)
-          - generic [ref=e882]:
-            - generic [ref=e884]:
-              - link "link" [ref=e885] [cursor=pointer]:
+                - generic [ref=e845]: favorite_border
+            - generic [ref=e847]:
+              - textbox [ref=e849]: "1"
+              - generic [ref=e850]:
+                - button "Add To Cart" [ref=e852] [cursor=pointer]
+                - button "Add To Quote" [ref=e854] [cursor=pointer]
+        - generic [ref=e859]:
+          - img [ref=e861]
+          - generic [ref=e862]:
+            - generic [ref=e863]: "Part: 00B-4496-AC"
+            - paragraph [ref=e864] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 0.3 mm, microflow, Ea
+            - generic [ref=e866]: $926.00 (USD) (Ea)
+          - generic [ref=e867]:
+            - generic [ref=e869]:
+              - link "link" [ref=e870] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e886]: link
-              - link "favorite_border" [ref=e887] [cursor=pointer]:
+                - generic [ref=e871]: link
+              - link "favorite_border" [ref=e872] [cursor=pointer]:
                 - /url: javascript:void(0)
-                - generic [ref=e888]: favorite_border
-            - generic [ref=e890]:
-              - textbox [ref=e892]: "1"
-              - generic [ref=e893]:
-                - button "Add To Cart" [ref=e895] [cursor=pointer]
-                - button "Add To Quote" [ref=e897] [cursor=pointer]
-        - generic [ref=e902]:
-          - img [ref=e904]
-          - generic [ref=e905]:
-            - generic [ref=e906]: "Part: 00A-4496-AN"
-            - paragraph [ref=e907] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
-            - generic [ref=e909]: $849.00 (USD) (Ea)
-          - generic [ref=e910]:
-            - generic [ref=e912]:
-              - link "link" [ref=e913] [cursor=pointer]:
-                - /url: javascript:void(0)
-                - generic [ref=e914]: link
-              - link "favorite_border" [ref=e915] [cursor=pointer]:
-                - /url: javascript:void(0)
-                - generic [ref=e916]: favorite_border
-            - generic [ref=e918]:
-              - textbox [ref=e920]: "1"
-              - generic [ref=e921]:
-                - button "Add To Cart" [ref=e923] [cursor=pointer]
-                - button "Add To Quote" [ref=e925] [cursor=pointer]
-        - button "SHOW MORE" [ref=e927] [cursor=pointer]:
-          - generic [ref=e928]:
+                - generic [ref=e873]: favorite_border
+            - generic [ref=e875]:
+              - textbox [ref=e877]: "1"
+              - generic [ref=e878]:
+                - button "Add To Cart" [ref=e880] [cursor=pointer]
+                - button "Add To Quote" [ref=e882] [cursor=pointer]
+        - button "SHOW MORE" [ref=e884] [cursor=pointer]:
+          - generic [ref=e885]:
             - text: SHOW MORE
-            - img [ref=e929]: keyboard_arrow_down
-    - generic [ref=e932]:
-      - generic [ref=e935]:
-        - generic [ref=e936]:
-          - generic [ref=e937]:
-            - img "Phenomenex" [ref=e939]
-            - generic [ref=e941]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
-            - link "Connect With Us" [ref=e943] [cursor=pointer]:
+            - img [ref=e886]: keyboard_arrow_down
+    - generic [ref=e889]:
+      - generic [ref=e892]:
+        - generic [ref=e893]:
+          - generic [ref=e894]:
+            - img "Phenomenex" [ref=e896]
+            - generic [ref=e898]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+            - link "Connect With Us" [ref=e900] [cursor=pointer]:
               - /url: https://discover.phenomenex.com/customersupport
-          - generic [ref=e945]:
-            - generic [ref=e946]:
-              - paragraph [ref=e947]: Products and Services
-              - paragraph [ref=e948]:
-                - link "Products" [ref=e949] [cursor=pointer]:
+          - generic [ref=e902]:
+            - generic [ref=e903]:
+              - paragraph [ref=e904]: Products and Services
+              - paragraph [ref=e905]:
+                - link "Products" [ref=e906] [cursor=pointer]:
                   - /url: /service-listing-products
-              - paragraph [ref=e950]:
-                - link "Techniques" [ref=e951] [cursor=pointer]:
+              - paragraph [ref=e907]:
+                - link "Techniques" [ref=e908] [cursor=pointer]:
                   - /url: /service-listing-techniques
-              - paragraph [ref=e952]:
-                - link "Industries" [ref=e953] [cursor=pointer]:
+              - paragraph [ref=e909]:
+                - link "Industries" [ref=e910] [cursor=pointer]:
                   - /url: /service-listing-industries
-              - paragraph [ref=e954]:
-                - link "Quick Order" [ref=e955] [cursor=pointer]:
+              - paragraph [ref=e911]:
+                - link "Quick Order" [ref=e912] [cursor=pointer]:
                   - /url: /quick-order
-            - generic [ref=e956]:
-              - paragraph [ref=e957]: Support
-              - paragraph [ref=e958]:
-                - link "Product/Method Support" [ref=e959] [cursor=pointer]:
+            - generic [ref=e913]:
+              - paragraph [ref=e914]: Support
+              - paragraph [ref=e915]:
+                - link "Product/Method Support" [ref=e916] [cursor=pointer]:
                   - /url: https://discover.phenomenex.com/customersupport
-              - paragraph [ref=e960]:
-                - link "Troubleshooting Help" [ref=e961] [cursor=pointer]:
+              - paragraph [ref=e917]:
+                - link "Troubleshooting Help" [ref=e918] [cursor=pointer]:
                   - /url: https://discover.phenomenex.com/technical-support
-              - paragraph [ref=e962]:
-                - link "Contact Us" [ref=e963] [cursor=pointer]:
+              - paragraph [ref=e919]:
+                - link "Contact Us" [ref=e920] [cursor=pointer]:
                   - /url: /contact-us
-              - paragraph [ref=e964]:
-                - link "CQA / CofA" [ref=e965] [cursor=pointer]:
+              - paragraph [ref=e921]:
+                - link "CQA / CofA" [ref=e922] [cursor=pointer]:
                   - /url: /dashboard/cqa
-            - generic [ref=e966]:
-              - paragraph [ref=e967]: Our company
-              - paragraph [ref=e968]:
-                - link "About Phenomenex" [ref=e969] [cursor=pointer]:
+            - generic [ref=e923]:
+              - paragraph [ref=e924]: Our company
+              - paragraph [ref=e925]:
+                - link "About Phenomenex" [ref=e926] [cursor=pointer]:
                   - /url: /our-company/about-phenomenex
-              - paragraph [ref=e970]:
-                - link "Blog" [ref=e971] [cursor=pointer]:
+              - paragraph [ref=e927]:
+                - link "Blog" [ref=e928] [cursor=pointer]:
                   - /url: /our-company/phenomenex-blog
-              - paragraph [ref=e972]:
-                - link "News" [ref=e973] [cursor=pointer]:
+              - paragraph [ref=e929]:
+                - link "News" [ref=e930] [cursor=pointer]:
                   - /url: /news
-              - paragraph [ref=e974]:
-                - link "Danaher Life Sciences" [ref=e975] [cursor=pointer]:
+              - paragraph [ref=e931]:
+                - link "Danaher Life Sciences" [ref=e932] [cursor=pointer]:
                   - /url: https://lifesciences.danaher.com/?utm_source=phenomenex_website&amp;utm_medium=referral&amp;utm_content=footer&amp;ajs_aid=d5d95cbf-ead4-43e4-a243-b3a5be722d51
-          - generic [ref=e976]:
-            - generic [ref=e977]:
-              - link "Facebook" [ref=e978] [cursor=pointer]:
+          - generic [ref=e933]:
+            - generic [ref=e934]:
+              - link "Facebook" [ref=e935] [cursor=pointer]:
                 - /url: http://www.facebook.com/phenomenex
-                - img "Facebook" [ref=e979]
-              - link "Instagram" [ref=e980] [cursor=pointer]:
+                - img "Facebook" [ref=e936]
+              - link "Instagram" [ref=e937] [cursor=pointer]:
                 - /url: https://www.instagram.com/phenomenex
-                - img "Instagram" [ref=e981]
-              - link "Linkedln" [ref=e982] [cursor=pointer]:
+                - img "Instagram" [ref=e938]
+              - link "Linkedln" [ref=e939] [cursor=pointer]:
                 - /url: http://www.linkedin.com/company/phenomenex
-                - img "Linkedln" [ref=e983]
-              - link "Twitter" [ref=e984] [cursor=pointer]:
+                - img "Linkedln" [ref=e940]
+              - link "Twitter" [ref=e941] [cursor=pointer]:
                 - /url: http://www.twitter.com/phenomenex
-                - img "Twitter" [ref=e985]
-              - link "Youtube" [ref=e986] [cursor=pointer]:
+                - img "Twitter" [ref=e942]
+              - link "Youtube" [ref=e943] [cursor=pointer]:
                 - /url: http://www.youtube.com/user/phenomenex
-                - img "Youtube" [ref=e987]
-            - img "Danaher" [ref=e988]
-        - generic [ref=e992]:
-          - link "Company Logo" [ref=e993] [cursor=pointer]:
+                - img "Youtube" [ref=e944]
+            - img "Danaher" [ref=e945]
+        - generic [ref=e949]:
+          - link "Company Logo" [ref=e950] [cursor=pointer]:
             - /url: https://www.abcam.com
-            - img "Company Logo" [ref=e994]
-          - link "Company Logo" [ref=e995] [cursor=pointer]:
+            - img "Company Logo" [ref=e951]
+          - link "Company Logo" [ref=e952] [cursor=pointer]:
             - /url: https://www.aldevron.com
-            - img "Company Logo" [ref=e996]
-          - link "Company Logo" [ref=e997] [cursor=pointer]:
+            - img "Company Logo" [ref=e953]
+          - link "Company Logo" [ref=e954] [cursor=pointer]:
             - /url: https://www.mybeckman.com
-            - img "Company Logo" [ref=e998]
-          - link "Company Logo" [ref=e999] [cursor=pointer]:
+            - img "Company Logo" [ref=e955]
+          - link "Company Logo" [ref=e956] [cursor=pointer]:
             - /url: https://www.genedata.com
-            - img "Company Logo" [ref=e1000]
-          - link "Company Logo" [ref=e1001] [cursor=pointer]:
+            - img "Company Logo" [ref=e957]
+          - link "Company Logo" [ref=e958] [cursor=pointer]:
             - /url: https://www.idbs.com
-            - img "Company Logo" [ref=e1002]
-          - link "Company Logo" [ref=e1003] [cursor=pointer]:
+            - img "Company Logo" [ref=e959]
+          - link "Company Logo" [ref=e960] [cursor=pointer]:
             - /url: https://www.idtdna.com
-            - img "Company Logo" [ref=e1004]
-          - link "Company Logo" [ref=e1005] [cursor=pointer]:
+            - img "Company Logo" [ref=e961]
+          - link "Company Logo" [ref=e962] [cursor=pointer]:
             - /url: https://www.leica-microsystems.com
-            - img "Company Logo" [ref=e1006]
-          - link "Company Logo" [ref=e1007] [cursor=pointer]:
+            - img "Company Logo" [ref=e963]
+          - link "Company Logo" [ref=e964] [cursor=pointer]:
             - /url: https://www.moleculardevices.com
-            - img "Company Logo" [ref=e1008]
-          - link "Company Logo" [ref=e1009] [cursor=pointer]:
+            - img "Company Logo" [ref=e965]
+          - link "Company Logo" [ref=e966] [cursor=pointer]:
             - /url: https://sciex.com/
-            - img "Company Logo" [ref=e1010]
-      - generic [ref=e1013]:
-        - generic [ref=e1015]:
-          - generic [ref=e1016]:
-            - link "Terms and Conditions" [ref=e1017] [cursor=pointer]:
+            - img "Company Logo" [ref=e967]
+      - generic [ref=e970]:
+        - generic [ref=e972]:
+          - generic [ref=e973]:
+            - link "Terms and Conditions" [ref=e974] [cursor=pointer]:
               - /url: /phx-terms-and-conditions-of-sale
             - text: "|"
-          - generic [ref=e1018]:
-            - link "Privacy Statement" [ref=e1019] [cursor=pointer]:
+          - generic [ref=e975]:
+            - link "Privacy Statement" [ref=e976] [cursor=pointer]:
               - /url: /phx-privacy-policy
             - text: "|"
-          - generic [ref=e1020]:
-            - link "Quality Policy" [ref=e1021] [cursor=pointer]:
+          - generic [ref=e977]:
+            - link "Quality Policy" [ref=e978] [cursor=pointer]:
               - /url: /phx-quality-policy
             - text: "|"
-          - generic [ref=e1022]:
-            - link "Terms of Use" [ref=e1023] [cursor=pointer]:
+          - generic [ref=e979]:
+            - link "Terms of Use" [ref=e980] [cursor=pointer]:
               - /url: /phx-site-terms-of-use
             - text: "|"
-          - generic [ref=e1024]:
-            - link "Trademarks" [ref=e1025] [cursor=pointer]:
+          - generic [ref=e981]:
+            - link "Trademarks" [ref=e982] [cursor=pointer]:
               - /url: /phx-trademarks
             - text: "|"
-          - generic [ref=e1026]:
-            - link "CA Supply Chains Act" [ref=e1027] [cursor=pointer]:
+          - generic [ref=e983]:
+            - link "CA Supply Chains Act" [ref=e984] [cursor=pointer]:
               - /url: /phx-california-supply-chains-act
             - text: "|"
-          - generic [ref=e1028]:
-            - link "CA Consumer Privacy" [ref=e1029] [cursor=pointer]:
+          - generic [ref=e985]:
+            - link "CA Consumer Privacy" [ref=e986] [cursor=pointer]:
               - /url: /phx-california-consumer-rights-notice
             - text: "|"
-          - generic [ref=e1030]:
-            - link "Cookie Policy" [ref=e1031] [cursor=pointer]:
+          - generic [ref=e987]:
+            - link "Cookie Policy" [ref=e988] [cursor=pointer]:
               - /url: /phx-cookie-policy
             - text: "|"
-          - generic [ref=e1032]:
-            - link "Cookie Settings" [ref=e1033] [cursor=pointer]:
+          - generic [ref=e989]:
+            - link "Cookie Settings" [ref=e990] [cursor=pointer]:
               - /url: /phx-cookie-policy
             - text: "|"
-          - link "Impressum" [ref=e1035] [cursor=pointer]:
+          - link "Impressum" [ref=e992] [cursor=pointer]:
             - /url: /phx-impressum
-        - generic [ref=e1036]: © 2026 Phenomenex Inc. All rights reserved.
-  - iframe [ref=e1038]:
-    - button "Close Live Chat window" [ref=f14e2] [cursor=pointer]:
-      - img [ref=f14e4]
+        - generic [ref=e993]: © 2026 Phenomenex Inc. All rights reserved.
+  - iframe [ref=e995]:
+    - button "Click to start chatting" [ref=f15e2] [cursor=pointer]:
+      - img [ref=f15e4]
+  - generic:
+    - generic:
+      - generic [ref=e996]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more.}"
+      - iframe [ref=e997]:
+        - generic [ref=f7e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f7e2]:
+            - img [ref=f7e3]
+          - generic [ref=f7e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f7e6]:
+              - generic [ref=f7e8]:
+                - text: LIVE CHAT NOW!
+                - text: Our experts can help with product recommendations, quotes and more.
+            - button "Type and start" [ref=f7e9]
 ```
