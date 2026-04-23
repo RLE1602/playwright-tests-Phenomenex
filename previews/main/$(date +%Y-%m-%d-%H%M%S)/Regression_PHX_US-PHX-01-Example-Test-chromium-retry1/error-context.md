@@ -1,60 +1,41 @@
 # Page snapshot
 
 ```yaml
-- generic [active] [ref=e1]:
-  - generic:
-    - img
-    - paragraph: One Login. More Access.
-    - paragraph: Use one account to access select Danaher life sciences companies today, with more joining later this year for a seamless experience.
-  - main [ref=e2]:
-    - generic [ref=e5]:
-      - generic [ref=e6]:
-        - img "Phenomenex Apps" [ref=e7]
-        - heading "Welcome" [level=1] [ref=e8]
-        - paragraph [ref=e10]: Use your Danaher login to sign into Phenomenex.
-      - generic [ref=e11]:
-        - generic [ref=e14]:
-          - button: Continue
-          - generic [ref=e17]:
-            - generic [ref=e18]:
-              - generic [ref=e19]: Work email address *
-              - textbox "Work email address" [ref=e20]
-            - text: "!"
-          - button "Continue" [ref=e22] [cursor=pointer]
-        - paragraph [ref=e24]:
-          - text: Need an account?
-          - link "Sign up" [ref=e25] [cursor=pointer]:
-            - /url: /u/signup/identifier?state=hqFo2SBTUDFpUmFlV3dVS2tIXy1DM3lVa0J2R3BtLTNXZHhETaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEs1WTNTbmJBNVVBenZJU09hTTIyZ0NSNHNxcDhsd2hCo2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
-  - contentinfo "Danaher Life Sciences companies" [ref=e26]:
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - link:
+        - /url: https://stage-shop.phenomenex.com
+        - img [ref=e7] [cursor=pointer]
+    - generic [ref=e10]:
+      - text: Need Help?
+      - link "Chat with Us ❯" [ref=e11] [cursor=pointer]:
+        - /url: https://stage-shop.phenomenex.com/contact-us
+  - generic [ref=e13]:
+    - generic [ref=e14]:
+      - generic [ref=e15]: Existing Users Sign In
+      - paragraph [ref=e17]: Sign in to view promotions, quotes, and country specific pricing.
+      - form "Sign in with your email address" [ref=e19]:
+        - generic [ref=e20]:
+          - textbox "Email Address" [active] [ref=e22]
+          - generic [ref=e23]:
+            - link "Forgot your password?" [ref=e24] [cursor=pointer]:
+              - /url: /phxauth.onmicrosoft.com/B2C_1_LSIG_SignIn_Development/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPassword&csrf_token=UW1TZzd4aVE3RTJkMWw3ZUdhblFlRVZtVFJkSjhGUHgzcVlQeStMUTNFbXdidVo4eG8vV2pJdWMzSjMyeTlsUXpkcXE1SXJKeFE2VHcvRVhpVGZBT0E9PTsyMDI2LTA0LTIzVDE1OjMwOjA5LjE5MTE3NjFaO2pKUllzV0hjQnRVcEtmOGE5TEIvQ1E9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&tx=StateProperties=eyJUSUQiOiI0ZDRjYzg2Ny1lMDdjLTRhMzUtOGI1OC1kYTA0MjBjODU5Y2UifQ&p=B2C_1_LSIG_SignIn_Development
+            - textbox "Password" [ref=e25]
+          - button "Sign in" [ref=e27] [cursor=pointer]
     - generic [ref=e28]:
-      - link "Abcam" [ref=e30] [cursor=pointer]:
-        - /url: https://www.abcam.com/
-        - img "Abcam" [ref=e31]
-      - link "Aldevron" [ref=e33] [cursor=pointer]:
-        - /url: https://www.aldevron.com/
-        - img "Aldevron" [ref=e34]
-      - link "Beckman Coulter Life Sciences" [ref=e36] [cursor=pointer]:
-        - /url: https://www.mybeckman.com/
-        - img "Beckman Coulter Life Sciences" [ref=e37]
-      - link "Genedata" [ref=e39] [cursor=pointer]:
-        - /url: https://www.genedata.com/
-        - img "Genedata" [ref=e40]
-      - link "IDBS" [ref=e42] [cursor=pointer]:
-        - /url: https://www.idbs.com/
-        - img "IDBS" [ref=e43]
-      - link "IDT" [ref=e45] [cursor=pointer]:
-        - /url: https://www.idtdna.com/
-        - img "IDT" [ref=e46]
-      - link "Leica Microsystems" [ref=e48] [cursor=pointer]:
-        - /url: https://www.leica-microsystems.com/
-        - img "Leica Microsystems" [ref=e49]
-      - link "Molecular Devices" [ref=e51] [cursor=pointer]:
-        - /url: https://www.moleculardevices.com/
-        - img "Molecular Devices" [ref=e52]
-      - link "Phenomenex" [ref=e54] [cursor=pointer]:
-        - /url: https://www.phenomenex.com/
-        - img "Phenomenex" [ref=e55]
-      - link "SCIEX" [ref=e57] [cursor=pointer]:
-        - /url: https://www.sciex.com/
-        - img "SCIEX" [ref=e58]
+      - generic [ref=e29]: New to Phenomenex?
+      - paragraph [ref=e30]: "For an enhanced experience, please create an account. This will allow you to find products and prices specific to you and your organization. In addition you can access:"
+      - paragraph [ref=e31]:
+        - strong [ref=e32]: Favorites
+      - paragraph [ref=e33]: Store your favorite applications, documents, and products
+      - paragraph [ref=e34]:
+        - strong [ref=e35]: Support Documents
+      - paragraph [ref=e36]: View CofAs, CQAs and other product documents
+      - paragraph [ref=e37]:
+        - strong [ref=e38]: Quotes and Order History
+      - paragraph [ref=e39]: Easily re-order and get quotes
+      - link "CREATE ACCOUNT" [ref=e40] [cursor=pointer]:
+        - /url: https://stage-shop.phenomenex.com/registration
+        - button "CREATE ACCOUNT" [ref=e41]
 ```

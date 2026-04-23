@@ -2,59 +2,190 @@
 
 ```yaml
 - generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e13]:
+            - link "Phenomenex" [ref=e15] [cursor=pointer]:
+              - /url: https://stage10.phenomenex.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+              - img "Phenomenex" [ref=e16]
+            - link "Continue Browsing" [ref=e18] [cursor=pointer]:
+              - /url: https://stage10.phenomenex.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+              - img [ref=e19]
+              - text: Continue Browsing
+            - generic "Global" [ref=e23]:
+              - generic [ref=e26]:
+                - link "Welcome U7_stage" [ref=e28] [cursor=pointer]:
+                  - /url: https://stage-shop.phenomenex.com/us/en/profile.html
+                  - text: Welcome U7_stage
+                  - img [ref=e29]
+                - link "Quote 1" [ref=e32] [cursor=pointer]:
+                  - /url: https://stage-shop.phenomenex.com/us/en/quote-cart.html
+                  - img [ref=e33]
+                  - generic [ref=e35]: Quote
+                  - generic [ref=e36]: "1"
+                - link "Cart 101" [ref=e41] [cursor=pointer]:
+                  - /url: https://stage-shop.phenomenex.com/us/en/cart.html
+                  - img [ref=e42]
+                  - generic [ref=e44]: Cart
+                  - generic [ref=e45]: "101"
+    - generic [ref=e62]:
+      - heading [level=1] [ref=e63]
+      - heading [level=1] [ref=e64]
+      - paragraph [ref=e65]
+      - list [ref=e67]:
+        - heading [level=2] [ref=e69]
+        - listitem [ref=e70]:
+          - generic [ref=e71]:
+            - img [ref=e73]
+            - generic [ref=e75]:
+              - paragraph [ref=e76]
+              - paragraph [ref=e77]
+              - paragraph [ref=e78]
+  - contentinfo [ref=e86]:
+    - generic [ref=e87]:
+      - generic [ref=e88]:
+        - generic [ref=e89]:
+          - paragraph [ref=e90]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+          - link "CONNECT WITH US" [ref=e91] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e92]:
+          - paragraph [ref=e93]: Products and Services
+          - link "Products" [ref=e94] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-products?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - link "Techniques" [ref=e95] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-techniques?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - link "Industries" [ref=e96] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/service-listing-industries?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - link "Quick Order" [ref=e97] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/quick-order?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+        - generic [ref=e98]:
+          - paragraph [ref=e99]: Support
+          - link "Product Method Support" [ref=e100] [cursor=pointer]:
+            - /url: "#"
+          - link "Product Troubleshooting" [ref=e101] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact Us" [ref=e102] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/contact-us?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - link "CQA / CofA" [ref=e103] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/dashboard/cqa?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+        - generic [ref=e104]:
+          - paragraph [ref=e105]: Our company
+          - link "About Phenomenex" [ref=e106] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/our-company/about-phenomenex?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - link "Blog" [ref=e107] [cursor=pointer]:
+            - /url: https://phenomenex.blog/
+          - link "News" [ref=e108] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/news?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - link "Danaher Life Sciences" [ref=e109] [cursor=pointer]:
+            - /url: https://lifesciences.danaher.com/
+        - generic [ref=e111]:
+          - link [ref=e112] [cursor=pointer]:
+            - /url: https://www.facebook.com/phenomenex
+          - link [ref=e113] [cursor=pointer]:
+            - /url: https://www.instagram.com/accounts/login/
+          - link [ref=e114] [cursor=pointer]:
+            - /url: http://www.linkedin.com/company/phenomenex
+          - link [ref=e115] [cursor=pointer]:
+            - /url: http://www.twitter.com/phenomenex
+          - link [ref=e116] [cursor=pointer]:
+            - /url: http://www.youtube.com/user/phenomenex
+      - generic [ref=e119]:
+        - link "Company Logo" [ref=e121] [cursor=pointer]:
+          - /url: https://www.abcam.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e122]
+        - link "Company Logo" [ref=e124] [cursor=pointer]:
+          - /url: https://www.aldevron.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e125]
+        - link "Company Logo" [ref=e127] [cursor=pointer]:
+          - /url: https://www.mybeckman.com/
+          - img "Company Logo" [ref=e128]
+        - link "Company Logo" [ref=e130] [cursor=pointer]:
+          - /url: https://www.genedata.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e131]
+        - link "Company Logo" [ref=e133] [cursor=pointer]:
+          - /url: https://www.idbs.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e134]
+        - link "Company Logo" [ref=e136] [cursor=pointer]:
+          - /url: https://www.idtdna.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e137]
+        - link "Company Logo" [ref=e139] [cursor=pointer]:
+          - /url: https://www.leica-microsystems.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e140]
+        - link "Company Logo" [ref=e142] [cursor=pointer]:
+          - /url: https://www.moleculardevices.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e143]
+        - link "Company Logo" [ref=e145] [cursor=pointer]:
+          - /url: https://sciex.com/?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - img "Company Logo" [ref=e146]
+    - generic [ref=e148]:
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - link "Terms and Conditions" [ref=e151] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-terms-and-conditions-of-sale?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "Privacy Statement" [ref=e152] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-privacy-policy?utm_source=dhls_website&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "Quality Policy" [ref=e153] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-quality-policy?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "Terms of Use" [ref=e154] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-site-terms-of-use?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "Trademarks" [ref=e155] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-trademarks?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "CA Supply Chains Act" [ref=e156] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-california-supply-chains-act?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "Cookie Policy" [ref=e157] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-cookie-policy?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+          - text: "|"
+          - link "Impressum" [ref=e158] [cursor=pointer]:
+            - /url: https://stage10.phenomenex.com/phx-impressum?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+        - link "© 2025 Phenomenex Inc. All rights reserved." [ref=e159] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/phx-privacy-policy?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+      - generic [ref=e160]:
+        - generic [ref=e161]: "Also of Interest:"
+        - link "Our Products | Phenomenex Product Listing" [ref=e162] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/service-listing-products?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+        - text: "|"
+        - 'link "Novum: Faster, Easier, Reliable SLE Simplified" [ref=e163] [cursor=pointer]':
+          - /url: https://stage10.phenomenex.com/documents/2022/05/20/18/54/novum-faster-easier-reliable-sle-simplified?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
+        - text: "|"
+        - link "Zebron Gas Chromatography Columns | Phenomenex" [ref=e164] [cursor=pointer]:
+          - /url: https://stage10.phenomenex.com/products/zebron-gc-columns?ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39&ajs_aid=1ae693a7-ea42-4aee-a4ec-3156d79d5d39
   - generic:
-    - img
-    - paragraph: One Login. More Access.
-    - paragraph: Use one account to access select Danaher life sciences companies today, with more joining later this year for a seamless experience.
-  - main [ref=e2]:
-    - generic [ref=e5]:
-      - generic [ref=e6]:
-        - img "Phenomenex Apps" [ref=e7]
-        - heading "Welcome" [level=1] [ref=e8]
-        - paragraph [ref=e10]: Use your Danaher login to sign into Phenomenex.
-      - generic [ref=e11]:
-        - generic [ref=e14]:
-          - button: Continue
-          - generic [ref=e17]:
-            - generic [ref=e18]:
-              - generic [ref=e19]: Work email address *
-              - textbox "Work email address" [ref=e20]
-            - text: "!"
-          - button "Continue" [ref=e22] [cursor=pointer]
-        - paragraph [ref=e24]:
-          - text: Need an account?
-          - link "Sign up" [ref=e25] [cursor=pointer]:
-            - /url: /u/signup/identifier?state=hqFo2SBxMUJHUHNGVW50dkVveFExX3JBb3BHcG1oamRCSWlfLaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG5tU043WHY4cUVMYlhsdUt4cElKOWNVd1lMNzNtSE41o2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
-  - contentinfo "Danaher Life Sciences companies" [ref=e26]:
-    - generic [ref=e28]:
-      - link "Abcam" [ref=e30] [cursor=pointer]:
-        - /url: https://www.abcam.com/
-        - img "Abcam" [ref=e31]
-      - link "Aldevron" [ref=e33] [cursor=pointer]:
-        - /url: https://www.aldevron.com/
-        - img "Aldevron" [ref=e34]
-      - link "Beckman Coulter Life Sciences" [ref=e36] [cursor=pointer]:
-        - /url: https://www.mybeckman.com/
-        - img "Beckman Coulter Life Sciences" [ref=e37]
-      - link "Genedata" [ref=e39] [cursor=pointer]:
-        - /url: https://www.genedata.com/
-        - img "Genedata" [ref=e40]
-      - link "IDBS" [ref=e42] [cursor=pointer]:
-        - /url: https://www.idbs.com/
-        - img "IDBS" [ref=e43]
-      - link "IDT" [ref=e45] [cursor=pointer]:
-        - /url: https://www.idtdna.com/
-        - img "IDT" [ref=e46]
-      - link "Leica Microsystems" [ref=e48] [cursor=pointer]:
-        - /url: https://www.leica-microsystems.com/
-        - img "Leica Microsystems" [ref=e49]
-      - link "Molecular Devices" [ref=e51] [cursor=pointer]:
-        - /url: https://www.moleculardevices.com/
-        - img "Molecular Devices" [ref=e52]
-      - link "Phenomenex" [ref=e54] [cursor=pointer]:
-        - /url: https://www.phenomenex.com/
-        - img "Phenomenex" [ref=e55]
-      - link "SCIEX" [ref=e57] [cursor=pointer]:
-        - /url: https://www.sciex.com/
-        - img "SCIEX" [ref=e58]
+    - generic:
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - button "Feedback - Show survey" [ref=e165] [cursor=pointer]:
+                - img [ref=e167]
+                - generic [ref=e169]: Feedback
+              - dialog:
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - generic:
+                            - heading [level=2]: How would you rate your experience?
+                            - radiogroup:
+                              - generic:
+                                - generic: Not satisfied at all
+                                - generic: Very satisfied
+                          - generic:
+                            - generic:
+                              - button [disabled]: Next
+  - iframe [ref=e172]:
+    - generic [ref=f29e4]:
+      - text: protected by
+      - strong [ref=f29e5]: reCAPTCHA
+  - iframe [ref=e173]:
+    - button "Open Live Chat window" [ref=f33e2] [cursor=pointer]:
+      - img [ref=f33e4]
 ```
