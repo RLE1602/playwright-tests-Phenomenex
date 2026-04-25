@@ -33,11 +33,11 @@
               - text: Quote
               - generic [ref=e50]: sms
               - generic [ref=e51]: "0"
-            - link "Cart shopping_cart 103" [ref=e53] [cursor=pointer]:
+            - link "Cart shopping_cart 107" [ref=e53] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/cart.html
               - text: Cart
               - generic [ref=e54]: shopping_cart
-              - generic [ref=e55]: "103"
+              - generic [ref=e55]: "107"
         - list [ref=e59]:
           - listitem [ref=e60] [cursor=pointer]:
             - generic [ref=e62]: LC
@@ -368,9 +368,9 @@
         - generic [ref=e437]:
           - img [ref=e439]
           - generic [ref=e440]:
-            - generic [ref=e441]: "Part: 00B-4755-B0"
-            - paragraph [ref=e442] [cursor=pointer]: Lux 3 µm i-Cellulose-5, LC Column 50 x 2.0 mm, EA
-            - generic [ref=e444]: $1,489.00 (USD) (EA)
+            - generic [ref=e441]: "Part: 00B-4456-B0"
+            - paragraph [ref=e442] [cursor=pointer]: Lux 3 µm Cellulose-2, LC Column 50 x 2 mm, Ea
+            - generic [ref=e444]: $1,282.00 (USD) (Ea)
           - generic [ref=e445]:
             - generic [ref=e447]:
               - link "link" [ref=e448] [cursor=pointer]:
@@ -387,9 +387,9 @@
         - generic [ref=e465]:
           - img [ref=e467]
           - generic [ref=e468]:
-            - generic [ref=e469]: "Part: 00B-4458-B0"
-            - paragraph [ref=e470] [cursor=pointer]: Lux 3 µm Cellulose-1, LC Column 50 x 2 mm, Ea
-            - generic [ref=e472]: $1,282.00 (USD) (Ea)
+            - generic [ref=e469]: "Part: 00B-4447-B0"
+            - paragraph [ref=e470] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e472]: $791.00 (USD) (Ea)
           - generic [ref=e473]:
             - generic [ref=e475]:
               - link "link" [ref=e476] [cursor=pointer]:
@@ -406,9 +406,9 @@
         - generic [ref=e493]:
           - img [ref=e495]
           - generic [ref=e496]:
-            - generic [ref=e497]: "Part: 00B-4439-B0"
-            - paragraph [ref=e498] [cursor=pointer]: Gemini 3 µm C18 110 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e500]: $902.00 (USD) (Ea)
+            - generic [ref=e497]: "Part: 00B-4444-B0"
+            - paragraph [ref=e498] [cursor=pointer]: Gemini 5 µm C6-Phenyl 110 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e500]: $877.00 (USD) (Ea)
           - generic [ref=e501]:
             - generic [ref=e503]:
               - link "link" [ref=e504] [cursor=pointer]:
@@ -425,9 +425,9 @@
         - generic [ref=e521]:
           - img [ref=e523]
           - generic [ref=e524]:
-            - generic [ref=e525]: "Part: 00B-4435-B0"
-            - paragraph [ref=e526] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e528]: $877.00 (USD) (Ea)
+            - generic [ref=e525]: "Part: 00B-4443-B0"
+            - paragraph [ref=e526] [cursor=pointer]: Gemini 3 µm C6-Phenyl 110 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e528]: $902.00 (USD) (Ea)
           - generic [ref=e529]:
             - generic [ref=e531]:
               - link "link" [ref=e532] [cursor=pointer]:
@@ -444,9 +444,9 @@
         - generic [ref=e549]:
           - img [ref=e551]
           - generic [ref=e552]:
-            - generic [ref=e553]: "Part: 00B-4398-B0"
-            - paragraph [ref=e554] [cursor=pointer]: Luna 5 µm SCX 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e556]: $774.00 (USD) (Ea)
+            - generic [ref=e553]: "Part: 00B-4755-B0"
+            - paragraph [ref=e554] [cursor=pointer]: Lux 3 µm i-Cellulose-5, LC Column 50 x 2.0 mm, EA
+            - generic [ref=e556]: $1,489.00 (USD) (EA)
           - generic [ref=e557]:
             - generic [ref=e559]:
               - link "link" [ref=e560] [cursor=pointer]:
@@ -463,9 +463,9 @@
         - generic [ref=e577]:
           - img [ref=e579]
           - generic [ref=e580]:
-            - generic [ref=e581]: "Part: 00B-4378-B0"
-            - paragraph [ref=e582] [cursor=pointer]: Luna 5 µm NH2 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e584]: $774.00 (USD) (Ea)
+            - generic [ref=e581]: "Part: 00B-4458-B0"
+            - paragraph [ref=e582] [cursor=pointer]: Lux 3 µm Cellulose-1, LC Column 50 x 2 mm, Ea
+            - generic [ref=e584]: $1,282.00 (USD) (Ea)
           - generic [ref=e585]:
             - generic [ref=e587]:
               - link "link" [ref=e588] [cursor=pointer]:
@@ -482,9 +482,9 @@
         - generic [ref=e605]:
           - img [ref=e607]
           - generic [ref=e608]:
-            - generic [ref=e609]: "Part: 00B-4377-B0"
-            - paragraph [ref=e610] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e612]: $791.00 (USD) (Ea)
+            - generic [ref=e609]: "Part: 00B-4439-B0"
+            - paragraph [ref=e610] [cursor=pointer]: Gemini 3 µm C18 110 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e612]: $902.00 (USD) (Ea)
           - generic [ref=e613]:
             - generic [ref=e615]:
               - link "link" [ref=e616] [cursor=pointer]:
@@ -501,9 +501,9 @@
         - generic [ref=e633]:
           - img [ref=e635]
           - generic [ref=e636]:
-            - generic [ref=e637]: "Part: 00B-4371-B0"
-            - paragraph [ref=e638] [cursor=pointer]: Synergi 2.5 µm Polar-RP 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e640]: $936.00 (USD) (Ea)
+            - generic [ref=e637]: "Part: 00B-4435-B0"
+            - paragraph [ref=e638] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e640]: $877.00 (USD) (Ea)
           - generic [ref=e641]:
             - generic [ref=e643]:
               - link "link" [ref=e644] [cursor=pointer]:
@@ -520,9 +520,9 @@
         - generic [ref=e661]:
           - img [ref=e663]
           - generic [ref=e664]:
-            - generic [ref=e665]: "Part: 00B-4311-B0"
-            - paragraph [ref=e666] [cursor=pointer]: Aqua 3 µm C18 125 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e668]: $1,376.00 (USD) (Ea)
+            - generic [ref=e665]: "Part: 00B-4398-B0"
+            - paragraph [ref=e666] [cursor=pointer]: Luna 5 µm SCX 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e668]: $774.00 (USD) (Ea)
           - generic [ref=e669]:
             - generic [ref=e671]:
               - link "link" [ref=e672] [cursor=pointer]:
@@ -539,9 +539,9 @@
         - generic [ref=e689]:
           - img [ref=e691]
           - generic [ref=e692]:
-            - generic [ref=e693]: "Part: 00B-4326-B0"
-            - paragraph [ref=e694] [cursor=pointer]: PolymerX 5 µm RP-1 100 Å, LC Column 50 x 2.0 mm, Ea
-            - generic [ref=e696]: $597.00 (USD) (Ea)
+            - generic [ref=e693]: "Part: 00B-4378-B0"
+            - paragraph [ref=e694] [cursor=pointer]: Luna 5 µm NH2 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e696]: $774.00 (USD) (Ea)
           - generic [ref=e697]:
             - generic [ref=e699]:
               - link "link" [ref=e700] [cursor=pointer]:
@@ -558,9 +558,9 @@
         - generic [ref=e717]:
           - img [ref=e719]
           - generic [ref=e720]:
-            - generic [ref=e721]: "Part: 00B-4257-B0"
-            - paragraph [ref=e722] [cursor=pointer]: Luna 5 µm Phenyl-Hexyl 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e724]: $774.00 (USD) (Ea)
+            - generic [ref=e721]: "Part: 00B-4377-B0"
+            - paragraph [ref=e722] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e724]: $791.00 (USD) (Ea)
           - generic [ref=e725]:
             - generic [ref=e727]:
               - link "link" [ref=e728] [cursor=pointer]:
@@ -577,9 +577,9 @@
         - generic [ref=e745]:
           - img [ref=e747]
           - generic [ref=e748]:
-            - generic [ref=e749]: "Part: 00B-4254-B0"
-            - paragraph [ref=e750] [cursor=pointer]: Luna 3 µm CN 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e752]: $791.00 (USD) (Ea)
+            - generic [ref=e749]: "Part: 00B-4371-B0"
+            - paragraph [ref=e750] [cursor=pointer]: Synergi 2.5 µm Polar-RP 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e752]: $936.00 (USD) (Ea)
           - generic [ref=e753]:
             - generic [ref=e755]:
               - link "link" [ref=e756] [cursor=pointer]:
@@ -596,9 +596,9 @@
         - generic [ref=e773]:
           - img [ref=e775]
           - generic [ref=e776]:
-            - generic [ref=e777]: "Part: 00B-4248-B0"
-            - paragraph [ref=e778] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e780]: $791.00 (USD) (Ea)
+            - generic [ref=e777]: "Part: 00B-4311-B0"
+            - paragraph [ref=e778] [cursor=pointer]: Aqua 3 µm C18 125 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e780]: $1,376.00 (USD) (Ea)
           - generic [ref=e781]:
             - generic [ref=e783]:
               - link "link" [ref=e784] [cursor=pointer]:
@@ -615,9 +615,9 @@
         - generic [ref=e801]:
           - img [ref=e803]
           - generic [ref=e804]:
-            - generic [ref=e805]: "Part: 00B-4114-B0"
-            - paragraph [ref=e806] [cursor=pointer]: Luna 3 µm C18 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e808]: $1,028.00 (USD) (Ea)
+            - generic [ref=e805]: "Part: 00B-4326-B0"
+            - paragraph [ref=e806] [cursor=pointer]: PolymerX 5 µm RP-1 100 Å, LC Column 50 x 2.0 mm, Ea
+            - generic [ref=e808]: $597.00 (USD) (Ea)
           - generic [ref=e809]:
             - generic [ref=e811]:
               - link "link" [ref=e812] [cursor=pointer]:
@@ -634,9 +634,9 @@
         - generic [ref=e829]:
           - img [ref=e831]
           - generic [ref=e832]:
-            - generic [ref=e833]: "Part: 00B-4162-B0"
-            - paragraph [ref=e834] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e836]: $791.00 (USD) (Ea)
+            - generic [ref=e833]: "Part: 00B-4257-B0"
+            - paragraph [ref=e834] [cursor=pointer]: Luna 5 µm Phenyl-Hexyl 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e836]: $774.00 (USD) (Ea)
           - generic [ref=e837]:
             - generic [ref=e839]:
               - link "link" [ref=e840] [cursor=pointer]:
@@ -653,9 +653,9 @@
         - generic [ref=e857]:
           - img [ref=e859]
           - generic [ref=e860]:
-            - generic [ref=e861]: "Part: 00B-4040-B0"
-            - paragraph [ref=e862] [cursor=pointer]: Luna 5 µm C8 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e864]: $1,006.00 (USD) (Ea)
+            - generic [ref=e861]: "Part: 00B-4254-B0"
+            - paragraph [ref=e862] [cursor=pointer]: Luna 3 µm CN 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e864]: $791.00 (USD) (Ea)
           - generic [ref=e865]:
             - generic [ref=e867]:
               - link "link" [ref=e868] [cursor=pointer]:
@@ -672,9 +672,9 @@
         - generic [ref=e885]:
           - img [ref=e887]
           - generic [ref=e888]:
-            - generic [ref=e889]: "Part: 00B-4729-B0"
-            - paragraph [ref=e890] [cursor=pointer]: Lux 3 µm Amylose-1, LC Column 50 x 2.0 mm, EA
-            - generic [ref=e892]: $1,246.00 (USD) (EA)
+            - generic [ref=e889]: "Part: 00B-4248-B0"
+            - paragraph [ref=e890] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e892]: $791.00 (USD) (Ea)
           - generic [ref=e893]:
             - generic [ref=e895]:
               - link "link" [ref=e896] [cursor=pointer]:
@@ -691,9 +691,9 @@
         - generic [ref=e913]:
           - img [ref=e915]
           - generic [ref=e916]:
-            - generic [ref=e917]: "Part: 00B-4456-B0"
-            - paragraph [ref=e918] [cursor=pointer]: Lux 3 µm Cellulose-2, LC Column 50 x 2 mm, Ea
-            - generic [ref=e920]: $1,282.00 (USD) (Ea)
+            - generic [ref=e917]: "Part: 00B-4162-B0"
+            - paragraph [ref=e918] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e920]: $791.00 (USD) (Ea)
           - generic [ref=e921]:
             - generic [ref=e923]:
               - link "link" [ref=e924] [cursor=pointer]:
@@ -710,9 +710,9 @@
         - generic [ref=e941]:
           - img [ref=e943]
           - generic [ref=e944]:
-            - generic [ref=e945]: "Part: 00B-4447-B0"
-            - paragraph [ref=e946] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 50 x 2 mm, Ea
-            - generic [ref=e948]: $791.00 (USD) (Ea)
+            - generic [ref=e945]: "Part: 00B-4114-B0"
+            - paragraph [ref=e946] [cursor=pointer]: Luna 3 µm C18 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e948]: $1,028.00 (USD) (Ea)
           - generic [ref=e949]:
             - generic [ref=e951]:
               - link "link" [ref=e952] [cursor=pointer]:
@@ -868,20 +868,21 @@
           - link "Impressum" [ref=e1074] [cursor=pointer]:
             - /url: /phx-impressum
         - generic [ref=e1075]: © 2026 Phenomenex Inc. All rights reserved.
-  - iframe [ref=e1077]:
-    - button "Click to start chatting" [ref=f25e2] [cursor=pointer]:
-      - img [ref=f25e4]
-  - generic:
-    - generic:
-      - generic [ref=e1078]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more.}"
-      - iframe [ref=e1079]:
-        - generic [ref=f13e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f13e2]:
-            - img [ref=f13e3]
-          - generic [ref=f13e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f13e6]:
-              - generic [ref=f13e8]:
-                - text: LIVE CHAT NOW!
-                - text: Our experts can help with product recommendations, quotes and more.
-            - button "Type and start" [ref=f13e9]
+  - generic [ref=e1078]:
+    - generic [ref=e1079]: Also of Interest
+    - list [ref=e1080]:
+      - listitem [ref=e1081]:
+        - link "Optimize HPLC Method with Interactive Web Tools" [ref=e1082] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/tools?ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2
+        - text: "|"
+      - listitem [ref=e1083]:
+        - link "Verex Filter Vials for Filtration and Analysis" [ref=e1084] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2
+        - text: "|"
+      - listitem [ref=e1085]:
+        - link "Leader in Analytical Chemistry Solutions" [ref=e1086] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2&ajs_aid=9640210b-79c4-414c-a1c2-0c037fdf8bb2
+  - iframe [ref=e1087]:
+    - button "Close Live Chat window" [ref=f21e2] [cursor=pointer]:
+      - img [ref=f21e4]
 ```

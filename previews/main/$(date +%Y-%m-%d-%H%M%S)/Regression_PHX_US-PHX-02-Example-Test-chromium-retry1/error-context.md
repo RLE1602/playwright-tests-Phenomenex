@@ -118,5 +118,4 @@
         - text: "|"
         - link "Zebron Gas Chromatography Columns | Phenomenex" [ref=e88] [cursor=pointer]:
           - /url: https://stage10.phenomenex.com/products/zebron-gc-columns
-  - img [ref=e89]
 ```

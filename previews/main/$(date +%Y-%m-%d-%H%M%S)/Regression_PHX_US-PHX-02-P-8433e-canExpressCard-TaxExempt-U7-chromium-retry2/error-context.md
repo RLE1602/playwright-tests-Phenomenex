@@ -215,8 +215,8 @@
         - generic [ref=e232]:
           - img [ref=e234]
           - generic [ref=e235]:
-            - generic [ref=e236]: "Part: 00D-4496-A0"
-            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e236]: "Part: 00B-4496-A0"
+            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e239]: ()
           - generic [ref=e240]:
             - generic [ref=e242]:
@@ -230,8 +230,8 @@
         - generic [ref=e255]:
           - img [ref=e257]
           - generic [ref=e258]:
-            - generic [ref=e259]: "Part: 00B-4496-A0"
-            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e259]: "Part: 00D-4496-A0"
+            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e262]: ()
           - generic [ref=e263]:
             - generic [ref=e265]:
@@ -260,8 +260,8 @@
         - generic [ref=e301]:
           - img [ref=e303]
           - generic [ref=e304]:
-            - generic [ref=e305]: "Part: 00F-4496-AF"
-            - paragraph [ref=e306] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
+            - generic [ref=e305]: "Part: 00F-4496-AC"
+            - paragraph [ref=e306] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
             - generic [ref=e308]: ()
           - generic [ref=e309]:
             - generic [ref=e311]:
@@ -275,8 +275,8 @@
         - generic [ref=e324]:
           - img [ref=e326]
           - generic [ref=e327]:
-            - generic [ref=e328]: "Part: 00F-4496-AC"
-            - paragraph [ref=e329] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e328]: "Part: 00F-4496-AF"
+            - paragraph [ref=e329] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
             - generic [ref=e331]: ()
           - generic [ref=e332]:
             - generic [ref=e334]:
@@ -470,8 +470,8 @@
         - generic [ref=e623]:
           - img [ref=e625]
           - generic [ref=e626]:
-            - generic [ref=e627]: "Part: 00F-4167-A0"
-            - paragraph [ref=e628] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e627]: "Part: 00F-4162-A0"
+            - paragraph [ref=e628] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e630]: ()
           - generic [ref=e631]:
             - generic [ref=e633]:
@@ -485,8 +485,8 @@
         - generic [ref=e646]:
           - img [ref=e648]
           - generic [ref=e649]:
-            - generic [ref=e650]: "Part: 00F-4162-A0"
-            - paragraph [ref=e651] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e650]: "Part: 00F-4167-A0"
+            - paragraph [ref=e651] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e653]: ()
           - generic [ref=e654]:
             - generic [ref=e656]:
@@ -714,20 +714,21 @@
           - link "Impressum" [ref=e890] [cursor=pointer]:
             - /url: /phx-impressum
         - generic [ref=e891]: © 2026 Phenomenex Inc. All rights reserved.
-  - iframe [ref=e893]:
-    - button "Click to start chatting" [ref=f18e2] [cursor=pointer]:
-      - img [ref=f18e4]
-  - generic:
-    - generic:
-      - generic [ref=e894]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more.}"
-      - iframe [ref=e895]:
-        - generic [ref=f10e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f10e2]:
-            - img [ref=f10e3]
-          - generic [ref=f10e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f10e6]:
-              - generic [ref=f10e8]:
-                - text: LIVE CHAT NOW!
-                - text: Our experts can help with product recommendations, quotes and more.
-            - button "Type and start" [ref=f10e9]
+  - generic [ref=e894]:
+    - generic [ref=e895]: Also of Interest
+    - list [ref=e896]:
+      - listitem [ref=e897]:
+        - link "Optimize HPLC Method with Interactive Web Tools" [ref=e898] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/tools?ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877&ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877&ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877
+        - text: "|"
+      - listitem [ref=e899]:
+        - link "Verex Filter Vials for Filtration and Analysis" [ref=e900] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877&ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877&ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877
+        - text: "|"
+      - listitem [ref=e901]:
+        - link "Leader in Analytical Chemistry Solutions" [ref=e902] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877&ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877&ajs_aid=368841c4-93bf-4260-addf-2e6b8352f877
+  - iframe [ref=e903]:
+    - button "Close Live Chat window" [ref=f17e2] [cursor=pointer]:
+      - img [ref=f17e4]
 ```
