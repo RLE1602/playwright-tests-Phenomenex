@@ -215,8 +215,8 @@
         - generic [ref=e232]:
           - img [ref=e234]
           - generic [ref=e235]:
-            - generic [ref=e236]: "Part: 00B-4496-A0"
-            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e236]: "Part: 00D-4496-A0"
+            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e239]: ()
           - generic [ref=e240]:
             - generic [ref=e242]:
@@ -230,8 +230,8 @@
         - generic [ref=e255]:
           - img [ref=e257]
           - generic [ref=e258]:
-            - generic [ref=e259]: "Part: 00D-4496-A0"
-            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e259]: "Part: 00B-4496-A0"
+            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e262]: ()
           - generic [ref=e263]:
             - generic [ref=e265]:
@@ -470,8 +470,8 @@
         - generic [ref=e623]:
           - img [ref=e625]
           - generic [ref=e626]:
-            - generic [ref=e627]: "Part: 00F-4162-A0"
-            - paragraph [ref=e628] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e627]: "Part: 00F-4167-A0"
+            - paragraph [ref=e628] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e630]: ()
           - generic [ref=e631]:
             - generic [ref=e633]:
@@ -485,8 +485,8 @@
         - generic [ref=e646]:
           - img [ref=e648]
           - generic [ref=e649]:
-            - generic [ref=e650]: "Part: 00F-4167-A0"
-            - paragraph [ref=e651] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e650]: "Part: 00F-4162-A0"
+            - paragraph [ref=e651] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e653]: ()
           - generic [ref=e654]:
             - generic [ref=e656]:
@@ -719,15 +719,15 @@
     - list [ref=e896]:
       - listitem [ref=e897]:
         - link "Optimize HPLC Method with Interactive Web Tools" [ref=e898] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/tools?ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8&ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8&ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8
+          - /url: https://www.phenomenex.com/tools?ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49
         - text: "|"
       - listitem [ref=e899]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e900] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8&ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8&ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49
         - text: "|"
       - listitem [ref=e901]:
         - link "Leader in Analytical Chemistry Solutions" [ref=e902] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8&ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8&ajs_aid=91e67820-a3d8-4bb9-9391-1cd9eea33cd8
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49&ajs_aid=19b7cdc4-7913-4454-9855-62b488faef49
   - iframe [ref=e903]:
     - button "Close Live Chat window" [ref=f17e2] [cursor=pointer]:
       - img [ref=f17e4]
