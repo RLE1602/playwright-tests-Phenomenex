@@ -1,7 +1,7 @@
 # Page snapshot
 
 ```yaml
-- generic [active] [ref=e1]:
+- generic [ref=e1]:
   - generic:
     - img
     - paragraph: One Login. More Access.
@@ -18,13 +18,13 @@
           - generic [ref=e17]:
             - generic [ref=e18]:
               - generic [ref=e19]: Work email address *
-              - textbox "Work email address" [ref=e20]
+              - textbox "Work email address" [active] [ref=e20]
             - text: "!"
           - button "Continue" [ref=e22] [cursor=pointer]
         - paragraph [ref=e24]:
           - text: Need an account?
           - link "Sign up" [ref=e25] [cursor=pointer]:
-            - /url: /u/signup/identifier?state=hqFo2SBJR1Z5YkpTMlBUSTZVZmNlMXRmVWRWT0k1RTFnS01OYaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIEt2bk1kaUtmT3dIdEJNUkw2Q2JORndsUU00ekxId3p4o2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
+            - /url: /u/signup/identifier?state=hqFo2SBqdVlpR0xlUm80a2EwSmkwQUpOMndxdDE5U3Fpbjh3MKFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDNabUZ6OHI0cnFGTXY4ZHN1cjFwOWJOQ1FuVnFnU0Jfo2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
   - contentinfo "Danaher Life Sciences companies" [ref=e26]:
     - generic [ref=e28]:
       - link "Abcam" [ref=e30] [cursor=pointer]:
