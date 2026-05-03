@@ -20,7 +20,7 @@
           - textbox "Email Address" [active] [ref=e22]
           - generic [ref=e23]:
             - link "Forgot your password?" [ref=e24] [cursor=pointer]:
-              - /url: /phxauth.onmicrosoft.com/B2C_1_LSIG_SignIn_Development/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPassword&csrf_token=bnQ5N2xEdHUveFl6MnRhbG45SWFQNGV5Vlp6dFZadWM3cE5LZExLbGFBS3VvYkJxd3JlSUl3NTJ6Y1Viekx4S2M0cnpoUUZQZXFoYUFycGg0d2JWWEE9PTsyMDI2LTA1LTAyVDE0OjM0OjEyLjg3NDk3OTVaO0NKbWVhdU1FWks5d2FZdE1GUjRIQVE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&tx=StateProperties=eyJUSUQiOiI2MTk4NGFlZi00ZmVhLTQ3NWEtOGUxNy00NjM2NDUyZWQxM2IifQ&p=B2C_1_LSIG_SignIn_Development
+              - /url: /phxauth.onmicrosoft.com/B2C_1_LSIG_SignIn_Development/api/CombinedSigninAndSignup/unified?claimsexchange=ForgotPassword&csrf_token=aFJHVmdsWGZ2KzNuZWtjTldveWZ1OXIwcllPODN1blM2b25zRkYzdWc3blY5NkxORWcyMnJ6N0pRM1F2eEJEOUZSTFNVSHVvUkRESHp0NGlmSnNBYXc9PTsyMDI2LTA1LTAzVDE0OjMzOjQ2Ljg1Mjk4OThaO2EvL3l0RWY5ZnkxMS9NYVZKb2V0MUE9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&tx=StateProperties=eyJUSUQiOiI2Mjk1ZGY1OS1jODMyLTRmMDItOTc3Ni0zOWVjNzk2YjJiMjYifQ&p=B2C_1_LSIG_SignIn_Development
             - textbox "Password" [ref=e25]
           - button "Sign in" [ref=e27] [cursor=pointer]
     - generic [ref=e28]:
