@@ -215,8 +215,8 @@
         - generic [ref=e232]:
           - img [ref=e234]
           - generic [ref=e235]:
-            - generic [ref=e236]: "Part: 00D-4496-A0"
-            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e236]: "Part: 00B-4496-A0"
+            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e239]: ()
           - generic [ref=e240]:
             - generic [ref=e242]:
@@ -230,8 +230,8 @@
         - generic [ref=e255]:
           - img [ref=e257]
           - generic [ref=e258]:
-            - generic [ref=e259]: "Part: 00B-4496-A0"
-            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e259]: "Part: 00D-4496-A0"
+            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e262]: ()
           - generic [ref=e263]:
             - generic [ref=e265]:
@@ -260,8 +260,8 @@
         - generic [ref=e301]:
           - img [ref=e303]
           - generic [ref=e304]:
-            - generic [ref=e305]: "Part: 00F-4496-AF"
-            - paragraph [ref=e306] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
+            - generic [ref=e305]: "Part: 00F-4496-AC"
+            - paragraph [ref=e306] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
             - generic [ref=e308]: ()
           - generic [ref=e309]:
             - generic [ref=e311]:
@@ -275,8 +275,8 @@
         - generic [ref=e324]:
           - img [ref=e326]
           - generic [ref=e327]:
-            - generic [ref=e328]: "Part: 00F-4496-AC"
-            - paragraph [ref=e329] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e328]: "Part: 00F-4496-AF"
+            - paragraph [ref=e329] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
             - generic [ref=e331]: ()
           - generic [ref=e332]:
             - generic [ref=e334]:
@@ -320,8 +320,8 @@
         - generic [ref=e393]:
           - img [ref=e395]
           - generic [ref=e396]:
-            - generic [ref=e397]: "Part: 00F-4435-A0"
-            - paragraph [ref=e398] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e397]: "Part: 00F-4248-A0"
+            - paragraph [ref=e398] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e400]: ()
           - generic [ref=e401]:
             - generic [ref=e403]:
@@ -335,8 +335,8 @@
         - generic [ref=e416]:
           - img [ref=e418]
           - generic [ref=e419]:
-            - generic [ref=e420]: "Part: 00F-4424-A0"
-            - paragraph [ref=e421] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e420]: "Part: 00F-4726-A0"
+            - paragraph [ref=e421] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
             - generic [ref=e423]: ()
           - generic [ref=e424]:
             - generic [ref=e426]:
@@ -350,8 +350,8 @@
         - generic [ref=e439]:
           - img [ref=e441]
           - generic [ref=e442]:
-            - generic [ref=e443]: "Part: 00F-4377-A0"
-            - paragraph [ref=e444] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e443]: "Part: 00F-4742-A0"
+            - paragraph [ref=e444] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
             - generic [ref=e446]: ()
           - generic [ref=e447]:
             - generic [ref=e449]:
@@ -365,8 +365,8 @@
         - generic [ref=e462]:
           - img [ref=e464]
           - generic [ref=e465]:
-            - generic [ref=e466]: "Part: 00F-4375-A0"
-            - paragraph [ref=e467] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e466]: "Part: 00F-4447-A0"
+            - paragraph [ref=e467] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e469]: ()
           - generic [ref=e470]:
             - generic [ref=e472]:
@@ -380,8 +380,8 @@
         - generic [ref=e485]:
           - img [ref=e487]
           - generic [ref=e488]:
-            - generic [ref=e489]: "Part: 00F-4251-A0"
-            - paragraph [ref=e490] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e489]: "Part: 00F-4252-A0"
+            - paragraph [ref=e490] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e492]: ()
           - generic [ref=e493]:
             - generic [ref=e495]:
@@ -395,8 +395,8 @@
         - generic [ref=e508]:
           - img [ref=e510]
           - generic [ref=e511]:
-            - generic [ref=e512]: "Part: 00F-4167-A0"
-            - paragraph [ref=e513] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e512]: "Part: 00F-4435-A0"
+            - paragraph [ref=e513] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e515]: ()
           - generic [ref=e516]:
             - generic [ref=e518]:
@@ -410,8 +410,8 @@
         - generic [ref=e531]:
           - img [ref=e533]
           - generic [ref=e534]:
-            - generic [ref=e535]: "Part: 00F-4162-A0"
-            - paragraph [ref=e536] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e535]: "Part: 00F-4424-A0"
+            - paragraph [ref=e536] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e538]: ()
           - generic [ref=e539]:
             - generic [ref=e541]:
@@ -425,8 +425,8 @@
         - generic [ref=e554]:
           - img [ref=e556]
           - generic [ref=e557]:
-            - generic [ref=e558]: "Part: 00F-4748-A0"
-            - paragraph [ref=e559] [cursor=pointer]: Luna Omega 1.6 µm Polar C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e558]: "Part: 00F-4377-A0"
+            - paragraph [ref=e559] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e561]: ()
           - generic [ref=e562]:
             - generic [ref=e564]:
@@ -440,8 +440,8 @@
         - generic [ref=e577]:
           - img [ref=e579]
           - generic [ref=e580]:
-            - generic [ref=e581]: "Part: 00F-4248-A0"
-            - paragraph [ref=e582] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e581]: "Part: 00F-4375-A0"
+            - paragraph [ref=e582] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e584]: ()
           - generic [ref=e585]:
             - generic [ref=e587]:
@@ -455,8 +455,8 @@
         - generic [ref=e600]:
           - img [ref=e602]
           - generic [ref=e603]:
-            - generic [ref=e604]: "Part: 00F-4726-A0"
-            - paragraph [ref=e605] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e604]: "Part: 00F-4251-A0"
+            - paragraph [ref=e605] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e607]: ()
           - generic [ref=e608]:
             - generic [ref=e610]:
@@ -470,8 +470,8 @@
         - generic [ref=e623]:
           - img [ref=e625]
           - generic [ref=e626]:
-            - generic [ref=e627]: "Part: 00F-4742-A0"
-            - paragraph [ref=e628] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e627]: "Part: 00F-4167-A0"
+            - paragraph [ref=e628] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e630]: ()
           - generic [ref=e631]:
             - generic [ref=e633]:
@@ -485,8 +485,8 @@
         - generic [ref=e646]:
           - img [ref=e648]
           - generic [ref=e649]:
-            - generic [ref=e650]: "Part: 00F-4447-A0"
-            - paragraph [ref=e651] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e650]: "Part: 00F-4162-A0"
+            - paragraph [ref=e651] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e653]: ()
           - generic [ref=e654]:
             - generic [ref=e656]:
@@ -500,8 +500,8 @@
         - generic [ref=e669]:
           - img [ref=e671]
           - generic [ref=e672]:
-            - generic [ref=e673]: "Part: 00F-4252-A0"
-            - paragraph [ref=e674] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e673]: "Part: 00F-4748-A0"
+            - paragraph [ref=e674] [cursor=pointer]: Luna Omega 1.6 µm Polar C18 100 Å, LC Column 150 x 1.0 mm, Ea
             - generic [ref=e676]: ()
           - generic [ref=e677]:
             - generic [ref=e679]:
@@ -545,8 +545,8 @@
         - generic [ref=e738]:
           - img [ref=e740]
           - generic [ref=e741]:
-            - generic [ref=e742]: "Part: 00B-4496-AC"
-            - paragraph [ref=e743] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 0.3 mm, microflow, Ea
+            - generic [ref=e742]: "Part: 00A-4496-AN"
+            - paragraph [ref=e743] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
             - generic [ref=e745]: ()
           - generic [ref=e746]:
             - generic [ref=e748]:
@@ -557,160 +557,191 @@
                 - /url: javascript:void(0)
                 - generic [ref=e752]: favorite_border
             - textbox [ref=e756]
-        - button "SHOW MORE" [ref=e758] [cursor=pointer]:
-          - generic [ref=e759]:
-            - text: SHOW MORE
-            - img [ref=e760]: keyboard_arrow_down
-    - generic [ref=e764]:
-      - generic [ref=e767]:
-        - generic [ref=e768]:
+        - generic [ref=e761]:
+          - img [ref=e763]
+          - generic [ref=e764]:
+            - generic [ref=e765]: "Part: 00D-4496-AN"
+            - paragraph [ref=e766] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
+            - generic [ref=e768]: ()
           - generic [ref=e769]:
-            - img "Phenomenex" [ref=e771]
-            - generic [ref=e773]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
-            - link "Connect With Us" [ref=e775] [cursor=pointer]:
+            - generic [ref=e771]:
+              - link "link" [ref=e772] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - generic [ref=e773]: link
+              - link "favorite_border" [ref=e774] [cursor=pointer]:
+                - /url: javascript:void(0)
+                - generic [ref=e775]: favorite_border
+            - textbox [ref=e779]
+        - button "SHOW MORE" [ref=e781] [cursor=pointer]:
+          - generic [ref=e782]:
+            - text: SHOW MORE
+            - img [ref=e783]: keyboard_arrow_down
+    - generic [ref=e787]:
+      - generic [ref=e790]:
+        - generic [ref=e791]:
+          - generic [ref=e792]:
+            - img "Phenomenex" [ref=e794]
+            - generic [ref=e796]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+            - link "Connect With Us" [ref=e798] [cursor=pointer]:
               - /url: https://discover.phenomenex.com/customersupport
-          - generic [ref=e777]:
-            - generic [ref=e778]:
-              - paragraph [ref=e779]: Products and Services
-              - paragraph [ref=e780]:
-                - link "Products" [ref=e781] [cursor=pointer]:
+          - generic [ref=e800]:
+            - generic [ref=e801]:
+              - paragraph [ref=e802]: Products and Services
+              - paragraph [ref=e803]:
+                - link "Products" [ref=e804] [cursor=pointer]:
                   - /url: /service-listing-products
-              - paragraph [ref=e782]:
-                - link "Techniques" [ref=e783] [cursor=pointer]:
+              - paragraph [ref=e805]:
+                - link "Techniques" [ref=e806] [cursor=pointer]:
                   - /url: /service-listing-techniques
-              - paragraph [ref=e784]:
-                - link "Industries" [ref=e785] [cursor=pointer]:
+              - paragraph [ref=e807]:
+                - link "Industries" [ref=e808] [cursor=pointer]:
                   - /url: /service-listing-industries
-              - paragraph [ref=e786]:
-                - link "Quick Order" [ref=e787] [cursor=pointer]:
+              - paragraph [ref=e809]:
+                - link "Quick Order" [ref=e810] [cursor=pointer]:
                   - /url: /quick-order
-            - generic [ref=e788]:
-              - paragraph [ref=e789]: Support
-              - paragraph [ref=e790]:
-                - link "Product/Method Support" [ref=e791] [cursor=pointer]:
+            - generic [ref=e811]:
+              - paragraph [ref=e812]: Support
+              - paragraph [ref=e813]:
+                - link "Product/Method Support" [ref=e814] [cursor=pointer]:
                   - /url: https://discover.phenomenex.com/customersupport
-              - paragraph [ref=e792]:
-                - link "Troubleshooting Help" [ref=e793] [cursor=pointer]:
+              - paragraph [ref=e815]:
+                - link "Troubleshooting Help" [ref=e816] [cursor=pointer]:
                   - /url: https://discover.phenomenex.com/technical-support
-              - paragraph [ref=e794]:
-                - link "Contact Us" [ref=e795] [cursor=pointer]:
+              - paragraph [ref=e817]:
+                - link "Contact Us" [ref=e818] [cursor=pointer]:
                   - /url: /contact-us
-              - paragraph [ref=e796]:
-                - link "CQA / CofA" [ref=e797] [cursor=pointer]:
+              - paragraph [ref=e819]:
+                - link "CQA / CofA" [ref=e820] [cursor=pointer]:
                   - /url: /dashboard/cqa
-            - generic [ref=e798]:
-              - paragraph [ref=e799]: Our company
-              - paragraph [ref=e800]:
-                - link "About Phenomenex" [ref=e801] [cursor=pointer]:
+            - generic [ref=e821]:
+              - paragraph [ref=e822]: Our company
+              - paragraph [ref=e823]:
+                - link "About Phenomenex" [ref=e824] [cursor=pointer]:
                   - /url: /our-company/about-phenomenex
-              - paragraph [ref=e802]:
-                - link "Blog" [ref=e803] [cursor=pointer]:
+              - paragraph [ref=e825]:
+                - link "Blog" [ref=e826] [cursor=pointer]:
                   - /url: /our-company/phenomenex-blog
-              - paragraph [ref=e804]:
-                - link "News" [ref=e805] [cursor=pointer]:
+              - paragraph [ref=e827]:
+                - link "News" [ref=e828] [cursor=pointer]:
                   - /url: /news
-              - paragraph [ref=e806]:
-                - link "Danaher Life Sciences" [ref=e807] [cursor=pointer]:
+              - paragraph [ref=e829]:
+                - link "Danaher Life Sciences" [ref=e830] [cursor=pointer]:
                   - /url: https://lifesciences.danaher.com/?utm_source=phenomenex_website&amp;utm_medium=referral&amp;utm_content=footer&amp;ajs_aid=d5d95cbf-ead4-43e4-a243-b3a5be722d51
-          - generic [ref=e808]:
-            - generic [ref=e809]:
-              - link "Facebook" [ref=e810] [cursor=pointer]:
+          - generic [ref=e831]:
+            - generic [ref=e832]:
+              - link "Facebook" [ref=e833] [cursor=pointer]:
                 - /url: http://www.facebook.com/phenomenex
-                - img "Facebook" [ref=e811]
-              - link "Instagram" [ref=e812] [cursor=pointer]:
+                - img "Facebook" [ref=e834]
+              - link "Instagram" [ref=e835] [cursor=pointer]:
                 - /url: https://www.instagram.com/phenomenex
-                - img "Instagram" [ref=e813]
-              - link "Linkedln" [ref=e814] [cursor=pointer]:
+                - img "Instagram" [ref=e836]
+              - link "Linkedln" [ref=e837] [cursor=pointer]:
                 - /url: http://www.linkedin.com/company/phenomenex
-                - img "Linkedln" [ref=e815]
-              - link "Twitter" [ref=e816] [cursor=pointer]:
+                - img "Linkedln" [ref=e838]
+              - link "Twitter" [ref=e839] [cursor=pointer]:
                 - /url: http://www.twitter.com/phenomenex
-                - img "Twitter" [ref=e817]
-              - link "Youtube" [ref=e818] [cursor=pointer]:
+                - img "Twitter" [ref=e840]
+              - link "Youtube" [ref=e841] [cursor=pointer]:
                 - /url: http://www.youtube.com/user/phenomenex
-                - img "Youtube" [ref=e819]
-            - img "Danaher" [ref=e820]
-        - generic [ref=e824]:
-          - link "Company Logo" [ref=e825] [cursor=pointer]:
-            - /url: https://www.abcam.com
-            - img "Company Logo" [ref=e826]
-          - link "Company Logo" [ref=e827] [cursor=pointer]:
-            - /url: https://www.aldevron.com
-            - img "Company Logo" [ref=e828]
-          - link "Company Logo" [ref=e829] [cursor=pointer]:
-            - /url: https://www.mybeckman.com
-            - img "Company Logo" [ref=e830]
-          - link "Company Logo" [ref=e831] [cursor=pointer]:
-            - /url: https://www.genedata.com
-            - img "Company Logo" [ref=e832]
-          - link "Company Logo" [ref=e833] [cursor=pointer]:
-            - /url: https://www.idbs.com
-            - img "Company Logo" [ref=e834]
-          - link "Company Logo" [ref=e835] [cursor=pointer]:
-            - /url: https://www.idtdna.com
-            - img "Company Logo" [ref=e836]
-          - link "Company Logo" [ref=e837] [cursor=pointer]:
-            - /url: https://www.leica-microsystems.com
-            - img "Company Logo" [ref=e838]
-          - link "Company Logo" [ref=e839] [cursor=pointer]:
-            - /url: https://www.moleculardevices.com
-            - img "Company Logo" [ref=e840]
-          - link "Company Logo" [ref=e841] [cursor=pointer]:
-            - /url: https://sciex.com/
-            - img "Company Logo" [ref=e842]
-      - generic [ref=e845]:
+                - img "Youtube" [ref=e842]
+            - img "Danaher" [ref=e843]
         - generic [ref=e847]:
-          - generic [ref=e848]:
-            - link "Terms and Conditions" [ref=e849] [cursor=pointer]:
+          - link "Company Logo" [ref=e848] [cursor=pointer]:
+            - /url: https://www.abcam.com
+            - img "Company Logo" [ref=e849]
+          - link "Company Logo" [ref=e850] [cursor=pointer]:
+            - /url: https://www.aldevron.com
+            - img "Company Logo" [ref=e851]
+          - link "Company Logo" [ref=e852] [cursor=pointer]:
+            - /url: https://www.mybeckman.com
+            - img "Company Logo" [ref=e853]
+          - link "Company Logo" [ref=e854] [cursor=pointer]:
+            - /url: https://www.genedata.com
+            - img "Company Logo" [ref=e855]
+          - link "Company Logo" [ref=e856] [cursor=pointer]:
+            - /url: https://www.idbs.com
+            - img "Company Logo" [ref=e857]
+          - link "Company Logo" [ref=e858] [cursor=pointer]:
+            - /url: https://www.idtdna.com
+            - img "Company Logo" [ref=e859]
+          - link "Company Logo" [ref=e860] [cursor=pointer]:
+            - /url: https://www.leica-microsystems.com
+            - img "Company Logo" [ref=e861]
+          - link "Company Logo" [ref=e862] [cursor=pointer]:
+            - /url: https://www.moleculardevices.com
+            - img "Company Logo" [ref=e863]
+          - link "Company Logo" [ref=e864] [cursor=pointer]:
+            - /url: https://sciex.com/
+            - img "Company Logo" [ref=e865]
+      - generic [ref=e868]:
+        - generic [ref=e870]:
+          - generic [ref=e871]:
+            - link "Terms and Conditions" [ref=e872] [cursor=pointer]:
               - /url: /phx-terms-and-conditions-of-sale
             - text: "|"
-          - generic [ref=e850]:
-            - link "Privacy Statement" [ref=e851] [cursor=pointer]:
+          - generic [ref=e873]:
+            - link "Privacy Statement" [ref=e874] [cursor=pointer]:
               - /url: /phx-privacy-policy
             - text: "|"
-          - generic [ref=e852]:
-            - link "Quality Policy" [ref=e853] [cursor=pointer]:
+          - generic [ref=e875]:
+            - link "Quality Policy" [ref=e876] [cursor=pointer]:
               - /url: /phx-quality-policy
             - text: "|"
-          - generic [ref=e854]:
-            - link "Terms of Use" [ref=e855] [cursor=pointer]:
+          - generic [ref=e877]:
+            - link "Terms of Use" [ref=e878] [cursor=pointer]:
               - /url: /phx-site-terms-of-use
             - text: "|"
-          - generic [ref=e856]:
-            - link "Trademarks" [ref=e857] [cursor=pointer]:
+          - generic [ref=e879]:
+            - link "Trademarks" [ref=e880] [cursor=pointer]:
               - /url: /phx-trademarks
             - text: "|"
-          - generic [ref=e858]:
-            - link "CA Supply Chains Act" [ref=e859] [cursor=pointer]:
+          - generic [ref=e881]:
+            - link "CA Supply Chains Act" [ref=e882] [cursor=pointer]:
               - /url: /phx-california-supply-chains-act
             - text: "|"
-          - generic [ref=e860]:
-            - link "CA Consumer Privacy" [ref=e861] [cursor=pointer]:
+          - generic [ref=e883]:
+            - link "CA Consumer Privacy" [ref=e884] [cursor=pointer]:
               - /url: /phx-california-consumer-rights-notice
             - text: "|"
-          - generic [ref=e862]:
-            - link "Cookie Policy" [ref=e863] [cursor=pointer]:
+          - generic [ref=e885]:
+            - link "Cookie Policy" [ref=e886] [cursor=pointer]:
               - /url: /phx-cookie-policy
             - text: "|"
-          - generic [ref=e864]:
-            - link "Cookie Settings" [ref=e865] [cursor=pointer]:
+          - generic [ref=e887]:
+            - link "Cookie Settings" [ref=e888] [cursor=pointer]:
               - /url: /phx-cookie-policy
             - text: "|"
-          - link "Impressum" [ref=e867] [cursor=pointer]:
+          - link "Impressum" [ref=e890] [cursor=pointer]:
             - /url: /phx-impressum
-        - generic [ref=e868]: © 2026 Phenomenex Inc. All rights reserved.
-  - generic [ref=e871]:
-    - generic [ref=e872]: Also of Interest
-    - list [ref=e873]:
-      - listitem [ref=e874]:
-        - link "Verex Filter Vials for Filtration and Analysis" [ref=e875] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986
+        - generic [ref=e891]: © 2026 Phenomenex Inc. All rights reserved.
+  - generic [ref=e894]:
+    - generic [ref=e895]: Also of Interest
+    - list [ref=e896]:
+      - listitem [ref=e897]:
+        - link "Verex Filter Vials for Filtration and Analysis" [ref=e898] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb
         - text: "|"
-      - listitem [ref=e876]:
-        - link "Leader in Analytical Chemistry Solutions" [ref=e877] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986
+      - listitem [ref=e899]:
+        - link "Leader in Analytical Chemistry Solutions" [ref=e900] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb
         - text: "|"
-      - listitem [ref=e878]:
-        - link "Filtration Prior to HPLC Analysis" [ref=e879] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986&ajs_aid=c4c2e03f-523a-4da5-b012-8bdafadbd986
+      - listitem [ref=e901]:
+        - link "Filtration Prior to HPLC Analysis" [ref=e902] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb&ajs_aid=4adc6952-4086-46b5-b91c-e59cd947d7fb
+  - iframe [ref=e903]:
+    - button "Click to start chatting" [ref=f21e2] [cursor=pointer]:
+      - img [ref=f21e4]
+  - generic:
+    - generic:
+      - generic [ref=e904]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more.}"
+      - iframe [ref=e905]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more." [ref=f13e6]:
+              - generic [ref=f13e8]:
+                - text: LIVE CHAT NOW!
+                - text: Our experts can help with product recommendations, quotes and more.
+            - button "Type and start" [ref=f13e9]
 ```

@@ -24,7 +24,7 @@
         - paragraph [ref=e24]:
           - text: Need an account?
           - link "Sign up" [ref=e25] [cursor=pointer]:
-            - /url: /u/signup/identifier?state=hqFo2SBwemFQSXRCUUZwNnlJb19VUGZ3bG1xc3ZlQlVPbGt2N6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIFBCUVlESkZ5ZUJ5dlplY2dFSkYwcG55dXAwclJ1TVlQo2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
+            - /url: /u/signup/identifier?state=hqFo2SBNYUZ3MG54X3dfS1NSWjJORDZmMERKWVZvTk12OWM3d6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDdLX043bFQ1cm01NjhDS1VEZk93Qk41VzJLazJsWTBao2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
   - contentinfo "Danaher Life Sciences companies" [ref=e26]:
     - generic [ref=e28]:
       - link "Abcam" [ref=e30] [cursor=pointer]:
