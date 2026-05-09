@@ -260,8 +260,8 @@
         - generic [ref=e301]:
           - img [ref=e303]
           - generic [ref=e304]:
-            - generic [ref=e305]: "Part: 00F-4496-AC"
-            - paragraph [ref=e306] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e305]: "Part: 00F-4496-AF"
+            - paragraph [ref=e306] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
             - generic [ref=e308]: ()
           - generic [ref=e309]:
             - generic [ref=e311]:
@@ -275,8 +275,8 @@
         - generic [ref=e324]:
           - img [ref=e326]
           - generic [ref=e327]:
-            - generic [ref=e328]: "Part: 00F-4496-AF"
-            - paragraph [ref=e329] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
+            - generic [ref=e328]: "Part: 00F-4496-AC"
+            - paragraph [ref=e329] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
             - generic [ref=e331]: ()
           - generic [ref=e332]:
             - generic [ref=e334]:
@@ -290,8 +290,8 @@
         - generic [ref=e347]:
           - img [ref=e349]
           - generic [ref=e350]:
-            - generic [ref=e351]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e352] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e351]: "Part: 00F-4496-E0"
+            - paragraph [ref=e352] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
             - generic [ref=e354]: ()
           - generic [ref=e355]:
             - generic [ref=e357]:
@@ -305,8 +305,8 @@
         - generic [ref=e370]:
           - img [ref=e372]
           - generic [ref=e373]:
-            - generic [ref=e374]: "Part: 00F-4496-E0"
-            - paragraph [ref=e375] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
+            - generic [ref=e374]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e375] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
             - generic [ref=e377]: ()
           - generic [ref=e378]:
             - generic [ref=e380]:
@@ -703,30 +703,17 @@
     - generic [ref=e872]: Also of Interest
     - list [ref=e873]:
       - listitem [ref=e874]:
-        - link "Verex Filter Vials for Filtration and Analysis" [ref=e875] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df
+        - link "Optimize HPLC Method with Interactive Web Tools" [ref=e875] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/tools?ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2&ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2&ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2
         - text: "|"
       - listitem [ref=e876]:
-        - link "Leader in Analytical Chemistry Solutions" [ref=e877] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df
+        - link "Filtration Prior to HPLC Analysis" [ref=e877] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2&ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2&ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2
         - text: "|"
       - listitem [ref=e878]:
-        - link "Filtration Prior to HPLC Analysis" [ref=e879] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df&ajs_aid=d5d649ae-7dc2-4a71-a299-7766099611df
+        - link "Verex Filter Vials for Filtration and Analysis" [ref=e879] [cursor=pointer]:
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2&ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2&ajs_aid=4dfff780-a190-409b-a2cb-17292bef1cf2
   - iframe [ref=e880]:
-    - button "Click to start chatting" [ref=f21e2] [cursor=pointer]:
-      - img [ref=f21e4]
-  - generic:
-    - generic:
-      - generic [ref=e881]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [ref=e882]:
-        - generic [ref=f13e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f13e2]:
-            - img [ref=f13e3]
-          - generic [ref=f13e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
-              - generic [ref=f13e8]:
-                - text: LIVE CHAT NOW!
-                - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f13e9]
+    - button "Close Live Chat window" [ref=f14e2] [cursor=pointer]:
+      - img [ref=f14e4]
 ```
