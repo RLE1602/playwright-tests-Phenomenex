@@ -215,8 +215,8 @@
         - generic [ref=e232]:
           - img [ref=e234]
           - generic [ref=e235]:
-            - generic [ref=e236]: "Part: 00D-4496-A0"
-            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e236]: "Part: 00B-4496-A0"
+            - paragraph [ref=e237] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e239]: ()
           - generic [ref=e240]:
             - generic [ref=e242]:
@@ -230,8 +230,8 @@
         - generic [ref=e255]:
           - img [ref=e257]
           - generic [ref=e258]:
-            - generic [ref=e259]: "Part: 00B-4496-A0"
-            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e259]: "Part: 00D-4496-A0"
+            - paragraph [ref=e260] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e262]: ()
           - generic [ref=e263]:
             - generic [ref=e265]:
@@ -395,8 +395,8 @@
         - generic [ref=e508]:
           - img [ref=e510]
           - generic [ref=e511]:
-            - generic [ref=e512]: "Part: 00F-4167-A0"
-            - paragraph [ref=e513] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e512]: "Part: 00F-4162-A0"
+            - paragraph [ref=e513] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e515]: ()
           - generic [ref=e516]:
             - generic [ref=e518]:
@@ -410,8 +410,8 @@
         - generic [ref=e531]:
           - img [ref=e533]
           - generic [ref=e534]:
-            - generic [ref=e535]: "Part: 00F-4162-A0"
-            - paragraph [ref=e536] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e535]: "Part: 00F-4167-A0"
+            - paragraph [ref=e536] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e538]: ()
           - generic [ref=e539]:
             - generic [ref=e541]:
@@ -704,15 +704,15 @@
     - list [ref=e873]:
       - listitem [ref=e874]:
         - link "Optimize HPLC Method with Interactive Web Tools" [ref=e875] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/tools?ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969
+          - /url: https://www.phenomenex.com/tools?ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416
         - text: "|"
       - listitem [ref=e876]:
         - link "Filtration Prior to HPLC Analysis" [ref=e877] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416
         - text: "|"
       - listitem [ref=e878]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e879] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969&ajs_aid=611a6dd8-4185-4e57-afb9-0b48c7f2a969
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416&ajs_aid=c0a06e27-fe0e-42ac-8adc-365a0539a416
   - iframe [ref=e880]:
     - button "Close Live Chat window" [ref=f17e2] [cursor=pointer]:
       - img [ref=f17e4]

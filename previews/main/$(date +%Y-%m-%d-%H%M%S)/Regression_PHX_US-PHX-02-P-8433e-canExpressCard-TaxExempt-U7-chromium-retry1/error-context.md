@@ -269,8 +269,8 @@
         - generic [ref=e286]:
           - img [ref=e288]
           - generic [ref=e289]:
-            - generic [ref=e290]: "Part: 00D-4446-B0"
-            - paragraph [ref=e291] [cursor=pointer]: Luna 2.5 µm C18(2)-HST 100 Å, LC Column 100 x 2 mm, Ea
+            - generic [ref=e290]: "Part: 00A-4446-B0"
+            - paragraph [ref=e291] [cursor=pointer]: Luna 2.5 µm C18(2)-HST 100 Å, LC Column 30 x 2 mm, Ea
             - generic [ref=e293]: ()
           - generic [ref=e294]:
             - generic [ref=e296]:
@@ -284,8 +284,8 @@
         - generic [ref=e309]:
           - img [ref=e311]
           - generic [ref=e312]:
-            - generic [ref=e313]: "Part: 00A-4446-B0"
-            - paragraph [ref=e314] [cursor=pointer]: Luna 2.5 µm C18(2)-HST 100 Å, LC Column 30 x 2 mm, Ea
+            - generic [ref=e313]: "Part: 00D-4446-B0"
+            - paragraph [ref=e314] [cursor=pointer]: Luna 2.5 µm C18(2)-HST 100 Å, LC Column 100 x 2 mm, Ea
             - generic [ref=e316]: ()
           - generic [ref=e317]:
             - generic [ref=e319]:
@@ -434,8 +434,8 @@
         - generic [ref=e539]:
           - img [ref=e541]
           - generic [ref=e542]:
-            - generic [ref=e543]: "Part: 00B-4378-B0"
-            - paragraph [ref=e544] [cursor=pointer]: Luna 5 µm NH2 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e543]: "Part: 00B-4439-B0"
+            - paragraph [ref=e544] [cursor=pointer]: Gemini 3 µm C18 110 Å, LC Column 50 x 2 mm, Ea
             - generic [ref=e546]: ()
           - generic [ref=e547]:
             - generic [ref=e549]:
@@ -449,8 +449,8 @@
         - generic [ref=e562]:
           - img [ref=e564]
           - generic [ref=e565]:
-            - generic [ref=e566]: "Part: 00B-4439-B0"
-            - paragraph [ref=e567] [cursor=pointer]: Gemini 3 µm C18 110 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e566]: "Part: 00B-4435-B0"
+            - paragraph [ref=e567] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 50 x 2 mm, Ea
             - generic [ref=e569]: ()
           - generic [ref=e570]:
             - generic [ref=e572]:
@@ -464,8 +464,8 @@
         - generic [ref=e585]:
           - img [ref=e587]
           - generic [ref=e588]:
-            - generic [ref=e589]: "Part: 00B-4435-B0"
-            - paragraph [ref=e590] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e589]: "Part: 00B-4398-B0"
+            - paragraph [ref=e590] [cursor=pointer]: Luna 5 µm SCX 100 Å, LC Column 50 x 2 mm, Ea
             - generic [ref=e592]: ()
           - generic [ref=e593]:
             - generic [ref=e595]:
@@ -479,8 +479,8 @@
         - generic [ref=e608]:
           - img [ref=e610]
           - generic [ref=e611]:
-            - generic [ref=e612]: "Part: 00B-4398-B0"
-            - paragraph [ref=e613] [cursor=pointer]: Luna 5 µm SCX 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e612]: "Part: 00B-4378-B0"
+            - paragraph [ref=e613] [cursor=pointer]: Luna 5 µm NH2 100 Å, LC Column 50 x 2 mm, Ea
             - generic [ref=e615]: ()
           - generic [ref=e616]:
             - generic [ref=e618]:
@@ -599,8 +599,8 @@
         - generic [ref=e792]:
           - img [ref=e794]
           - generic [ref=e795]:
-            - generic [ref=e796]: "Part: 00B-4162-B0"
-            - paragraph [ref=e797] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e796]: "Part: 00B-4114-B0"
+            - paragraph [ref=e797] [cursor=pointer]: Luna 3 µm C18 100 Å, LC Column 50 x 2 mm, Ea
             - generic [ref=e799]: ()
           - generic [ref=e800]:
             - generic [ref=e802]:
@@ -614,8 +614,8 @@
         - generic [ref=e815]:
           - img [ref=e817]
           - generic [ref=e818]:
-            - generic [ref=e819]: "Part: 00B-4114-B0"
-            - paragraph [ref=e820] [cursor=pointer]: Luna 3 µm C18 100 Å, LC Column 50 x 2 mm, Ea
+            - generic [ref=e819]: "Part: 00B-4162-B0"
+            - paragraph [ref=e820] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 50 x 2 mm, Ea
             - generic [ref=e822]: ()
           - generic [ref=e823]:
             - generic [ref=e825]:
@@ -773,16 +773,16 @@
     - list [ref=e950]:
       - listitem [ref=e951]:
         - link "Optimize HPLC Method with Interactive Web Tools" [ref=e952] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/tools?ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7
+          - /url: https://www.phenomenex.com/tools?ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7
         - text: "|"
       - listitem [ref=e953]:
         - link "Filtration Prior to HPLC Analysis" [ref=e954] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7
         - text: "|"
       - listitem [ref=e955]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e956] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7&ajs_aid=265edb28-4ecb-43b3-a32d-80076042c0d7
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7&ajs_aid=091147c2-69c3-4770-8ade-4bdb31df1ab7
   - iframe [ref=e957]:
-    - button "Close Live Chat window" [ref=f25e2] [cursor=pointer]:
-      - img [ref=f25e4]
+    - button "Close Live Chat window" [ref=f21e2] [cursor=pointer]:
+      - img [ref=f21e4]
 ```
