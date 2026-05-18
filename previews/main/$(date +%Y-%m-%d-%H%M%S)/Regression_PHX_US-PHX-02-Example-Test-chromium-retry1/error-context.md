@@ -1,60 +1,1055 @@
 # Page snapshot
 
 ```yaml
-- generic [ref=e1]:
-  - generic:
-    - img
-    - paragraph: One Login. More Access.
-    - paragraph: Use one account to access select Danaher life sciences companies today, with more joining later this year for a seamless experience.
-  - main [ref=e2]:
-    - generic [ref=e5]:
-      - generic [ref=e6]:
-        - img "Phenomenex Apps" [ref=e7]
-        - heading "Welcome" [level=1] [ref=e8]
-        - paragraph [ref=e10]: Use your Danaher login to sign into Phenomenex.
-      - generic [ref=e11]:
-        - generic [ref=e14]:
-          - button: Continue
-          - generic [ref=e17]:
-            - generic [ref=e18]:
-              - generic [ref=e19]: Work email address *
-              - textbox "Work email address" [active] [ref=e20]
-            - text: "!"
-          - button "Continue" [ref=e22] [cursor=pointer]
-        - paragraph [ref=e24]:
-          - text: Need an account?
-          - link "Sign up" [ref=e25] [cursor=pointer]:
-            - /url: /u/signup/identifier?state=hqFo2SBqNlBFSHBsTWZFYldTNTE2TkVONHlPSERJN3k3TkplWqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDJxSEIwSkNpdE5xLWZIeWJQQUw4UDg5UTNuSE03WHBto2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
-  - contentinfo "Danaher Life Sciences companies" [ref=e26]:
-    - generic [ref=e28]:
-      - link "Abcam" [ref=e30] [cursor=pointer]:
-        - /url: https://www.abcam.com/
-        - img "Abcam" [ref=e31]
-      - link "Aldevron" [ref=e33] [cursor=pointer]:
-        - /url: https://www.aldevron.com/
-        - img "Aldevron" [ref=e34]
-      - link "Beckman Coulter Life Sciences" [ref=e36] [cursor=pointer]:
-        - /url: https://www.mybeckman.com/
-        - img "Beckman Coulter Life Sciences" [ref=e37]
-      - link "Genedata" [ref=e39] [cursor=pointer]:
-        - /url: https://www.genedata.com/
-        - img "Genedata" [ref=e40]
-      - link "IDBS" [ref=e42] [cursor=pointer]:
-        - /url: https://www.idbs.com/
-        - img "IDBS" [ref=e43]
-      - link "IDT" [ref=e45] [cursor=pointer]:
-        - /url: https://www.idtdna.com/
-        - img "IDT" [ref=e46]
-      - link "Leica Microsystems" [ref=e48] [cursor=pointer]:
-        - /url: https://www.leica-microsystems.com/
-        - img "Leica Microsystems" [ref=e49]
-      - link "Molecular Devices" [ref=e51] [cursor=pointer]:
-        - /url: https://www.moleculardevices.com/
-        - img "Molecular Devices" [ref=e52]
-      - link "Phenomenex" [ref=e54] [cursor=pointer]:
-        - /url: https://www.phenomenex.com/
-        - img "Phenomenex" [ref=e55]
-      - link "SCIEX" [ref=e57] [cursor=pointer]:
-        - /url: https://www.sciex.com/
-        - img "SCIEX" [ref=e58]
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - generic:
+      - generic [ref=e3]:
+        - generic [ref=e5]:
+          - generic "Sign in" [ref=e6] [cursor=pointer]:
+            - img "user-icon" [ref=e8]
+            - generic [ref=e9]: Sign In
+          - generic [ref=e10] [cursor=pointer]:
+            - img "globe" [ref=e12]
+            - generic [ref=e13]: United States
+        - generic [ref=e15]:
+          - generic "Phenomenex Logo" [ref=e16]:
+            - link "logo-wave" [ref=e17] [cursor=pointer]:
+              - /url: /
+              - img "logo-wave" [ref=e19]
+          - generic [ref=e20]:
+            - searchbox "Search" [ref=e21]
+            - button "Search for input" [ref=e22] [cursor=pointer]:
+              - img "search-bar" [ref=e24]
+            - list [ref=e26]
+          - generic [ref=e27]:
+            - link "quick-order Quick Order" [ref=e28] [cursor=pointer]:
+              - /url: /quick-order
+              - img "quick-order" [ref=e30]
+              - generic [ref=e31]: Quick Order
+            - generic [ref=e32] [cursor=pointer]:
+              - img "quote" [ref=e34]
+              - generic [ref=e35]: Quote
+            - generic [ref=e36] [cursor=pointer]:
+              - img "cart" [ref=e38]
+              - generic [ref=e39]: Cart
+              - generic [ref=e40]: "0"
+        - generic [ref=e42]:
+          - generic [ref=e43] [cursor=pointer]: LC
+          - generic [ref=e44] [cursor=pointer]: GC
+          - generic [ref=e45] [cursor=pointer]: Sample Prep
+          - generic [ref=e46] [cursor=pointer]: Industry Applications
+          - generic [ref=e47] [cursor=pointer]: Resources
+          - generic [ref=e48] [cursor=pointer]: Our Company
+      - generic:
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img "phenomenex-logo"
+            - generic:
+              - generic:
+                - img "cross-black"
+          - generic:
+            - generic:
+              - generic:
+                - img "arrow-back"
+              - generic: Back to Menu
+          - generic:
+            - heading [level=4]
+          - list:
+            - listitem:
+              - text: Liquid Chromatography (LC)
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Gas Chromatography (GC)
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Sample Prep
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Industry Applications
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Resources
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Our Company
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Brands
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Formats/Techniques
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Separation Modes
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Particle Type
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Accessories
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - link "View All About LC":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography
+            - listitem:
+              - text: Brand
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Formats/Technology
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Types
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Accessories
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - link "View All About GC":
+                - /url: https://stage-aem.phenomenex.com/gas-chromatography
+            - listitem:
+              - text: Brands
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Formats/Technology
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Techniques
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Accessories
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - link "View All About Sample Prep":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation
+            - listitem:
+              - link "Beta-Glucuronidase Removal Products":
+                - /url: https://stage-aem.phenomenex.com/products/beta-gone-beta-glucuronidase-removal-products
+                - strong: Beta
+                - text: "-Glucuronidase Removal Products"
+            - listitem:
+              - link "Biozen MagBeads (Immunocapture)":
+                - /url: https://stage-aem.phenomenex.com/products/biozen-magbeads
+                - strong: Biozen
+                - text: MagBeads (Immunocapture)
+            - listitem:
+              - link "Biozen N-Glycan SPE Products":
+                - /url: https://stage-aem.phenomenex.com/products/biozen-n-glycan
+                - strong: Biozen
+                - text: N-Glycan SPE Products
+            - listitem:
+              - link "Clarity SPE":
+                - /url: https://stage-aem.phenomenex.com/products/clarityspe-sample-preparation-products
+                - strong: Clarity
+                - text: SPE
+            - listitem:
+              - link "Impact Protein Precipitation (PPT) Plates":
+                - /url: https://stage-aem.phenomenex.com/products/impact-protein-precipitation-plates
+                - strong: Impact
+                - text: Protein Precipitation (PPT) Plates
+            - listitem:
+              - link "Novum Supported Liquid Extraction (SLE) Plates":
+                - /url: https://stage-aem.phenomenex.com/products/novum-supported-liquid-extraction-plates
+                - strong: Novum
+                - text: Supported Liquid Extraction (SLE) Plates
+            - listitem:
+              - link "Phenex Syringe Filters":
+                - /url: https://stage-aem.phenomenex.com/products/phenex-syringe-filters
+                - strong: Phenex
+                - text: Syringe Filters
+            - listitem:
+              - link "Phree Phospholipid Removal (PLR) Products":
+                - /url: https://stage-aem.phenomenex.com/products/phree-phospholipid-removal-products
+                - strong: Phree
+                - text: Phospholipid Removal (PLR) Products
+            - listitem:
+              - link "roQ QuEChERS":
+                - /url: https://stage-aem.phenomenex.com/products/roq-quechers-kit
+                - strong: roQ
+                - text: QuEChERS
+            - listitem:
+              - link "Strata Solid Phase Extraction Products":
+                - /url: https://stage-aem.phenomenex.com/products/strata-solid-phase-extraction-products
+                - strong: Strata
+                - text: Solid Phase Extraction Products
+            - listitem:
+              - link "Strata SE Supported Liquid Extraction":
+                - /url: https://stage-aem.phenomenex.com/products/strata-solid-phase-extraction-products/strata-se-sle
+                - strong: Strata
+                - text: SE Supported Liquid Extraction
+            - listitem:
+              - link "Strata-X PRO Solid Phase Extraction (SPE) Products":
+                - /url: https://stage-aem.phenomenex.com/products/strata-x-pro-solid-phase-extraction-products
+                - strong: Strata-X
+                - text: PRO Solid Phase Extraction (SPE) Products
+            - listitem:
+              - link "Strata-X Solid Phase Extraction (SPE) Products":
+                - /url: https://stage-aem.phenomenex.com/products/strata-x-solid-phase-extraction-products
+                - strong: Strata-X
+                - text: Solid Phase Extraction (SPE) Products
+            - listitem:
+              - link "Vertex Filter Vials":
+                - /url: https://stage-aem.phenomenex.com/products/verex-filter-vials
+                - strong: Vertex
+                - text: Filter Vials
+            - listitem:
+              - link "View All Brands":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/service-listing-spe-brands
+            - listitem:
+              - link "96-Well Plate Format":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/formats-technology/sp-formats-96-well
+            - listitem:
+              - link "Application Specific Solutions":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/formats-technology/application-specific-solutions
+            - listitem:
+              - link "Bulk Media":
+                - /url: https://stage-aem.phenomenex.com/products/sepra-bulk-media
+            - listitem:
+              - link "Filter Vials":
+                - /url: https://stage-aem.phenomenex.com/products/verex-filter-vials
+            - listitem:
+              - link "Magnetic Beads":
+                - /url: https://stage-aem.phenomenex.com/products/biozenspe-sample-preparation-products
+            - listitem:
+              - link "Online Cartridge Formats":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/formats-technology/sp-formats-online-cartridges
+            - listitem:
+              - link "Supported Liquid Extraction (SLE)":
+                - /url: https://stage-aem.phenomenex.com/techniques/supported-liquid-extraction
+            - listitem:
+              - link "Syringe Filters":
+                - /url: https://stage-aem.phenomenex.com/products/phenex-syringe-filters
+            - listitem:
+              - link "SPE Tube Formats":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/formats-technology/sp-formats-tube
+            - listitem:
+              - link "View All Formats/Technologies":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/formats-technology
+            - listitem:
+              - link "β-Glucuronidase Removal":
+                - /url: https://stage-aem.phenomenex.com/techniques/beta-glucuronidase-removal
+            - listitem:
+              - link "Filtration":
+                - /url: https://stage-aem.phenomenex.com/products/phenex-syringe-filters
+            - listitem:
+              - link "Immunocapture":
+                - /url: https://stage-aem.phenomenex.com/techniques/magnetic-beads
+            - listitem:
+              - link "Oligonucleotide Purification":
+                - /url: https://stage-aem.phenomenex.com/techniques/oligonucleotide-purification
+            - listitem:
+              - link "Phospholipid Removal (PLR)":
+                - /url: https://stage-aem.phenomenex.com/techniques/phospholipid-removal
+            - listitem:
+              - link "Protein Precipitation (PPT)":
+                - /url: https://stage-aem.phenomenex.com/techniques/protein-precipitation
+            - listitem:
+              - link "QuEChERS":
+                - /url: https://stage-aem.phenomenex.com/techniques/quechers
+            - listitem:
+              - link "Solid Phase Extraction (SPE)":
+                - /url: https://stage-aem.phenomenex.com/techniques/solid-phase-extraction
+            - listitem:
+              - link "Supported Liquid Extraction (SLE)":
+                - /url: https://stage-aem.phenomenex.com/techniques/supported-liquid-extraction
+            - listitem:
+              - link "View All Techniques":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/techniques
+            - listitem:
+              - link "96-Well Collection Plates":
+                - /url: https://stage-aem.phenomenex.com/products/sample-prep-96-collection-plates
+            - listitem:
+              - link "96-Well Plate Vacuum Manifold":
+                - /url: https://stage-aem.phenomenex.com/products/sample-prep-96-well-plate-vacuum-manifold
+            - listitem:
+              - link "Sealing Mats":
+                - /url: https://stage-aem.phenomenex.com/products/sample-prep-sealing-mats
+            - listitem:
+              - link "SPE Tube Vacuum Manifold":
+                - /url: https://stage-aem.phenomenex.com/products/sample-prep-spe-tube-vacuum-manifold
+            - listitem:
+              - link "View All Accessories":
+                - /url: https://stage-aem.phenomenex.com/sample-preparation/spe-accessories
+            - listitem:
+              - link "Biopharmaceutical":
+                - /url: https://stage-aem.phenomenex.com/industries/biopharmaceutical
+            - listitem:
+              - link "Cannabis And Hemp":
+                - /url: https://stage-aem.phenomenex.com/industries/cannabis-and-hemp
+            - listitem:
+              - link "Chemicals And Energy":
+                - /url: https://stage-aem.phenomenex.com/industries/chemicals-and-energy
+            - listitem:
+              - link "Clinical Research":
+                - /url: https://stage-aem.phenomenex.com/industries/clinical-research
+            - listitem:
+              - link "Environmental":
+                - /url: https://stage-aem.phenomenex.com/industries/environmental
+            - listitem:
+              - link "Food And Beverage":
+                - /url: https://stage-aem.phenomenex.com/industries/food-and-beverage
+            - listitem:
+              - link "Forensic Toxicology":
+                - /url: https://stage-aem.phenomenex.com/industries/forensic-toxicology
+            - listitem:
+              - link "Nitrosamines":
+                - /url: https://stage-aem.phenomenex.com/industries/nitrosamines
+            - listitem:
+              - link "PFAS":
+                - /url: https://stage-aem.phenomenex.com/industries/pfas
+            - listitem:
+              - link "Pharmaceutical":
+                - /url: https://stage-aem.phenomenex.com/industries/pharmaceutical
+            - listitem:
+              - link "Universities & Academia":
+                - /url: https://stage-aem.phenomenex.com/industries/academic
+            - listitem:
+              - link "View All About Industry Applications":
+                - /url: https://stage-aem.phenomenex.com/industries
+            - listitem:
+              - link "Application Library":
+                - /url: https://stage-aem.phenomenex.com/resources/application-library
+            - listitem:
+              - text: Documents
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Knowledge Center & Training
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - link "Shopping Hub":
+                - /url: https://stage-aem.phenomenex.com/resources/shopping-hub
+            - listitem:
+              - link "Sign up Chromatography eNewsletter":
+                - /url: https://discover.phenomenex.com/newsletter-subscription
+            - listitem:
+              - text: Support
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - text: Web Tools
+              - generic:
+                - img "chevron-forward"
+            - listitem:
+              - link "View All About Resources":
+                - /url: https://stage-aem.phenomenex.com/resources
+            - listitem:
+              - link "About Us":
+                - /url: https://stage-aem.phenomenex.com/our-company/about-us
+            - listitem:
+              - link "About Danaher":
+                - /url: https://www.danaher.com/about-danaher
+            - listitem:
+              - link "Contact Us":
+                - /url: https://stage-aem.phenomenex.com/our-company/contact-us
+            - listitem:
+              - link "Newsroom":
+                - /url: https://stage-aem.phenomenex.com/our-company/newsroom
+            - listitem:
+              - link "Our Careers":
+                - /url: https://jobs.danaher.com/global/phenomenex-and-agela-search-results
+            - listitem:
+              - link "Our Quality Commitment":
+                - /url: https://stage-aem.phenomenex.com/our-company/phx-quality-policy
+            - listitem:
+              - link "Share Your Experience":
+                - /url: https://discover.phenomenex.com/testimonial
+            - listitem:
+              - link "Tradeshows and Events":
+                - /url: https://stage-aem.phenomenex.com/our-company/tradeshows-and-events
+            - listitem:
+              - link "View All About Our Company":
+                - /url: https://stage-aem.phenomenex.com/our-company
+            - listitem:
+              - link "Aeris Core-shell LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/aeris-hplc-column
+                - strong: Aeris
+                - text: Core-shell LC Columns
+            - listitem:
+              - link "Axia Preparative LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/axia-preparative-lc-column
+                - strong: Axia
+                - text: Preparative LC Columns
+            - listitem:
+              - link "Biozen Biologics LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/biozenlc-hplc-column
+                - strong: Biozen
+                - text: Biologics LC Columns
+            - listitem:
+              - link "Clarity Oligonucleotide LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/claritylc-hplc-column
+                - strong: Clarity
+                - text: Oligonucleotide LC Columns
+            - listitem:
+              - link "Gemini High pH LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/gemini-hplc-column
+                - strong: Gemini
+                - text: High pH LC Columns
+            - listitem:
+              - link "Kinetex Core-shell LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/kinetex-hplc-column
+                - strong: Kinetex
+                - text: Core-shell LC Columns
+            - listitem:
+              - link "Luna High Performance LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/luna-hplc-column
+                - strong: Luna
+                - text: High Performance LC Columns
+            - listitem:
+              - link "Luna Omega Robust High Performance LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/luna-omega-hplc-column
+                - strong: Luna Omega
+                - text: Robust High Performance LC Columns
+            - listitem:
+              - link "Lux Chiral LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/lux-chiral-lc-column
+                - strong: Lux
+                - text: Chiral LC Columns
+            - listitem:
+              - link "Onyx Monolithic LC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/onyx-hplc-column
+                - strong: Onyx
+                - text: Monolithic LC Columns
+            - listitem:
+              - link "Phenogel GPC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/phenogel-gpc-column
+                - strong: Phenogel
+                - text: GPC Columns
+            - listitem:
+              - link "Rezex Ion Exclusion Columns":
+                - /url: https://stage-aem.phenomenex.com/products/rezex-hplc-column
+                - strong: Rezex
+                - text: Ion Exclusion Columns
+            - listitem:
+              - link "SecurityGuard Universal Guard Cartridge System":
+                - /url: https://stage-aem.phenomenex.com/products/securityguard-lc-guard-cartridge-system
+                - strong: SecurityGuard
+                - text: Universal Guard Cartridge System
+            - listitem:
+              - link "Synergi Method Development HPLC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/synergi-hplc-column
+                - strong: Synergi
+                - text: Method Development HPLC Columns
+            - listitem:
+              - link "Yarra Ultra High Resolution GFC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/yarra-gfc-columns
+                - strong: Yarra
+                - text: Ultra High Resolution GFC Columns
+            - listitem:
+              - link "View All Brands":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/service-listing-lc-brands
+            - listitem:
+              - link "Analytical LC Columns":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/formats-techniques/lc-formats-analytical
+            - listitem:
+              - link "Flash":
+                - /url: https://stage-aem.phenomenex.com/techniques/flash
+            - listitem:
+              - link "HPLC Columns":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc
+            - listitem:
+              - link "Large Scale Purification":
+                - /url: https://stage-aem.phenomenex.com/techniques/bulk-media
+            - listitem:
+              - link "Micro LC Columns":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/formats-techniques/lc-formats-micro
+            - listitem:
+              - link "Nano LC Columns":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/formats-techniques/biozen-nano
+            - listitem:
+              - link "Preparative LC Columns":
+                - /url: https://stage-aem.phenomenex.com/techniques/preparative-lc
+            - listitem:
+              - link "UHPLC Columns":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/formats-techniques/lc-formats-uhplc-columns
+            - listitem:
+              - link "View All Formats/Techniques":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/formats-techniques
+            - listitem:
+              - link "Chiral":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-chiral
+            - listitem:
+              - link "Gel Filtration (GFC)":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-gfc
+            - listitem:
+              - link "Gel Permeation (GPC)":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-gpc
+            - listitem:
+              - link "HILIC":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-hilic-chromatography
+            - listitem:
+              - link "Ion Exchange":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-ion-exchange
+            - listitem:
+              - link "Ion Exclusion":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-ion-exclusion
+            - listitem:
+              - link "Normal Phase":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-normal-phase
+            - listitem:
+              - link "Reversed Phase":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-reversed-phase
+            - listitem:
+              - link "Size Exclusion (SEC)":
+                - /url: https://stage-aem.phenomenex.com/techniques/hplc-sec
+            - listitem:
+              - link "Supercritical Fluid (SFC)":
+                - /url: https://stage-aem.phenomenex.com/techniques/sfc
+            - listitem:
+              - link "View All Separation Modes":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/separation-modes
+            - listitem:
+              - link "Core-shell":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/particle-type/core-shell
+            - listitem:
+              - link "Fully Porous":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/particle-type/fully-porous
+            - listitem:
+              - link "Monolith":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/particle-type/monilithic-silica
+            - listitem:
+              - link "Polymeric":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/particle-type/polymeric-hplc-columns
+            - listitem:
+              - link "View All Particle Types":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/particle-type
+            - listitem:
+              - link "Accredited Standards":
+                - /url: https://stage-aem.phenomenex.com/products/phenova-reference-standards
+            - listitem:
+              - link "LC Column Connectors":
+                - /url: https://stage-aem.phenomenex.com/products/securitylink-lc-fittings
+            - listitem:
+              - link "Standard UHPLC Fitting":
+                - /url: https://stage-aem.phenomenex.com/products/securitylink-lc-fittings
+            - listitem:
+              - link "Vials":
+                - /url: https://stage-aem.phenomenex.com/products/verex-vials
+            - listitem:
+              - link "Tubing":
+                - /url: https://stage-aem.phenomenex.com/products/securitylink-lc-fittings
+            - listitem:
+              - link "Waste Solvent Safety Caps/Filters":
+                - /url: https://stage-aem.phenomenex.com/products/securitycap-solvent-safety-products
+            - listitem:
+              - link "View All Accessories":
+                - /url: https://stage-aem.phenomenex.com/liquid-chromatography/lc-accessories
+            - listitem:
+              - link "Zebron Low Bleed GC Columns":
+                - /url: https://stage-aem.phenomenex.com/products/zebron-gc-columns
+                - strong: Zebron
+                - text: Low Bleed GC Columns
+            - listitem:
+              - link "Capilary Columns":
+                - /url: https://stage-aem.phenomenex.com/techniques/capillary-columns
+            - listitem:
+              - link "Metal Columns":
+                - /url: https://stage-aem.phenomenex.com/gas-chromatography/formats-technology/metal-gc-columns
+            - listitem:
+              - link "View All Formats":
+                - /url: https://stage-aem.phenomenex.com/gas-chromatography/formats-technology
+            - listitem:
+              - link "Cool-lock Nut":
+                - /url: https://stage-aem.phenomenex.com/products/cool-lock-nut-gc-installation-nut
+            - listitem:
+              - link "Easy Seals GC Inlet Base Seals":
+                - /url: https://stage-aem.phenomenex.com/products/easy-seals-gc-inlet-base-seals
+            - listitem:
+              - link "Gas Management Products":
+                - /url: https://stage-aem.phenomenex.com/products/zebron-gas-management-products
+            - listitem:
+              - link "GC Column Unions and Splitters":
+                - /url: https://stage-aem.phenomenex.com/products/gc-column-unions-and-splitters
+            - listitem:
+              - link "GC Ferrules":
+                - /url: https://stage-aem.phenomenex.com/products/gc-ferrules
+            - listitem:
+              - link "GC Inlet Liners":
+                - /url: https://stage-aem.phenomenex.com/products/zebron-gc-liners
+            - listitem:
+              - link "GC Sealing O Rings":
+                - /url: https://stage-aem.phenomenex.com/products/gc-sealing-o-rings
+            - listitem:
+              - link "GC Syringes":
+                - /url: https://stage-aem.phenomenex.com/products/gc-syringes
+            - listitem:
+              - link "Vials":
+                - /url: https://stage-aem.phenomenex.com/products/verex-vials
+            - listitem:
+              - link "View All Accessories":
+                - /url: https://stage-aem.phenomenex.com/gas-chromatography/gc-accessories
+            - listitem:
+              - link "Application Specific":
+                - /url: https://stage-aem.phenomenex.com/techniques/gc-application-specific
+            - listitem:
+              - link "High Temperature":
+                - /url: https://stage-aem.phenomenex.com/techniques/high-temperature
+            - listitem:
+              - link "Improved Performance":
+                - /url: https://stage-aem.phenomenex.com/techniques/improved-performance
+            - listitem:
+              - link "Standard":
+                - /url: https://stage-aem.phenomenex.com/techniques/standard
+            - listitem:
+              - link "View All Types":
+                - /url: https://stage-aem.phenomenex.com/gas-chromatography/column-types
+            - listitem:
+              - link "CQA / CofA":
+                - /url: https://stage-aem.phenomenex.com/dashboard/cqa
+            - listitem:
+              - link "Document Library":
+                - /url: https://stage-aem.phenomenex.com/resources/documents/library
+            - listitem:
+              - link "Popular Guides and Posters":
+                - /url: https://stage-aem.phenomenex.com/resources/documents/guides-and-posters-page
+            - listitem:
+              - link "2026 Product Guide":
+                - /url: https://discover.phenomenex.com/25-catalog-request
+            - listitem:
+              - link "HPLC Knowledge Center":
+                - /url: https://stage-aem.phenomenex.com/resources/knowledge-center/hplc-knowledge-center
+            - listitem:
+              - link "GC Knowledge Center":
+                - /url: https://stage-aem.phenomenex.com/resources/knowledge-center/gc-knowledge-center
+            - listitem:
+              - link "SPE Knowledge Center":
+                - /url: https://stage-aem.phenomenex.com/resources/knowledge-center/spe-knowledge-center
+            - listitem:
+              - link "Science Unfiltered Blog":
+                - /url: https://stage-aem.phenomenex.com/resources/blog
+            - listitem:
+              - link "PhenoAcademy Webinar Series":
+                - /url: https://stage-aem.phenomenex.com/resources/phenoacademy
+            - listitem:
+              - link "Webinars (Live and On-Demand)":
+                - /url: https://stage-aem.phenomenex.com/resources/webinars
+            - listitem:
+              - link "Training Seminars (Paid)":
+                - /url: https://discover.phenomenex.com/Chromatography-Training-Courses?_gl=1*6z2sl3*_gcl_au*NTk5NTQ3MTMxLjE3NzU5MjI2NTM.*_ga*MjE1MTExNzk5LjE3NzU5MjM1NzY.*_ga_790WGKEF4G*czE3NzYyMzM2NjUkbzIxJGcxJHQxNzc2MjM1NjAzJGo2MCRsMCRoMA..*_ga_X15MFH3TKC*czE3NzYyMzM2NjAkbzIxJGcxJHQxNzc2MjM1NjAzJGo2MCRsMCRoODc3NTUwMjA4
+            - listitem:
+              - link "View All About Knowledge Center & Training":
+                - /url: https://stage-aem.phenomenex.com/resources/knowledge-center
+            - listitem:
+              - link "FAQs":
+                - /url: https://stage-aem.phenomenex.com/resources/support/faqs
+            - listitem:
+              - link "Product/Method Support":
+                - /url: https://discover.phenomenex.com/customersupport
+            - listitem:
+              - link "Request a Quote":
+                - /url: https://discover.phenomenex.com/online-quote-req-en
+            - listitem:
+              - link "Troubleshooting Help":
+                - /url: https://discover.phenomenex.com/technical-support
+            - listitem:
+              - link "View All Support":
+                - /url: https://stage-aem.phenomenex.com/resources/support
+            - listitem:
+              - link "Application Compound Search":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/application-compound-search
+            - listitem:
+              - link "Application Structure Search":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/application-structure-search
+            - listitem:
+              - link "USP/Ph. Eur. Calculator":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/usp-calculator
+            - listitem:
+              - link "View All Web Tools":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools
+  - main [ref=e49]:
+    - region "Hero Banner" [ref=e52]:
+      - generic [ref=e53]:
+        - group "Title and Description Section" [ref=e54]:
+          - generic [ref=e55]:
+            - heading "Helping Scientists Solve Chromatography Challenges" [level=1] [ref=e57]
+            - link "FIND PRODUCTS" [ref=e59] [cursor=pointer]:
+              - /url: /products
+              - generic [ref=e60]: FIND PRODUCTS
+              - img [ref=e62]
+            - generic [ref=e63]:
+              - link "Create Account" [ref=e65] [cursor=pointer]:
+                - /url: https://phnmnx.b2clogin.com/phnmnx.onmicrosoft.com/b2c_1_lsig_signin/oauth2/v2.0/authorize?response_type=code&client_id=5de38f52-6ba1-4882-838b-7444948277a7&state=OUpRTjl0cUE4RUpuSU1SRDc5OTE2RFBlRUg1VWQ2RUdiQnVxUDNLclAzU3RF%2CJTdCJTIydGFyZ2V0VXJsJTIyJTNBJTIyJTJGJTIyJTJDJTIybG9jYXRpb24lMjIlM0ElMjJIZWFkZXIlMjIlN0Q%253D&redirect_uri=https%3A%2F%2Fwww.phenomenex.com%2Flogin&scope=openid%20https%3A%2F%2Fphnmnx.onmicrosoft.com%2F5de38f52-6ba1-4882-838b-7444948277a7%2Fuser_impersonation&code_challenge=qL7CEtyijK7E3rO76adicAPIRYBLxvWAYvWvcLNcqIQ&code_challenge_method=S256&nonce=OUpRTjl0cUE4RUpuSU1SRDc5OTE2RFBlRUg1VWQ2RUdiQnVxUDNLclAzU3RF&p=B2C_1_LSIG_SignIn
+                - text: Create Account
+                - img [ref=e67]
+              - link "Shop Now" [ref=e69] [cursor=pointer]:
+                - /url: /quick-order
+                - text: Shop Now
+                - img [ref=e71]
+        - group "Image section" [ref=e72]
+    - generic [ref=e73]:
+      - heading "Get Started Quickly" [level=2] [ref=e75]
+      - list [ref=e78]:
+        - listitem [ref=e79] [cursor=pointer]:
+          - img "Find What You Need" [ref=e82]
+          - generic [ref=e83]:
+            - heading "Find What You Need – Fast" [level=4] [ref=e84]
+            - paragraph [ref=e86]: Effortlessly access products, orders, quotes, CQA/CofAs, and resources—all in one place.
+            - link "Start with Shopping Hub" [ref=e88]:
+              - /url: https://stage-aem.phenomenex.com/resources/shopping-hub
+        - listitem [ref=e89] [cursor=pointer]:
+          - generic [ref=e92]:
+            - heading "Browse Applications" [level=4] [ref=e93]
+            - paragraph [ref=e95]: Search applications by industry, technique, column phase, and official methods to identify the best column for your separation.
+            - link "View Application Library" [ref=e97]:
+              - /url: https://stage-aem.phenomenex.com/resources/application-library
+        - listitem [ref=e98] [cursor=pointer]:
+          - generic [ref=e101]:
+            - heading "Build Your Expertise" [level=4] [ref=e102]
+            - paragraph [ref=e104]: Access technical articles, webinars and expert guidance to help you learn, troubleshoot, and optimize separations.
+            - link "Explore Knowledge Center" [ref=e106]:
+              - /url: https://stage-aem.phenomenex.com/resources/knowledge-center
+        - listitem [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e109]:
+              - heading "Ready to order?" [level=2] [ref=e110]
+              - paragraph [ref=e112]: Search by part number, brand name, or description.
+              - link "QUICK ORDER" [ref=e113] [cursor=pointer]:
+                - /url: /quick-order
+                - generic [ref=e114]: QUICK ORDER
+            - generic [ref=e115]:
+              - heading "Need a Quote?" [level=2] [ref=e116]
+              - paragraph [ref=e118]: We'll create one tailored for your needs.
+              - link "REQUEST QUOTE" [ref=e119] [cursor=pointer]:
+                - /url: https://discover.phenomenex.com/online-quote-req-en
+                - generic [ref=e120]: REQUEST QUOTE
+    - generic [ref=e121]:
+      - heading "Browse by Categories" [level=2] [ref=e123]
+      - generic [ref=e125]:
+        - generic [ref=e126] [cursor=pointer]:
+          - paragraph [ref=e128]:
+            - img "icon alt test" [ref=e130]
+          - generic [ref=e131]:
+            - heading "Liquid Chromatography" [level=4] [ref=e132]
+            - paragraph [ref=e133]:
+              - link "Explore" [ref=e134]:
+                - /url: /liquid-chromatography
+        - generic [ref=e135] [cursor=pointer]:
+          - paragraph [ref=e137]:
+            - img "category-gc" [ref=e139]
+          - generic [ref=e140]:
+            - heading "Gas Chromatography" [level=4] [ref=e141]
+            - paragraph [ref=e142]:
+              - link "Explore" [ref=e143]:
+                - /url: /gas-chromatography
+        - generic [ref=e144] [cursor=pointer]:
+          - paragraph [ref=e146]:
+            - img "test-tube" [ref=e148]
+          - generic [ref=e149]:
+            - heading "Sample Preparation" [level=4] [ref=e150]
+            - paragraph [ref=e151]:
+              - link "Explore" [ref=e152]:
+                - /url: /sample-preparation
+        - generic [ref=e153] [cursor=pointer]:
+          - paragraph [ref=e155]:
+            - img "industries" [ref=e157]
+          - generic [ref=e158]:
+            - heading "Industries We Serve" [level=4] [ref=e159]
+            - paragraph [ref=e160]:
+              - link "Explore" [ref=e161]:
+                - /url: /industries
+    - region "Hero Banner" [ref=e164]:
+      - generic [ref=e165]:
+        - group "Title and Description Section" [ref=e166]:
+          - heading "Phenomenal Chemistry in Every Peak" [level=2] [ref=e169]
+        - group "Image section" [ref=e170]:
+          - paragraph [ref=e172]: Phenomenex is a global technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers in academic, pharmaceutical/biopharmaceutical, biotech, environmental, clinical research, government, and industrial laboratories. From drug discovery and pharmaceutical development to food safety and environmental analysis, Phenomenex chromatography solutions accelerate science and help researchers improve human health and well-being. Phenomenex is an operating company within the Life Sciences group of Danaher Corporation
+          - link "Learn More About Us" [ref=e174] [cursor=pointer]:
+            - /url: /our-company/about-us
+            - generic [ref=e175]: Learn More About Us
+    - generic [ref=e176]:
+      - heading "Explore Our Leading Brands" [level=2] [ref=e178]
+      - generic [ref=e180]:
+        - generic [ref=e182] [cursor=pointer]:
+          - paragraph [ref=e183]
+          - paragraph [ref=e185]: Core Shell Technology
+          - paragraph [ref=e186]: Experience a dramatic performance leap beyond your current LC setup.
+          - paragraph [ref=e187]:
+            - link "Explore" [ref=e188]:
+              - /url: /products/kinetex-hplc-column
+        - generic [ref=e190] [cursor=pointer]:
+          - paragraph [ref=e191]
+          - paragraph [ref=e193]: Gas Chromatography Columns
+          - paragraph [ref=e194]: Elevate your GC analyses with proven accuracy and reproducibility.
+          - paragraph [ref=e195]:
+            - link "Explore" [ref=e196]:
+              - /url: /products/zebron-gc-columns
+        - generic [ref=e198] [cursor=pointer]:
+          - paragraph [ref=e199]
+          - paragraph [ref=e201]: Solid Phase Extraction
+          - paragraph [ref=e202]: Reduce prep time by up to 40% with ultra-clean, high-recovery results.
+          - paragraph [ref=e203]:
+            - link "Explore" [ref=e204]:
+              - /url: /products/strata-x-pro-solid-phase-extraction-products
+        - generic [ref=e206] [cursor=pointer]:
+          - paragraph [ref=e207]
+          - paragraph [ref=e209]: Advanced Bio Separations
+          - paragraph [ref=e210]: Optimize biologics workflows with increased resolution and productivity.
+          - paragraph [ref=e211]:
+            - link "Explore" [ref=e212]:
+              - /url: /products/biozenlc-hplc-column
+    - generic [ref=e213]:
+      - heading "Discover What's Trending Now" [level=2] [ref=e215]
+      - region "Hero Banner" [ref=e217]:
+        - generic [ref=e218]:
+          - group "Title and Description Section" [ref=e219]:
+            - img "productImg" [ref=e223]
+          - group "Image section" [ref=e224]:
+            - generic [ref=e225]: Introducing our Next-Gen Solution for Oligonucleotide Extractiob
+            - heading "Clarity OTX Pro" [level=2] [ref=e227]
+            - list [ref=e229]:
+              - listitem [ref=e230]: Engineered for complex oligonucleotide therapeutics and novel conjugates
+              - listitem [ref=e231]: Day-to-day reproducibility with < 10%
+              - listitem [ref=e232]: Well-characterized method development ranges for standardized protocols
+            - link "VIEW PRODUCT" [ref=e234] [cursor=pointer]:
+              - /url: /products/clarityspe-sample-preparation-products/clarity-otx-pro
+              - generic [ref=e235]: VIEW PRODUCT
+      - list [ref=e238]:
+        - listitem [ref=e239] [cursor=pointer]:
+          - generic [ref=e242]:
+            - heading "Limited-time savings to help your lab stock up for less." [level=4] [ref=e243]
+            - link "View My Offers" [ref=e245]:
+              - /url: https://stage-aem.phenomenex.com/quick-order
+        - listitem [ref=e246] [cursor=pointer]:
+          - img "Product Guide" [ref=e249]
+          - generic [ref=e250]:
+            - heading "New 2026 Product Guide" [level=4] [ref=e251]
+            - paragraph [ref=e253]: Featuring our most current portfolio of LC, GC, and Sample products.
+            - link "See Product Guide" [ref=e255]:
+              - /url: https://discover.phenomenex.com/new-catalog-request?utm_campaign=25catalogrequest&utm_source=phenomenex&utm_medium=redirect&_gl=1%2A1jmbwrl%2A_gcl_au%2ANjcxOTU3NDAuMTc3MDkzNTk2Ny41MzU2NzkyOTAuMTc3NTUyNTMxMC4xNzc1NTI1MzA5%2A_ga%2AMTI2MzUxMjU4Ni4xNzc1NTEyNTkw%2A_ga_790WGKEF4G%2AczE3NzYzNjMwNzYkbzIwMSRnMCR0MTc3NjM2MzA3NiRqNjAkbDAkaDA.%2A_ga_X15MFH3TKC%2AczE3NzYzNjMwNzYkbzE5NyRnMCR0MTc3NjM2MzA3OSRqNTckbDAkaDgxMDk4Nzk2Mg..
+        - listitem [ref=e256] [cursor=pointer]:
+          - img "Kinetex Amide Columns" [ref=e259]
+          - generic [ref=e260]:
+            - heading "NEW Kinetex Amide Columns" [level=4] [ref=e261]
+            - paragraph [ref=e263]: Robust, reproducible amino acid analysis
+            - link "View Product" [ref=e265]:
+              - /url: https://stage-aem.phenomenex.com/products/kinetex-hplc-column/kinetex-amide
+        - listitem [ref=e266] [cursor=pointer]:
+          - img "Luna HILIC" [ref=e269]
+          - generic [ref=e270]:
+            - heading "NEW Luna Omega HILIC Columns" [level=4] [ref=e271]
+            - paragraph [ref=e273]: Enhanced polar compound retention and separation.
+            - link "View Product" [ref=e275]:
+              - /url: https://stage-aem.phenomenex.com/products/luna-omega-hplc-column/luna-omega-hilic
+    - generic [ref=e276]:
+      - generic [ref=e279]:
+        - generic [ref=e280]:
+          - heading "Recent Articles" [level=2] [ref=e281]
+          - link "View All Knowledge Center Articles" [ref=e282] [cursor=pointer]:
+            - /url: /resources/blog
+        - generic [ref=e283]:
+          - generic [ref=e284]:
+            - paragraph [ref=e285]: May 8, 2026 | 4 min read
+            - link "How to Extend HPLC Column Lifetime" [ref=e286] [cursor=pointer]:
+              - /url: /resources/blog/maintain-hplc-systems-column-longevity
+          - generic [ref=e287]:
+            - paragraph [ref=e288]: May 8, 2026 | 4 min read
+            - 'link "HPLC Column Care Guide: Clean Using Reverse Flush" [ref=e289] [cursor=pointer]':
+              - /url: /resources/blog/column-care
+          - generic [ref=e290]:
+            - paragraph [ref=e291]: May 8, 2026 | 4 min read
+            - link "Core-Shell Technology for PAH Method Analysis Part 3" [ref=e292] [cursor=pointer]:
+              - /url: /resources/blog/pah-analysis
+          - generic [ref=e293]:
+            - paragraph [ref=e294]: May 8, 2026 | 4 min read
+            - 'link "Core-Shell Technology Improving HPLC Methods Within USP: Part 4" [ref=e295] [cursor=pointer]':
+              - /url: /resources/blog/core-shell-technology
+      - generic [ref=e297]:
+        - generic [ref=e298]:
+          - img "forum" [ref=e301]
+          - generic [ref=e302]:
+            - paragraph [ref=e303]: Live Chat
+            - paragraph [ref=e304]: Need a product recommendation or method development help? Chat with our live experts now.
+            - button "Start Now" [ref=e305] [cursor=pointer]
+        - generic [ref=e306]:
+          - img "drafts" [ref=e309]
+          - generic [ref=e310]:
+            - paragraph [ref=e311]: Customer Support
+            - paragraph [ref=e312]: Access product/method development support, get help with troubleshooting, and much more.
+            - link "Contact Us" [ref=e313] [cursor=pointer]:
+              - /url: https://stage-aem.phenomenex.com/contact-us
+        - generic [ref=e314]:
+          - img "add_moderator" [ref=e317]
+          - generic [ref=e318]:
+            - paragraph [ref=e319]: CQA / CofA
+            - paragraph [ref=e320]: Access your product’s CQA and Batch CofA
+            - link "Access Now" [ref=e321] [cursor=pointer]:
+              - /url: https://stage-aem.phenomenex.com/dashboard/cqa
+  - contentinfo [ref=e322]:
+    - generic [ref=e325]:
+      - generic [ref=e326]:
+        - generic [ref=e327]:
+          - list [ref=e328]:
+            - listitem [ref=e329]:
+              - img "Phenomenex" [ref=e331]
+              - paragraph [ref=e333]:
+                - text: Phenomenal Chemistry in Every Peak.
+                - strong [ref=e334]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+                - link "Connect With Us" [ref=e335] [cursor=pointer]:
+                  - /url: https://discover.phenomenex.com/customersupport
+            - listitem [ref=e336]:
+              - paragraph [ref=e337]: PRODUCTS AND SERVICES
+              - list [ref=e338]:
+                - listitem [ref=e339]:
+                  - link "Products" [ref=e340] [cursor=pointer]:
+                    - /url: /products
+                - listitem [ref=e341]:
+                  - link "Techniques" [ref=e342] [cursor=pointer]:
+                    - /url: /techniques
+                - listitem [ref=e343]:
+                  - link "Industries" [ref=e344] [cursor=pointer]:
+                    - /url: /industries
+                - listitem [ref=e345]:
+                  - link "Quick Order" [ref=e346] [cursor=pointer]:
+                    - /url: /quick-order
+            - listitem [ref=e347]:
+              - paragraph [ref=e348]: SUPPORT
+              - list [ref=e349]:
+                - listitem [ref=e350]:
+                  - link "Product/Method Support" [ref=e351] [cursor=pointer]:
+                    - /url: https://discover.phenomenex.com/customersupport
+                - listitem [ref=e352]:
+                  - link "Troubleshooting Help" [ref=e353] [cursor=pointer]:
+                    - /url: https://discover.phenomenex.com/technical-support
+                - listitem [ref=e354]:
+                  - link "Contact Us" [ref=e355] [cursor=pointer]:
+                    - /url: /contact-us
+                - listitem [ref=e356]:
+                  - link "CQA / CofA" [ref=e357] [cursor=pointer]:
+                    - /url: /dashboard/cqa
+            - listitem [ref=e358]:
+              - paragraph [ref=e359]: OUR COMPANY
+              - list [ref=e360]:
+                - listitem [ref=e361]:
+                  - link "About Phenomenex" [ref=e362] [cursor=pointer]:
+                    - /url: /our-company/about-us
+                - listitem [ref=e363]:
+                  - link "Knowledge Center" [ref=e364] [cursor=pointer]:
+                    - /url: /resources/knowledge-center
+                - listitem [ref=e365]:
+                  - link "News" [ref=e366] [cursor=pointer]:
+                    - /url: /our-company/newsroom/news
+                - listitem [ref=e367]:
+                  - link "Danaher Life Sciences" [ref=e368] [cursor=pointer]:
+                    - /url: https://lifesciences.danaher.com/
+          - generic [ref=e369]:
+            - generic [ref=e370]:
+              - link "facebook link" [ref=e371] [cursor=pointer]:
+                - /url: https://www.facebook.com/phenomenex
+                - img "facebook" [ref=e373]
+              - link "instagram link" [ref=e374] [cursor=pointer]:
+                - /url: https://www.instagram.com/phenomenex
+                - img "instagram" [ref=e376]
+              - link "linkedln link" [ref=e377] [cursor=pointer]:
+                - /url: https://www.linkedin.com/company/phenomenex
+                - img "linkedln" [ref=e379]
+              - link "twitter link" [ref=e380] [cursor=pointer]:
+                - /url: https://x.com/phenomenex
+                - img "twitter" [ref=e382]
+              - link "youtube link" [ref=e383] [cursor=pointer]:
+                - /url: https://www.youtube.com/user/phenomenex
+                - img "youtube" [ref=e385]
+            - paragraph [ref=e386]:
+              - img "danaher-logo" [ref=e388]
+        - generic [ref=e390]:
+          - link [ref=e393] [cursor=pointer]:
+            - /url: https://www.abcam.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e396] [cursor=pointer]:
+            - /url: https://www.aldevron.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e399] [cursor=pointer]:
+            - /url: https://www.beckman.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e402] [cursor=pointer]:
+            - /url: https://www.genedata.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e405] [cursor=pointer]:
+            - /url: https://www.idbs.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e408] [cursor=pointer]:
+            - /url: https://www.idtdna.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e411] [cursor=pointer]:
+            - /url: https://www.leica-microsystems.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e414] [cursor=pointer]:
+            - /url: https://www.moleculardevices.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+          - link [ref=e417] [cursor=pointer]:
+            - /url: https://sciex.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
+      - generic [ref=e418]:
+        - generic [ref=e419]:
+          - list [ref=e420]:
+            - listitem [ref=e421]:
+              - link "Terms and Conditions" [ref=e422] [cursor=pointer]:
+                - /url: /legal/phx-terms-and-conditions-of-sale
+            - listitem [ref=e423]: "|"
+            - listitem [ref=e424]:
+              - link "Privacy Statement" [ref=e425] [cursor=pointer]:
+                - /url: /legal/phx-privacy-policy
+            - listitem [ref=e426]: "|"
+            - listitem [ref=e427]:
+              - link "Quality Policy" [ref=e428] [cursor=pointer]:
+                - /url: /our-company/phx-quality-policy
+            - listitem [ref=e429]: "|"
+            - listitem [ref=e430]:
+              - link "Terms of Use" [ref=e431] [cursor=pointer]:
+                - /url: /legal/phx-site-terms-of-use
+            - listitem [ref=e432]: "|"
+            - listitem [ref=e433]:
+              - link "Trademarks" [ref=e434] [cursor=pointer]:
+                - /url: /legal/phx-trademarks
+            - listitem [ref=e435]: "|"
+            - listitem [ref=e436]:
+              - link "CA Supply Chains Act" [ref=e437] [cursor=pointer]:
+                - /url: /legal/phx-california-supply-chains-act
+            - listitem [ref=e438]: "|"
+            - listitem [ref=e439]:
+              - link "CA Consumer Privacy" [ref=e440] [cursor=pointer]:
+                - /url: /legal/phx-california-consumer-rights-notice
+            - listitem [ref=e441]: "|"
+            - listitem [ref=e442]:
+              - link "Cookie Policy" [ref=e443] [cursor=pointer]:
+                - /url: /legal/phx-cookie-policy
+            - listitem [ref=e444]: "|"
+            - listitem [ref=e445]:
+              - link "Cookie Settings" [ref=e446] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e447]: "|"
+            - listitem [ref=e448]:
+              - link "Impressum" [ref=e449] [cursor=pointer]:
+                - /url: /legal/phx-impressum
+            - listitem [ref=e450]: "|"
+            - listitem [ref=e451]:
+              - link "Manage Marketing Preferences" [ref=e452] [cursor=pointer]:
+                - /url: https://stage.lifesciences.danaher.com/us/en/danaher.com/us/en/danaher-preference-center.html?opco=phenomenex
+          - paragraph [ref=e453]: © 2026 Phenomenex Inc. All rights reserved.
+        - generic [ref=e456]:
+          - generic [ref=e457]: Also of Interest
+          - list [ref=e458]:
+            - listitem [ref=e459]:
+              - link "Filtration Prior to HPLC Analysis" [ref=e460] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/techniques/filtration
+              - text: "|"
+            - listitem [ref=e461]:
+              - link "Optimize HPLC Method with Interactive Web Tools" [ref=e462] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/tools
+              - text: "|"
+            - listitem [ref=e463]:
+              - link "Leader in Analytical Chemistry Solutions" [ref=e464] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
 ```
