@@ -1,7 +1,7 @@
 # Page snapshot
 
 ```yaml
-- generic [active] [ref=e1]:
+- generic [ref=e1]:
   - banner [ref=e2]:
     - generic:
       - generic [ref=e3]:
@@ -1052,4 +1052,34 @@
             - listitem [ref=e462]:
               - link "Leader in Analytical Chemistry Solutions" [ref=e463] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
+  - iframe [ref=e464]:
+    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
+      - img [ref=f7e4]
+  - dialog "Privacy" [ref=e467]:
+    - generic [ref=e468]:
+      - generic [ref=e469]:
+        - generic:
+          - generic [ref=e470]:
+            - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
+            - link ", opens in a new tab" [ref=e471] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/phx-cookie-policy
+              - text: Cookie Notice
+          - link "Phenomenex Cookie Partners Details" [ref=e472] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e474]:
+        - button "Cookie Settings, Opens the preference center dialog" [ref=e475] [cursor=pointer]: Cookie Settings
+        - button "Accept All Cookies" [ref=e477] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e478]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
+      - iframe [ref=e479]:
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
+              - generic [ref=f6e8]:
+                - text: LIVE CHAT NOW!
+                - text: Our experts can help with product recommendations, quotes and more!
+            - button "Type and start" [ref=f6e9]
 ```
