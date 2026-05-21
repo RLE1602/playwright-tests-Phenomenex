@@ -1036,50 +1036,54 @@
             - listitem [ref=e449]: "|"
             - listitem [ref=e450]:
               - link "Manage Marketing Preferences" [ref=e451] [cursor=pointer]:
-                - /url: https://stage.lifesciences.danaher.com/us/en/danaher.com/us/en/danaher-preference-center.html?opco=phenomenex
-          - paragraph [ref=e452]: © 2026 Phenomenex Inc. All rights reserved.
-        - generic [ref=e455]:
-          - generic [ref=e456]: Also of Interest
-          - list [ref=e457]:
-            - listitem [ref=e458]:
-              - link "Filtration Prior to HPLC Analysis" [ref=e459] [cursor=pointer]:
+                - /url: https://stage.lifesciences.danaher.com/us/en/danaher-preference-center?opco=Phenomenex
+            - listitem [ref=e452]: "|"
+            - listitem [ref=e453]:
+              - link "Sitemap" [ref=e454] [cursor=pointer]:
+                - /url: https://stage-aem.phenomenex.com/sitemap
+          - paragraph [ref=e455]: © 2026 Phenomenex Inc. All rights reserved.
+        - generic [ref=e458]:
+          - generic [ref=e459]: Also of Interest
+          - list [ref=e460]:
+            - listitem [ref=e461]:
+              - link "Filtration Prior to HPLC Analysis" [ref=e462] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
-            - listitem [ref=e460]:
-              - link "Optimize HPLC Method with Interactive Web Tools" [ref=e461] [cursor=pointer]:
+            - listitem [ref=e463]:
+              - link "Optimize HPLC Method with Interactive Web Tools" [ref=e464] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/tools
               - text: "|"
-            - listitem [ref=e462]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e463] [cursor=pointer]:
+            - listitem [ref=e465]:
+              - link "Leader in Analytical Chemistry Solutions" [ref=e466] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
-  - iframe [ref=e464]:
-    - button "Click to start chatting" [ref=f5e2] [cursor=pointer]:
-      - img [ref=f5e4]
-  - dialog "Privacy" [ref=e467]:
-    - generic [ref=e468]:
-      - generic [ref=e469]:
+  - iframe [ref=e467]:
+    - button "Click to start chatting" [ref=f6e2] [cursor=pointer]:
+      - img [ref=f6e4]
+  - dialog "Privacy" [ref=e470]:
+    - generic [ref=e471]:
+      - generic [ref=e472]:
         - generic:
-          - generic [ref=e470]:
+          - generic [ref=e473]:
             - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-            - link ", opens in a new tab" [ref=e471] [cursor=pointer]:
+            - link ", opens in a new tab" [ref=e474] [cursor=pointer]:
               - /url: https://www.phenomenex.com/phx-cookie-policy
               - text: Cookie Notice
-          - link "Phenomenex Cookie Partners Details" [ref=e472] [cursor=pointer]:
+          - link "Phenomenex Cookie Partners Details" [ref=e475] [cursor=pointer]:
             - /url: "#"
-      - generic [ref=e474]:
-        - button "Cookie Settings, Opens the preference center dialog" [ref=e475] [cursor=pointer]: Cookie Settings
-        - button "Accept All Cookies" [ref=e477] [cursor=pointer]
+      - generic [ref=e477]:
+        - button "Cookie Settings, Opens the preference center dialog" [ref=e478] [cursor=pointer]: Cookie Settings
+        - button "Accept All Cookies" [ref=e480] [cursor=pointer]
   - generic:
     - generic:
-      - generic [ref=e478]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [active] [ref=e479]:
-        - generic [ref=f6e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
-            - img [ref=f6e3]
-          - generic [ref=f6e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
-              - generic [ref=f6e8]:
+      - generic [ref=e481]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
+      - iframe [active] [ref=e482]:
+        - generic [ref=f7e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f7e2]:
+            - img [ref=f7e3]
+          - generic [ref=f7e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f7e6]:
+              - generic [ref=f7e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f6e9]
+            - button "Type and start" [ref=f7e9]
 ```
