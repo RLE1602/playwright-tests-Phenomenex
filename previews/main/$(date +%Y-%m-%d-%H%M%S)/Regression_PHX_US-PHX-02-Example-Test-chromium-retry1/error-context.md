@@ -860,19 +860,19 @@
             - /url: /resources/blog
         - generic [ref=e283]:
           - generic [ref=e284]:
-            - paragraph [ref=e285]: May 20, 2026 | 4 min read
+            - paragraph [ref=e285]: Feb 9, 2018 | 4 min read
             - link "How to Extend HPLC Column Lifetime" [ref=e286] [cursor=pointer]:
               - /url: /resources/blog/maintain-hplc-systems-column-longevity
           - generic [ref=e287]:
-            - paragraph [ref=e288]: May 20, 2026 | 4 min read
+            - paragraph [ref=e288]: Jun 26, 2019 | 4 min read
             - 'link "HPLC Column Care Guide: Clean Using Reverse Flush" [ref=e289] [cursor=pointer]':
               - /url: /resources/blog/column-care
           - generic [ref=e290]:
-            - paragraph [ref=e291]: May 20, 2026 | 4 min read
+            - paragraph [ref=e291]: Oct 25, 2017 | 4 min read
             - link "Core-Shell Technology for PAH Method Analysis Part 3" [ref=e292] [cursor=pointer]:
               - /url: /resources/blog/pah-analysis
           - generic [ref=e293]:
-            - paragraph [ref=e294]: May 20, 2026 | 4 min read
+            - paragraph [ref=e294]: Nov 29, 2017 | 4 min read
             - 'link "Core-Shell Technology Improving HPLC Methods Within USP: Part 4" [ref=e295] [cursor=pointer]':
               - /url: /resources/blog/core-shell-technology
       - generic [ref=e297]:
@@ -1057,8 +1057,8 @@
               - link "Leader in Analytical Chemistry Solutions" [ref=e467] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
   - iframe [ref=e468]:
-    - button "Click to start chatting" [ref=f6e2] [cursor=pointer]:
-      - img [ref=f6e4]
+    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
+      - img [ref=f7e4]
   - dialog "Privacy" [ref=e471]:
     - generic [ref=e472]:
       - generic [ref=e473]:
@@ -1077,13 +1077,13 @@
     - generic:
       - generic [ref=e482]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [active] [ref=e483]:
-        - generic [ref=f7e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f7e2]:
-            - img [ref=f7e3]
-          - generic [ref=f7e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f7e6]:
-              - generic [ref=f7e8]:
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
+              - generic [ref=f6e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f7e9]
+            - button "Type and start" [ref=f6e9]
 ```

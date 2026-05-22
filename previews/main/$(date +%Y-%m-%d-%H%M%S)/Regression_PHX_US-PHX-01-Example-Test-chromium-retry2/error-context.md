@@ -860,19 +860,19 @@
             - /url: /resources/blog
         - generic [ref=e283]:
           - generic [ref=e284]:
-            - paragraph [ref=e285]: May 20, 2026 | 4 min read
+            - paragraph [ref=e285]: Feb 9, 2018 | 4 min read
             - link "How to Extend HPLC Column Lifetime" [ref=e286] [cursor=pointer]:
               - /url: /resources/blog/maintain-hplc-systems-column-longevity
           - generic [ref=e287]:
-            - paragraph [ref=e288]: May 20, 2026 | 4 min read
+            - paragraph [ref=e288]: Jun 26, 2019 | 4 min read
             - 'link "HPLC Column Care Guide: Clean Using Reverse Flush" [ref=e289] [cursor=pointer]':
               - /url: /resources/blog/column-care
           - generic [ref=e290]:
-            - paragraph [ref=e291]: May 20, 2026 | 4 min read
+            - paragraph [ref=e291]: Oct 25, 2017 | 4 min read
             - link "Core-Shell Technology for PAH Method Analysis Part 3" [ref=e292] [cursor=pointer]:
               - /url: /resources/blog/pah-analysis
           - generic [ref=e293]:
-            - paragraph [ref=e294]: May 20, 2026 | 4 min read
+            - paragraph [ref=e294]: Nov 29, 2017 | 4 min read
             - 'link "Core-Shell Technology Improving HPLC Methods Within USP: Part 4" [ref=e295] [cursor=pointer]':
               - /url: /resources/blog/core-shell-technology
       - generic [ref=e297]:
