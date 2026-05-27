@@ -1,0 +1,133 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner
+  - contentinfo [ref=e10]:
+    - generic [ref=e11]:
+      - generic [ref=e12]:
+        - generic [ref=e13]:
+          - paragraph [ref=e14]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+          - link "CONNECT WITH US" [ref=e15] [cursor=pointer]:
+            - /url: "#"
+        - generic [ref=e16]:
+          - paragraph [ref=e17]: Products and Services
+          - link "Products" [ref=e18] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/products
+          - link "Techniques" [ref=e19] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/techniques
+          - link "Industries" [ref=e20] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/industries
+          - link "Quick Order" [ref=e21] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/quick-order
+        - generic [ref=e22]:
+          - paragraph [ref=e23]: Support
+          - link "Product Method Support" [ref=e24] [cursor=pointer]:
+            - /url: "#"
+          - link "Product Troubleshooting" [ref=e25] [cursor=pointer]:
+            - /url: "#"
+          - link "Contact Us" [ref=e26] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/contact-us
+          - link "CQA / CofA" [ref=e27] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/dashboard/cqa
+        - generic [ref=e28]:
+          - paragraph [ref=e29]: Our company
+          - link "About Phenomenex" [ref=e30] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/our-company/about-us
+          - link "Blog" [ref=e31] [cursor=pointer]:
+            - /url: https://phenomenex.blog/
+          - link "Knowledge Center" [ref=e32] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/resources/knowledge-center
+          - link "News" [ref=e33] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/our-company/newsroom/news
+          - link "Danaher Life Sciences" [ref=e34] [cursor=pointer]:
+            - /url: https://lifesciences.danaher.com/
+        - generic [ref=e36]:
+          - link [ref=e37] [cursor=pointer]:
+            - /url: https://www.facebook.com/phenomenex
+          - link [ref=e38] [cursor=pointer]:
+            - /url: https://www.instagram.com/accounts/login/
+          - link [ref=e39] [cursor=pointer]:
+            - /url: http://www.linkedin.com/company/phenomenex
+          - link [ref=e40] [cursor=pointer]:
+            - /url: http://www.twitter.com/phenomenex
+          - link [ref=e41] [cursor=pointer]:
+            - /url: http://www.youtube.com/user/phenomenex
+      - generic [ref=e42]:
+        - generic:
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.abcam.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.aldevron.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.mybeckman.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.genedata.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.idbs.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.idtdna.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.leica-microsystems.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://www.moleculardevices.com/
+              - img "Company Logo"
+          - generic:
+            - link "Company Logo":
+              - /url: https://sciex.com/
+              - img "Company Logo"
+    - generic [ref=e44]:
+      - generic [ref=e45]:
+        - generic [ref=e46]:
+          - link "Terms and Conditions" [ref=e47] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-terms-and-conditions-of-sale
+          - text: "|"
+          - link "Privacy Statement" [ref=e48] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-privacy-policy?utm_source=dhls_website
+          - text: "|"
+          - link "Quality Policy" [ref=e49] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-quality-policy
+          - text: "|"
+          - link "Terms of Use" [ref=e50] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-site-terms-of-use
+          - text: "|"
+          - link "Trademarks" [ref=e51] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-trademarks
+          - text: "|"
+          - link "CA Supply Chains Act" [ref=e52] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-california-supply-chains-act
+          - text: "|"
+          - link "Cookie Policy" [ref=e53] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-cookie-policy
+          - text: "|"
+          - link "Impressum" [ref=e54] [cursor=pointer]:
+            - /url: https://stage-aem.phenomenex.com/phx-impressum
+        - link "© 2025 Phenomenex Inc. All rights reserved." [ref=e55] [cursor=pointer]:
+          - /url: https://stage-aem.phenomenex.com/phx-privacy-policy
+      - generic [ref=e56]:
+        - generic [ref=e57]: "Also of Interest:"
+        - link "Our Products | Phenomenex Product Listing" [ref=e58] [cursor=pointer]:
+          - /url: https://stage-aem.phenomenex.com/service-listing-products
+        - text: "|"
+        - 'link "Novum: Faster, Easier, Reliable SLE Simplified" [ref=e59] [cursor=pointer]':
+          - /url: https://stage-aem.phenomenex.com/documents/2022/05/20/18/54/novum-faster-easier-reliable-sle-simplified
+        - text: "|"
+        - link "Zebron Gas Chromatography Columns | Phenomenex" [ref=e60] [cursor=pointer]:
+          - /url: https://stage-aem.phenomenex.com/products/zebron-gc-columns
+```

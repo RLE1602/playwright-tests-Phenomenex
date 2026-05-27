@@ -15,46 +15,46 @@
       - generic [ref=e11]:
         - generic [ref=e14]:
           - button: Continue
-          - generic [ref=e17]:
-            - generic [ref=e18]:
-              - generic [ref=e19]: Work email address *
-              - textbox "Work email address" [active] [ref=e20]
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - generic [ref=e20]: Work email address *
+              - textbox "Work email address" [active] [ref=e21]
             - text: "!"
-          - button "Continue" [ref=e22] [cursor=pointer]
-        - paragraph [ref=e24]:
+          - button "Continue" [ref=e23] [cursor=pointer]
+        - paragraph [ref=e25]:
           - text: Need an account?
-          - link "Sign up" [ref=e25] [cursor=pointer]:
-            - /url: /u/signup/identifier?state=hqFo2SBHQnlCTzA1TVNIZVFjdXRITjdYWjMzVXhad254eVVxRaFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGhlU0ZRdktaZ0FWTmVyZThXSXBqelNqVUdpZk4td2o1o2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
-  - contentinfo "Danaher Life Sciences companies" [ref=e26]:
-    - generic [ref=e28]:
-      - link "Abcam" [ref=e30] [cursor=pointer]:
+          - link "Sign up" [ref=e26] [cursor=pointer]:
+            - /url: /u/signup/identifier?state=hqFo2SBfdExpVlRYMklqZWpacnhDU2tyaTR1YklWbEQ4bzV4UqFur3VuaXZlcnNhbC1sb2dpbqN0aWTZIDFPVG5HalZ1djhrTW1NdllQdXE0aDc1MVdUTk5mNHpQo2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
+  - contentinfo "Danaher Life Sciences companies" [ref=e27]:
+    - generic [ref=e29]:
+      - link "Abcam" [ref=e31] [cursor=pointer]:
         - /url: https://www.abcam.com/
-        - img "Abcam" [ref=e31]
-      - link "Aldevron" [ref=e33] [cursor=pointer]:
+        - img "Abcam" [ref=e32]
+      - link "Aldevron" [ref=e34] [cursor=pointer]:
         - /url: https://www.aldevron.com/
-        - img "Aldevron" [ref=e34]
-      - link "Beckman Coulter Life Sciences" [ref=e36] [cursor=pointer]:
+        - img "Aldevron" [ref=e35]
+      - link "Beckman Coulter Life Sciences" [ref=e37] [cursor=pointer]:
         - /url: https://www.mybeckman.com/
-        - img "Beckman Coulter Life Sciences" [ref=e37]
-      - link "Genedata" [ref=e39] [cursor=pointer]:
+        - img "Beckman Coulter Life Sciences" [ref=e38]
+      - link "Genedata" [ref=e40] [cursor=pointer]:
         - /url: https://www.genedata.com/
-        - img "Genedata" [ref=e40]
-      - link "IDBS" [ref=e42] [cursor=pointer]:
+        - img "Genedata" [ref=e41]
+      - link "IDBS" [ref=e43] [cursor=pointer]:
         - /url: https://www.idbs.com/
-        - img "IDBS" [ref=e43]
-      - link "IDT" [ref=e45] [cursor=pointer]:
+        - img "IDBS" [ref=e44]
+      - link "IDT" [ref=e46] [cursor=pointer]:
         - /url: https://www.idtdna.com/
-        - img "IDT" [ref=e46]
-      - link "Leica Microsystems" [ref=e48] [cursor=pointer]:
+        - img "IDT" [ref=e47]
+      - link "Leica Microsystems" [ref=e49] [cursor=pointer]:
         - /url: https://www.leica-microsystems.com/
-        - img "Leica Microsystems" [ref=e49]
-      - link "Molecular Devices" [ref=e51] [cursor=pointer]:
+        - img "Leica Microsystems" [ref=e50]
+      - link "Molecular Devices" [ref=e52] [cursor=pointer]:
         - /url: https://www.moleculardevices.com/
-        - img "Molecular Devices" [ref=e52]
-      - link "Phenomenex" [ref=e54] [cursor=pointer]:
+        - img "Molecular Devices" [ref=e53]
+      - link "Phenomenex" [ref=e55] [cursor=pointer]:
         - /url: https://www.phenomenex.com/
-        - img "Phenomenex" [ref=e55]
-      - link "SCIEX" [ref=e57] [cursor=pointer]:
+        - img "Phenomenex" [ref=e56]
+      - link "SCIEX" [ref=e58] [cursor=pointer]:
         - /url: https://www.sciex.com/
-        - img "SCIEX" [ref=e58]
+        - img "SCIEX" [ref=e59]
 ```
