@@ -1067,8 +1067,8 @@
               - link "Optimize HPLC Method with Interactive Web Tools" [ref=e479] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/tools
   - iframe [ref=e480]:
-    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
-      - img [ref=f7e4]
+    - button "Click to start chatting" [ref=f5e2] [cursor=pointer]:
+      - img [ref=f5e4]
   - dialog "Privacy" [ref=e483]:
     - generic [ref=e484]:
       - generic [ref=e485]:
