@@ -276,9 +276,9 @@
         - generic [ref=e321]:
           - img [ref=e323]
           - generic [ref=e324]:
-            - generic [ref=e325]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e326] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
-            - generic [ref=e328]: $1,082.00 (USD) (Ea)
+            - generic [ref=e325]: "Part: 00F-4496-AC"
+            - paragraph [ref=e326] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e328]: $1,145.00 (USD) (Ea)
           - generic [ref=e329]:
             - generic [ref=e331]:
               - link "link" [ref=e332] [cursor=pointer]:
@@ -314,9 +314,9 @@
         - generic [ref=e377]:
           - img [ref=e379]
           - generic [ref=e380]:
-            - generic [ref=e381]: "Part: 00F-4496-AC"
-            - paragraph [ref=e382] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
-            - generic [ref=e384]: $1,145.00 (USD) (Ea)
+            - generic [ref=e381]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e382] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e384]: $1,082.00 (USD) (Ea)
           - generic [ref=e385]:
             - generic [ref=e387]:
               - link "link" [ref=e388] [cursor=pointer]:
@@ -637,9 +637,9 @@
         - generic [ref=e853]:
           - img [ref=e855]
           - generic [ref=e856]:
-            - generic [ref=e857]: "Part: 00A-4496-AN"
-            - paragraph [ref=e858] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
-            - generic [ref=e860]: $849.00 (USD) (Ea)
+            - generic [ref=e857]: "Part: 00D-4496-AN"
+            - paragraph [ref=e858] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
+            - generic [ref=e860]: $1,017.00 (USD) (Ea)
           - generic [ref=e861]:
             - generic [ref=e863]:
               - link "link" [ref=e864] [cursor=pointer]:
@@ -656,9 +656,9 @@
         - generic [ref=e881]:
           - img [ref=e883]
           - generic [ref=e884]:
-            - generic [ref=e885]: "Part: 00D-4496-AN"
-            - paragraph [ref=e886] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
-            - generic [ref=e888]: $1,017.00 (USD) (Ea)
+            - generic [ref=e885]: "Part: 00A-4496-AN"
+            - paragraph [ref=e886] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
+            - generic [ref=e888]: $849.00 (USD) (Ea)
           - generic [ref=e889]:
             - generic [ref=e891]:
               - link "link" [ref=e892] [cursor=pointer]:
@@ -819,29 +819,29 @@
     - list [ref=e1020]:
       - listitem [ref=e1021]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e1022] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127&ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127&ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b
         - text: "|"
       - listitem [ref=e1023]:
         - link "Filtration Prior to HPLC Analysis" [ref=e1024] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127&ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127&ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b
         - text: "|"
       - listitem [ref=e1025]:
         - link "Leader in Analytical Chemistry Solutions" [ref=e1026] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127&ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127&ajs_aid=c964c1d7-ff6a-4385-b65b-0aad023e2127
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b
   - iframe [ref=e1027]:
-    - button "Click to start chatting" [ref=f20e2] [cursor=pointer]:
-      - img [ref=f20e4]
+    - button "Click to start chatting" [ref=f21e2] [cursor=pointer]:
+      - img [ref=f21e4]
   - generic:
     - generic:
       - generic [ref=e1028]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [ref=e1029]:
-        - generic [ref=f12e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f12e2]:
-            - img [ref=f12e3]
-          - generic [ref=f12e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f12e6]:
-              - generic [ref=f12e8]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
+              - generic [ref=f13e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f12e9]
+            - button "Type and start" [ref=f13e9]
 ```

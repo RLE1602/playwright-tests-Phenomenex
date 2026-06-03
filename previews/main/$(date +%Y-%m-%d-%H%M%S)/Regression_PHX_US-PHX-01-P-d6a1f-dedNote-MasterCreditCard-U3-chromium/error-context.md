@@ -819,29 +819,33 @@
     - list [ref=e1020]:
       - listitem [ref=e1021]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e1022] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3&ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3&ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3
         - text: "|"
       - listitem [ref=e1023]:
         - link "Filtration Prior to HPLC Analysis" [ref=e1024] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3&ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3&ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3
         - text: "|"
       - listitem [ref=e1025]:
         - link "Leader in Analytical Chemistry Solutions" [ref=e1026] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a&ajs_aid=a7ad112a-b2b2-4f5f-a6df-dc04ac33495a
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3&ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3&ajs_aid=6c90b312-4326-4cb2-99a3-00ac754a8cb3
   - iframe [ref=e1027]:
-    - button "Click to start chatting" [ref=f25e2] [cursor=pointer]:
-      - img [ref=f25e4]
+    - button "Click to start chatting" [ref=f20e2] [cursor=pointer]:
+      - img [ref=f20e4]
   - generic:
     - generic:
       - generic [ref=e1028]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [ref=e1029]:
-        - generic [ref=f13e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f13e2]:
-            - img [ref=f13e3]
-          - generic [ref=f13e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
-              - generic [ref=f13e8]:
+        - generic [ref=f12e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f12e2]:
+            - img [ref=f12e3]
+          - generic [ref=f12e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f12e6]:
+              - generic [ref=f12e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f13e9]
+            - button "Type and start" [ref=f12e9]
+  - generic [ref=e1030]:
+    - button "Close" [ref=e1031] [cursor=pointer]: ×
+    - generic "Error" [ref=e1032]
+    - alertdialog "Something went wrong" [ref=e1033]
 ```

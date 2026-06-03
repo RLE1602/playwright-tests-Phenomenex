@@ -1058,8 +1058,8 @@
               - link "Leader in Analytical Chemistry Solutions" [ref=e458] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
   - iframe [ref=e459]:
-    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
-      - img [ref=f7e4]
+    - button "Click to start chatting" [ref=f6e2] [cursor=pointer]:
+      - img [ref=f6e4]
   - dialog "Privacy" [ref=e462]:
     - generic [ref=e463]:
       - generic [ref=e464]:
@@ -1078,13 +1078,13 @@
     - generic:
       - generic [ref=e473]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [active] [ref=e474]:
-        - generic [ref=f6e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
-            - img [ref=f6e3]
-          - generic [ref=f6e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
-              - generic [ref=f6e8]:
+        - generic [ref=f5e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
+            - img [ref=f5e3]
+          - generic [ref=f5e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f5e6]:
+              - generic [ref=f5e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f6e9]
+            - button "Type and start" [ref=f5e9]
 ```
