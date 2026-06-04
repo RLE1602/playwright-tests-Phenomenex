@@ -314,8 +314,8 @@
         - generic [ref=e377]:
           - img [ref=e379]
           - generic [ref=e380]:
-            - generic [ref=e381]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e382] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e381]: "Part: 00F-4496-E0"
+            - paragraph [ref=e382] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
             - generic [ref=e384]: $1,082.00 (USD) (Ea)
           - generic [ref=e385]:
             - generic [ref=e387]:
@@ -333,8 +333,8 @@
         - generic [ref=e405]:
           - img [ref=e407]
           - generic [ref=e408]:
-            - generic [ref=e409]: "Part: 00F-4496-E0"
-            - paragraph [ref=e410] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
+            - generic [ref=e409]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e410] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
             - generic [ref=e412]: $1,082.00 (USD) (Ea)
           - generic [ref=e413]:
             - generic [ref=e415]:
@@ -352,9 +352,9 @@
         - generic [ref=e433]:
           - img [ref=e435]
           - generic [ref=e436]:
-            - generic [ref=e437]: "Part: 00F-4248-A0"
-            - paragraph [ref=e438] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e440]: $1,058.00 (USD) (Ea)
+            - generic [ref=e437]: "Part: 00F-4252-A0"
+            - paragraph [ref=e438] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e440]: $1,009.00 (USD) (Ea)
           - generic [ref=e441]:
             - generic [ref=e443]:
               - link "link" [ref=e444] [cursor=pointer]:
@@ -371,9 +371,9 @@
         - generic [ref=e461]:
           - img [ref=e463]
           - generic [ref=e464]:
-            - generic [ref=e465]: "Part: 00F-4726-A0"
-            - paragraph [ref=e466] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
-            - generic [ref=e468]: $1,231.00 (USD) (Ea)
+            - generic [ref=e465]: "Part: 00F-4248-A0"
+            - paragraph [ref=e466] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e468]: $1,058.00 (USD) (Ea)
           - generic [ref=e469]:
             - generic [ref=e471]:
               - link "link" [ref=e472] [cursor=pointer]:
@@ -390,9 +390,9 @@
         - generic [ref=e489]:
           - img [ref=e491]
           - generic [ref=e492]:
-            - generic [ref=e493]: "Part: 00F-4742-A0"
-            - paragraph [ref=e494] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
-            - generic [ref=e496]: $965.00 (USD) (Ea)
+            - generic [ref=e493]: "Part: 00F-4726-A0"
+            - paragraph [ref=e494] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e496]: $1,231.00 (USD) (Ea)
           - generic [ref=e497]:
             - generic [ref=e499]:
               - link "link" [ref=e500] [cursor=pointer]:
@@ -409,9 +409,9 @@
         - generic [ref=e517]:
           - img [ref=e519]
           - generic [ref=e520]:
-            - generic [ref=e521]: "Part: 00F-4447-A0"
-            - paragraph [ref=e522] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e524]: $1,058.00 (USD) (Ea)
+            - generic [ref=e521]: "Part: 00F-4742-A0"
+            - paragraph [ref=e522] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e524]: $965.00 (USD) (Ea)
           - generic [ref=e525]:
             - generic [ref=e527]:
               - link "link" [ref=e528] [cursor=pointer]:
@@ -428,9 +428,9 @@
         - generic [ref=e545]:
           - img [ref=e547]
           - generic [ref=e548]:
-            - generic [ref=e549]: "Part: 00F-4252-A0"
-            - paragraph [ref=e550] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e552]: $1,009.00 (USD) (Ea)
+            - generic [ref=e549]: "Part: 00F-4447-A0"
+            - paragraph [ref=e550] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e552]: $1,058.00 (USD) (Ea)
           - generic [ref=e553]:
             - generic [ref=e555]:
               - link "link" [ref=e556] [cursor=pointer]:
@@ -447,9 +447,9 @@
         - generic [ref=e573]:
           - img [ref=e575]
           - generic [ref=e576]:
-            - generic [ref=e577]: "Part: 00F-4435-A0"
-            - paragraph [ref=e578] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e580]: $1,097.00 (USD) (Ea)
+            - generic [ref=e577]: "Part: 00F-4251-A0"
+            - paragraph [ref=e578] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e580]: $1,058.00 (USD) (Ea)
           - generic [ref=e581]:
             - generic [ref=e583]:
               - link "link" [ref=e584] [cursor=pointer]:
@@ -466,9 +466,9 @@
         - generic [ref=e601]:
           - img [ref=e603]
           - generic [ref=e604]:
-            - generic [ref=e605]: "Part: 00F-4424-A0"
-            - paragraph [ref=e606] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e608]: $1,052.00 (USD) (Ea)
+            - generic [ref=e605]: "Part: 00F-4435-A0"
+            - paragraph [ref=e606] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e608]: $1,097.00 (USD) (Ea)
           - generic [ref=e609]:
             - generic [ref=e611]:
               - link "link" [ref=e612] [cursor=pointer]:
@@ -485,9 +485,9 @@
         - generic [ref=e629]:
           - img [ref=e631]
           - generic [ref=e632]:
-            - generic [ref=e633]: "Part: 00F-4377-A0"
-            - paragraph [ref=e634] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e636]: $1,058.00 (USD) (Ea)
+            - generic [ref=e633]: "Part: 00F-4424-A0"
+            - paragraph [ref=e634] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e636]: $1,052.00 (USD) (Ea)
           - generic [ref=e637]:
             - generic [ref=e639]:
               - link "link" [ref=e640] [cursor=pointer]:
@@ -504,9 +504,9 @@
         - generic [ref=e657]:
           - img [ref=e659]
           - generic [ref=e660]:
-            - generic [ref=e661]: "Part: 00F-4375-A0"
-            - paragraph [ref=e662] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e664]: $1,052.00 (USD) (Ea)
+            - generic [ref=e661]: "Part: 00F-4377-A0"
+            - paragraph [ref=e662] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e664]: $1,058.00 (USD) (Ea)
           - generic [ref=e665]:
             - generic [ref=e667]:
               - link "link" [ref=e668] [cursor=pointer]:
@@ -523,9 +523,9 @@
         - generic [ref=e685]:
           - img [ref=e687]
           - generic [ref=e688]:
-            - generic [ref=e689]: "Part: 00F-4251-A0"
-            - paragraph [ref=e690] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e692]: $1,058.00 (USD) (Ea)
+            - generic [ref=e689]: "Part: 00F-4375-A0"
+            - paragraph [ref=e690] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e692]: $1,052.00 (USD) (Ea)
           - generic [ref=e693]:
             - generic [ref=e695]:
               - link "link" [ref=e696] [cursor=pointer]:
@@ -599,9 +599,9 @@
         - generic [ref=e797]:
           - img [ref=e799]
           - generic [ref=e800]:
-            - generic [ref=e801]: "Part: 00C-4496-AN"
-            - paragraph [ref=e802] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
-            - generic [ref=e804]: $986.00 (USD) (Ea)
+            - generic [ref=e801]: "Part: 00D-4496-AN"
+            - paragraph [ref=e802] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
+            - generic [ref=e804]: $1,017.00 (USD) (Ea)
           - generic [ref=e805]:
             - generic [ref=e807]:
               - link "link" [ref=e808] [cursor=pointer]:
@@ -618,9 +618,9 @@
         - generic [ref=e825]:
           - img [ref=e827]
           - generic [ref=e828]:
-            - generic [ref=e829]: "Part: 00B-4496-AN"
-            - paragraph [ref=e830] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
-            - generic [ref=e832]: $926.00 (USD) (Ea)
+            - generic [ref=e829]: "Part: 00A-4496-AN"
+            - paragraph [ref=e830] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
+            - generic [ref=e832]: $849.00 (USD) (Ea)
           - generic [ref=e833]:
             - generic [ref=e835]:
               - link "link" [ref=e836] [cursor=pointer]:
@@ -637,9 +637,9 @@
         - generic [ref=e853]:
           - img [ref=e855]
           - generic [ref=e856]:
-            - generic [ref=e857]: "Part: 00D-4496-AN"
-            - paragraph [ref=e858] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
-            - generic [ref=e860]: $1,017.00 (USD) (Ea)
+            - generic [ref=e857]: "Part: 00C-4496-AN"
+            - paragraph [ref=e858] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
+            - generic [ref=e860]: $986.00 (USD) (Ea)
           - generic [ref=e861]:
             - generic [ref=e863]:
               - link "link" [ref=e864] [cursor=pointer]:
@@ -656,9 +656,9 @@
         - generic [ref=e881]:
           - img [ref=e883]
           - generic [ref=e884]:
-            - generic [ref=e885]: "Part: 00A-4496-AN"
-            - paragraph [ref=e886] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
-            - generic [ref=e888]: $849.00 (USD) (Ea)
+            - generic [ref=e885]: "Part: 00B-4496-AN"
+            - paragraph [ref=e886] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
+            - generic [ref=e888]: $926.00 (USD) (Ea)
           - generic [ref=e889]:
             - generic [ref=e891]:
               - link "link" [ref=e892] [cursor=pointer]:
@@ -819,15 +819,15 @@
     - list [ref=e1020]:
       - listitem [ref=e1021]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e1022] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a
         - text: "|"
       - listitem [ref=e1023]:
         - link "Filtration Prior to HPLC Analysis" [ref=e1024] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a
         - text: "|"
       - listitem [ref=e1025]:
         - link "Leader in Analytical Chemistry Solutions" [ref=e1026] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b&ajs_aid=896d365b-eb95-48db-9f55-ec200f31c69b
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a&ajs_aid=a6415059-f4d7-414b-948a-ac0471d7bd7a
   - iframe [ref=e1027]:
     - button "Click to start chatting" [ref=f21e2] [cursor=pointer]:
       - img [ref=f21e4]

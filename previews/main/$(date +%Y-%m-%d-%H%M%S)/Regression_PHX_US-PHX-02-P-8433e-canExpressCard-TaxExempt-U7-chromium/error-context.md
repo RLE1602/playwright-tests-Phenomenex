@@ -290,8 +290,8 @@
         - generic [ref=e347]:
           - img [ref=e349]
           - generic [ref=e350]:
-            - generic [ref=e351]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e352] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e351]: "Part: 00F-4496-E0"
+            - paragraph [ref=e352] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
             - generic [ref=e354]: ()
           - generic [ref=e355]:
             - generic [ref=e357]:
@@ -305,8 +305,8 @@
         - generic [ref=e370]:
           - img [ref=e372]
           - generic [ref=e373]:
-            - generic [ref=e374]: "Part: 00F-4496-E0"
-            - paragraph [ref=e375] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
+            - generic [ref=e374]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e375] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
             - generic [ref=e377]: ()
           - generic [ref=e378]:
             - generic [ref=e380]:
@@ -320,8 +320,8 @@
         - generic [ref=e393]:
           - img [ref=e395]
           - generic [ref=e396]:
-            - generic [ref=e397]: "Part: 00F-4248-A0"
-            - paragraph [ref=e398] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e397]: "Part: 00F-4252-A0"
+            - paragraph [ref=e398] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e400]: ()
           - generic [ref=e401]:
             - generic [ref=e403]:
@@ -335,8 +335,8 @@
         - generic [ref=e416]:
           - img [ref=e418]
           - generic [ref=e419]:
-            - generic [ref=e420]: "Part: 00F-4726-A0"
-            - paragraph [ref=e421] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e420]: "Part: 00F-4248-A0"
+            - paragraph [ref=e421] [cursor=pointer]: Luna 3 µm C8(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e423]: ()
           - generic [ref=e424]:
             - generic [ref=e426]:
@@ -350,8 +350,8 @@
         - generic [ref=e439]:
           - img [ref=e441]
           - generic [ref=e442]:
-            - generic [ref=e443]: "Part: 00F-4742-A0"
-            - paragraph [ref=e444] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
+            - generic [ref=e443]: "Part: 00F-4726-A0"
+            - paragraph [ref=e444] [cursor=pointer]: Kinetex 1.7 µm EVO C18 100 Å, LC Column 150 x 1.0 mm, Ea
             - generic [ref=e446]: ()
           - generic [ref=e447]:
             - generic [ref=e449]:
@@ -365,8 +365,8 @@
         - generic [ref=e462]:
           - img [ref=e464]
           - generic [ref=e465]:
-            - generic [ref=e466]: "Part: 00F-4447-A0"
-            - paragraph [ref=e467] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e466]: "Part: 00F-4742-A0"
+            - paragraph [ref=e467] [cursor=pointer]: Luna Omega 1.6 µm C18 100 Å, LC Column 150 x 1.0 mm, Ea
             - generic [ref=e469]: ()
           - generic [ref=e470]:
             - generic [ref=e472]:
@@ -380,8 +380,8 @@
         - generic [ref=e485]:
           - img [ref=e487]
           - generic [ref=e488]:
-            - generic [ref=e489]: "Part: 00F-4252-A0"
-            - paragraph [ref=e490] [cursor=pointer]: Luna 5 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e489]: "Part: 00F-4447-A0"
+            - paragraph [ref=e490] [cursor=pointer]: Luna 3 µm PFP(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e492]: ()
           - generic [ref=e493]:
             - generic [ref=e495]:
@@ -395,8 +395,8 @@
         - generic [ref=e508]:
           - img [ref=e510]
           - generic [ref=e511]:
-            - generic [ref=e512]: "Part: 00F-4435-A0"
-            - paragraph [ref=e513] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e512]: "Part: 00F-4377-A0"
+            - paragraph [ref=e513] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e515]: ()
           - generic [ref=e516]:
             - generic [ref=e518]:
@@ -410,8 +410,8 @@
         - generic [ref=e531]:
           - img [ref=e533]
           - generic [ref=e534]:
-            - generic [ref=e535]: "Part: 00F-4424-A0"
-            - paragraph [ref=e536] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e535]: "Part: 00F-4375-A0"
+            - paragraph [ref=e536] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e538]: ()
           - generic [ref=e539]:
             - generic [ref=e541]:
@@ -425,8 +425,8 @@
         - generic [ref=e554]:
           - img [ref=e556]
           - generic [ref=e557]:
-            - generic [ref=e558]: "Part: 00F-4377-A0"
-            - paragraph [ref=e559] [cursor=pointer]: Luna 3 µm NH2 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e558]: "Part: 00F-4251-A0"
+            - paragraph [ref=e559] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e561]: ()
           - generic [ref=e562]:
             - generic [ref=e564]:
@@ -440,8 +440,8 @@
         - generic [ref=e577]:
           - img [ref=e579]
           - generic [ref=e580]:
-            - generic [ref=e581]: "Part: 00F-4375-A0"
-            - paragraph [ref=e582] [cursor=pointer]: Synergi 4 µm Hydro-RP 80 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e581]: "Part: 00F-4435-A0"
+            - paragraph [ref=e582] [cursor=pointer]: Gemini 5 µm C18 110 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e584]: ()
           - generic [ref=e585]:
             - generic [ref=e587]:
@@ -455,8 +455,8 @@
         - generic [ref=e600]:
           - img [ref=e602]
           - generic [ref=e603]:
-            - generic [ref=e604]: "Part: 00F-4251-A0"
-            - paragraph [ref=e605] [cursor=pointer]: Luna 3 µm C18(2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e604]: "Part: 00F-4424-A0"
+            - paragraph [ref=e605] [cursor=pointer]: Synergi 4 µm Fusion-RP 80 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e607]: ()
           - generic [ref=e608]:
             - generic [ref=e610]:
@@ -515,8 +515,8 @@
         - generic [ref=e692]:
           - img [ref=e694]
           - generic [ref=e695]:
-            - generic [ref=e696]: "Part: 00C-4496-AN"
-            - paragraph [ref=e697] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
+            - generic [ref=e696]: "Part: 00D-4496-AN"
+            - paragraph [ref=e697] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
             - generic [ref=e699]: ()
           - generic [ref=e700]:
             - generic [ref=e702]:
@@ -530,8 +530,8 @@
         - generic [ref=e715]:
           - img [ref=e717]
           - generic [ref=e718]:
-            - generic [ref=e719]: "Part: 00B-4496-AN"
-            - paragraph [ref=e720] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
+            - generic [ref=e719]: "Part: 00A-4496-AN"
+            - paragraph [ref=e720] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
             - generic [ref=e722]: ()
           - generic [ref=e723]:
             - generic [ref=e725]:
@@ -545,8 +545,8 @@
         - generic [ref=e738]:
           - img [ref=e740]
           - generic [ref=e741]:
-            - generic [ref=e742]: "Part: 00D-4496-AN"
-            - paragraph [ref=e743] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
+            - generic [ref=e742]: "Part: 00C-4496-AN"
+            - paragraph [ref=e743] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
             - generic [ref=e745]: ()
           - generic [ref=e746]:
             - generic [ref=e748]:
@@ -560,8 +560,8 @@
         - generic [ref=e761]:
           - img [ref=e763]
           - generic [ref=e764]:
-            - generic [ref=e765]: "Part: 00A-4496-AN"
-            - paragraph [ref=e766] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
+            - generic [ref=e765]: "Part: 00B-4496-AN"
+            - paragraph [ref=e766] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
             - generic [ref=e768]: ()
           - generic [ref=e769]:
             - generic [ref=e771]:
@@ -719,29 +719,29 @@
     - list [ref=e896]:
       - listitem [ref=e897]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e898] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30
         - text: "|"
       - listitem [ref=e899]:
         - link "Filtration Prior to HPLC Analysis" [ref=e900] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30
         - text: "|"
       - listitem [ref=e901]:
         - link "Leader in Analytical Chemistry Solutions" [ref=e902] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7&ajs_aid=4bbb9c06-29f7-4a43-a019-37a0d7756cb7
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30&ajs_aid=6e98dd09-b37c-4f25-9620-b05cbf1e2c30
   - iframe [ref=e903]:
-    - button "Click to start chatting" [ref=f24e2] [cursor=pointer]:
-      - img [ref=f24e4]
+    - button "Click to start chatting" [ref=f21e2] [cursor=pointer]:
+      - img [ref=f21e4]
   - generic:
     - generic:
       - generic [ref=e904]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [ref=e905]:
-        - generic [ref=f12e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f12e2]:
-            - img [ref=f12e3]
-          - generic [ref=f12e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f12e6]:
-              - generic [ref=f12e8]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
+              - generic [ref=f13e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f12e9]
+            - button "Type and start" [ref=f13e9]
 ```
