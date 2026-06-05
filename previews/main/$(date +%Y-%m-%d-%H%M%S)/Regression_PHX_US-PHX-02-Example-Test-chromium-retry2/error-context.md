@@ -343,7 +343,7 @@
                 - /url: https://stage-aem.phenomenex.com/resources/shopping-hub
             - listitem:
               - link "Sign up Chromatography eNewsletter":
-                - /url: https://discover.phenomenex.com/newsletter-subscription?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/newsletter-subscription
             - listitem:
               - text: Support
               - generic:
@@ -375,7 +375,7 @@
                 - /url: https://stage-aem.phenomenex.com/our-company/phx-quality-policy
             - listitem:
               - link "Share Your Experience":
-                - /url: https://discover.phenomenex.com/testimonial?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/testimonial
             - listitem:
               - link "Tradeshows and Events":
                 - /url: https://stage-aem.phenomenex.com/our-company/tradeshows-and-events
@@ -631,7 +631,7 @@
                 - /url: https://stage-aem.phenomenex.com/resources/documents/guides-and-posters-page
             - listitem:
               - link "2026 Product Guide":
-                - /url: https://discover.phenomenex.com/25-catalog-request?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/25-catalog-request
             - listitem:
               - link "HPLC Knowledge Center":
                 - /url: https://stage-aem.phenomenex.com/resources/knowledge-center/hplc-knowledge-center
@@ -652,7 +652,7 @@
                 - /url: https://stage-aem.phenomenex.com/resources/webinars
             - listitem:
               - link "Training Seminars (Paid)":
-                - /url: https://discover.phenomenex.com/Chromatography-Training-Courses?_gl=1*6z2sl3*_gcl_au*NTk5NTQ3MTMxLjE3NzU5MjI2NTM.*_ga*MjE1MTExNzk5LjE3NzU5MjM1NzY.*_ga_790WGKEF4G*czE3NzYyMzM2NjUkbzIxJGcxJHQxNzc2MjM1NjAzJGo2MCRsMCRoMA..*_ga_X15MFH3TKC*czE3NzYyMzM2NjAkbzIxJGcxJHQxNzc2MjM1NjAzJGo2MCRsMCRoODc3NTUwMjA4&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/Chromatography-Training-Courses?_gl=1*6z2sl3*_gcl_au*NTk5NTQ3MTMxLjE3NzU5MjI2NTM.*_ga*MjE1MTExNzk5LjE3NzU5MjM1NzY.*_ga_790WGKEF4G*czE3NzYyMzM2NjUkbzIxJGcxJHQxNzc2MjM1NjAzJGo2MCRsMCRoMA..*_ga_X15MFH3TKC*czE3NzYyMzM2NjAkbzIxJGcxJHQxNzc2MjM1NjAzJGo2MCRsMCRoODc3NTUwMjA4
             - listitem:
               - link "View All About Knowledge Center & Training":
                 - /url: https://stage-aem.phenomenex.com/resources/knowledge-center
@@ -661,13 +661,13 @@
                 - /url: https://stage-aem.phenomenex.com/resources/support/faqs
             - listitem:
               - link "Product/Method Support":
-                - /url: https://discover.phenomenex.com/customersupport?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/customersupport
             - listitem:
               - link "Request a Quote":
-                - /url: https://discover.phenomenex.com/online-quote-req-en?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/online-quote-req-en
             - listitem:
               - link "Troubleshooting Help":
-                - /url: https://discover.phenomenex.com/technical-support?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/technical-support
             - listitem:
               - link "View All Support":
                 - /url: https://stage-aem.phenomenex.com/resources/support
@@ -737,7 +737,7 @@
               - heading "Need a Quote?" [level=2] [ref=e116]
               - paragraph [ref=e118]: We'll create one tailored for your needs.
               - link "REQUEST QUOTE" [ref=e119] [cursor=pointer]:
-                - /url: https://discover.phenomenex.com/online-quote-req-en?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://discover.phenomenex.com/online-quote-req-en
                 - generic [ref=e120]: REQUEST QUOTE
     - generic [ref=e121]:
       - heading "Browse by Categories" [level=2] [ref=e123]
@@ -828,7 +828,7 @@
             - heading "New 2026 Product Guide" [level=4] [ref=e224]
             - paragraph [ref=e226]: Featuring our most current portfolio of LC, GC, and Sample products.
             - link "See Product Guide" [ref=e228]:
-              - /url: https://discover.phenomenex.com/new-catalog-request?utm_campaign=25catalogrequest&utm_source=phenomenex&utm_medium=redirect&_gl=1%2A1jmbwrl%2A_gcl_au%2ANjcxOTU3NDAuMTc3MDkzNTk2Ny41MzU2NzkyOTAuMTc3NTUyNTMxMC4xNzc1NTI1MzA5%2A_ga%2AMTI2MzUxMjU4Ni4xNzc1NTEyNTkw%2A_ga_790WGKEF4G%2AczE3NzYzNjMwNzYkbzIwMSRnMCR0MTc3NjM2MzA3NiRqNjAkbDAkaDA.%2A_ga_X15MFH3TKC%2AczE3NzYzNjMwNzYkbzE5NyRnMCR0MTc3NjM2MzA3OSRqNTckbDAkaDgxMDk4Nzk2Mg..&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+              - /url: https://discover.phenomenex.com/new-catalog-request?utm_campaign=25catalogrequest&utm_source=phenomenex&utm_medium=redirect&_gl=1%2A1jmbwrl%2A_gcl_au%2ANjcxOTU3NDAuMTc3MDkzNTk2Ny41MzU2NzkyOTAuMTc3NTUyNTMxMC4xNzc1NTI1MzA5%2A_ga%2AMTI2MzUxMjU4Ni4xNzc1NTEyNTkw%2A_ga_790WGKEF4G%2AczE3NzYzNjMwNzYkbzIwMSRnMCR0MTc3NjM2MzA3NiRqNjAkbDAkaDA.%2A_ga_X15MFH3TKC%2AczE3NzYzNjMwNzYkbzE5NyRnMCR0MTc3NjM2MzA3OSRqNTckbDAkaDgxMDk4Nzk2Mg..
         - listitem [ref=e229] [cursor=pointer]:
           - img "Kinetex Amide Columns" [ref=e232]
           - generic [ref=e233]:
@@ -894,7 +894,7 @@
             - paragraph [ref=e303]: Customer Support
             - paragraph [ref=e304]: Access product/method development support, get help with troubleshooting, and much more.
             - link "Contact Us" [ref=e305] [cursor=pointer]:
-              - /url: https://discover.phenomenex.com/customersupport?ajs_aid=a21ce4a2-97ec-49f2-87e3-22f54e22db6a&_gl=1*rkps0v*_ga*MjM4NjE2MDg5LjE3Nzg5NDg1NDk.*_ga_790WGKEF4G*czE3Nzk1NTM2NzIkbzExJGcxJHQxNzc5NTY3MTcyJGoxMiRsMCRoMA..*_gcl_au*NDkwNjQ0NzI3LjE3Nzg5NDg1NDg.*_ga_X15MFH3TKC*czE3Nzk1NTM2NzMkbzE4JGcxJHQxNzc5NTY3MTcyJGoxMiRsMCRoNDc3NTA1OTA.&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+              - /url: https://discover.phenomenex.com/customersupport?ajs_aid=a21ce4a2-97ec-49f2-87e3-22f54e22db6a&_gl=1*rkps0v*_ga*MjM4NjE2MDg5LjE3Nzg5NDg1NDk.*_ga_790WGKEF4G*czE3Nzk1NTM2NzIkbzExJGcxJHQxNzc5NTY3MTcyJGoxMiRsMCRoMA..*_gcl_au*NDkwNjQ0NzI3LjE3Nzg5NDg1NDg.*_ga_X15MFH3TKC*czE3Nzk1NTM2NzMkbzE4JGcxJHQxNzc5NTY3MTcyJGoxMiRsMCRoNDc3NTA1OTA.
         - generic [ref=e306]:
           - img "add_moderator" [ref=e309]
           - generic [ref=e310]:
@@ -913,7 +913,7 @@
                 - text: Phenomenal Chemistry in Every Peak.
                 - strong [ref=e326]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
                 - link "Connect With Us" [ref=e327] [cursor=pointer]:
-                  - /url: https://discover.phenomenex.com/customersupport?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                  - /url: https://discover.phenomenex.com/customersupport
             - listitem [ref=e328]:
               - paragraph [ref=e329]: PRODUCTS AND SERVICES
               - list [ref=e330]:
@@ -934,10 +934,10 @@
               - list [ref=e341]:
                 - listitem [ref=e342]:
                   - link "Product/Method Support" [ref=e343] [cursor=pointer]:
-                    - /url: https://discover.phenomenex.com/customersupport?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                    - /url: https://discover.phenomenex.com/customersupport
                 - listitem [ref=e344]:
                   - link "Troubleshooting Help" [ref=e345] [cursor=pointer]:
-                    - /url: https://discover.phenomenex.com/technical-support?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                    - /url: https://discover.phenomenex.com/technical-support
                 - listitem [ref=e346]:
                   - link "Contact Us" [ref=e347] [cursor=pointer]:
                     - /url: /our-company/contact-us
@@ -980,23 +980,23 @@
               - img "danaher-logo" [ref=e380]
         - generic [ref=e382]:
           - link [ref=e385] [cursor=pointer]:
-            - /url: https://www.abcam.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.abcam.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e388] [cursor=pointer]:
-            - /url: https://www.aldevron.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.aldevron.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e391] [cursor=pointer]:
-            - /url: https://www.beckman.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.beckman.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e394] [cursor=pointer]:
-            - /url: https://www.genedata.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.genedata.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e397] [cursor=pointer]:
-            - /url: https://www.idbs.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.idbs.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e400] [cursor=pointer]:
-            - /url: https://www.idtdna.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.idtdna.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e403] [cursor=pointer]:
-            - /url: https://www.leica-microsystems.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.leica-microsystems.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e406] [cursor=pointer]:
-            - /url: https://www.moleculardevices.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://www.moleculardevices.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e409] [cursor=pointer]:
-            - /url: https://sciex.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer&ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+            - /url: https://sciex.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
       - generic [ref=e410]:
         - generic [ref=e411]:
           - list [ref=e412]:
@@ -1042,22 +1042,22 @@
             - listitem [ref=e442]: "|"
             - listitem [ref=e443]:
               - link "Sitemap" [ref=e444] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/index-sitemap?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://www.phenomenex.com/index-sitemap
           - paragraph [ref=e445]: © 2026 Phenomenex Inc. All rights reserved.
         - generic [ref=e448]:
           - generic [ref=e449]: Also of Interest
           - list [ref=e450]:
             - listitem [ref=e451]:
               - link "Verex Filter Vials for Filtration and Analysis" [ref=e452] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
               - text: "|"
             - listitem [ref=e453]:
               - link "Filtration Prior to HPLC Analysis" [ref=e454] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
             - listitem [ref=e455]:
               - link "Leader in Analytical Chemistry Solutions" [ref=e456] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars?ajs_aid=b2be0452-ad11-4524-a775-ed807c6f666a
+                - /url: https://www.phenomenex.com/webinars
   - iframe [ref=e457]:
     - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
       - img [ref=f7e4]
@@ -1068,26 +1068,17 @@
           - generic [ref=e463]:
             - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
             - link ", opens in a new tab" [ref=e464] [cursor=pointer]:
-              - /url: https://www.phenomenex.com/phx-cookie-policy
+              - /url: https://www.phenomenex.com/legal/phx-cookie-policy
               - text: Cookie Notice
           - link "Phenomenex Cookie Partners Details" [ref=e465] [cursor=pointer]:
             - /url: "#"
       - generic [ref=e467]:
         - button "Cookie Settings, Opens the preference center dialog" [ref=e468] [cursor=pointer]: Cookie Settings
         - button "Accept All Cookies" [ref=e470] [cursor=pointer]
-  - generic [ref=e472]:
-    - generic [ref=e473]:
-      - text: New Lab Gear! Free when you spend $1,500 or more online on Phenomenex brand products. Apply code SUPF0626U at checkout.
-      - link "T&Cs apply" [ref=e474] [cursor=pointer]:
-        - /url: https://www.phenomenex.com/phx-terms-and-conditions-of-sale
-      - text: .
-    - link "Promo Details" [ref=e475] [cursor=pointer]:
-      - /url: https://discover.phenomenex.com/gear-offer-26u
-    - button "Close Popup" [ref=e476] [cursor=pointer]: ×
   - generic:
     - generic:
-      - generic [ref=e477]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [active] [ref=e478]:
+      - generic [ref=e471]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
+      - iframe [active] [ref=e472]:
         - generic [ref=f6e1] [cursor=pointer]:
           - button "Click to decline the chat invitation" [active] [ref=f6e2]:
             - img [ref=f6e3]
