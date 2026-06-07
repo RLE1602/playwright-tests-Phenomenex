@@ -27,20 +27,20 @@
               - /url: /quick-order
               - img "quick-order" [ref=e30]
               - generic [ref=e31]: Quick Order
-            - link "quote Request Quote" [ref=e32] [cursor=pointer]:
-              - /url: https://discover.phenomenex.com/online-quote-req-en
+            - generic [ref=e32] [cursor=pointer]:
               - img "quote" [ref=e34]
-              - generic [ref=e35]: Request Quote
+              - generic [ref=e35]: Quote
             - generic [ref=e36] [cursor=pointer]:
               - img "cart" [ref=e38]
               - generic [ref=e39]: Cart
-        - generic [ref=e41]:
-          - generic [ref=e42] [cursor=pointer]: LC
-          - generic [ref=e43] [cursor=pointer]: GC
-          - generic [ref=e44] [cursor=pointer]: Sample Prep
-          - generic [ref=e45] [cursor=pointer]: Industry Applications
-          - generic [ref=e46] [cursor=pointer]: Resources
-          - generic [ref=e47] [cursor=pointer]: Our Company
+              - generic [ref=e40]: "0"
+        - generic [ref=e42]:
+          - generic [ref=e43] [cursor=pointer]: LC
+          - generic [ref=e44] [cursor=pointer]: GC
+          - generic [ref=e45] [cursor=pointer]: Sample Prep
+          - generic [ref=e46] [cursor=pointer]: Industry Applications
+          - generic [ref=e47] [cursor=pointer]: Resources
+          - generic [ref=e48] [cursor=pointer]: Our Company
       - generic:
         - generic:
           - generic:
@@ -683,396 +683,396 @@
             - listitem:
               - link "View All Web Tools":
                 - /url: https://stage-aem.phenomenex.com/resources/webtools
-  - main [ref=e48]:
-    - region "Hero Banner" [ref=e51]:
-      - generic [ref=e52]:
-        - group "Title and Description Section" [ref=e53]:
-          - generic [ref=e54]:
-            - heading "Helping Scientists Solve Chromatography Challenges" [level=1] [ref=e56]
-            - link "FIND PRODUCTS" [ref=e58] [cursor=pointer]:
+  - main [ref=e49]:
+    - region "Hero Banner" [ref=e52]:
+      - generic [ref=e53]:
+        - group "Title and Description Section" [ref=e54]:
+          - generic [ref=e55]:
+            - heading "Helping Scientists Solve Chromatography Challenges" [level=1] [ref=e57]
+            - link "FIND PRODUCTS" [ref=e59] [cursor=pointer]:
               - /url: /products
-              - generic [ref=e59]: FIND PRODUCTS
-              - img [ref=e61]
-            - generic [ref=e62]:
-              - link "Create Account" [ref=e64] [cursor=pointer]:
+              - generic [ref=e60]: FIND PRODUCTS
+              - img [ref=e62]
+            - generic [ref=e63]:
+              - link "Create Account" [ref=e65] [cursor=pointer]:
                 - /url: /register
                 - text: Create Account
-                - img [ref=e66]
-              - link "Shop Now" [ref=e68] [cursor=pointer]:
+                - img [ref=e67]
+              - link "Shop Now" [ref=e69] [cursor=pointer]:
                 - /url: /quick-order
                 - text: Shop Now
-                - img [ref=e70]
-        - group "Image section" [ref=e71]
-    - generic [ref=e72]:
-      - heading "Get Started Quickly" [level=2] [ref=e74]
-      - list [ref=e77]:
-        - listitem [ref=e78] [cursor=pointer]:
-          - img "Find What You Need" [ref=e81]
-          - generic [ref=e82]:
-            - heading "Find What You Need – Fast" [level=4] [ref=e83]
-            - paragraph [ref=e85]: Effortlessly access products, orders, quotes, CQA/CofAs, and resources—all in one place.
-            - link "Start with Shopping Hub" [ref=e87]:
+                - img [ref=e71]
+        - group "Image section" [ref=e72]
+    - generic [ref=e73]:
+      - heading "Get Started Quickly" [level=2] [ref=e75]
+      - list [ref=e78]:
+        - listitem [ref=e79] [cursor=pointer]:
+          - img "Find What You Need" [ref=e82]
+          - generic [ref=e83]:
+            - heading "Find What You Need – Fast" [level=4] [ref=e84]
+            - paragraph [ref=e86]: Effortlessly access products, orders, quotes, CQA/CofAs, and resources—all in one place.
+            - link "Start with Shopping Hub" [ref=e88]:
               - /url: /resources/shopping-hub
-        - listitem [ref=e88] [cursor=pointer]:
-          - generic [ref=e91]:
-            - heading "Browse Applications" [level=4] [ref=e92]
-            - paragraph [ref=e94]: Search applications by industry, technique, column phase, and official methods to identify the best column for your separation.
-            - link "View Application Library" [ref=e96]:
+        - listitem [ref=e89] [cursor=pointer]:
+          - generic [ref=e92]:
+            - heading "Browse Applications" [level=4] [ref=e93]
+            - paragraph [ref=e95]: Search applications by industry, technique, column phase, and official methods to identify the best column for your separation.
+            - link "View Application Library" [ref=e97]:
               - /url: /resources/application-library
-        - listitem [ref=e97] [cursor=pointer]:
-          - generic [ref=e100]:
-            - heading "Build Your Expertise" [level=4] [ref=e101]
-            - paragraph [ref=e103]: Access technical articles, webinars and expert guidance to help you learn, troubleshoot, and optimize separations.
-            - link "Explore Knowledge Center" [ref=e105]:
+        - listitem [ref=e98] [cursor=pointer]:
+          - generic [ref=e101]:
+            - heading "Build Your Expertise" [level=4] [ref=e102]
+            - paragraph [ref=e104]: Access technical articles, webinars and expert guidance to help you learn, troubleshoot, and optimize separations.
+            - link "Explore Knowledge Center" [ref=e106]:
               - /url: /resources/knowledge-center
-        - listitem [ref=e106]:
-          - generic [ref=e107]:
-            - generic [ref=e108]:
-              - heading "Ready to order?" [level=2] [ref=e109]
-              - paragraph [ref=e111]: Search by part number, brand name, or description.
-              - link "QUICK ORDER" [ref=e112] [cursor=pointer]:
+        - listitem [ref=e107]:
+          - generic [ref=e108]:
+            - generic [ref=e109]:
+              - heading "Ready to order?" [level=2] [ref=e110]
+              - paragraph [ref=e112]: Search by part number, brand name, or description.
+              - link "QUICK ORDER" [ref=e113] [cursor=pointer]:
                 - /url: /quick-order
-                - generic [ref=e113]: QUICK ORDER
-            - generic [ref=e114]:
-              - heading "Need a Quote?" [level=2] [ref=e115]
-              - paragraph [ref=e117]: We'll create one tailored for your needs.
-              - link "REQUEST QUOTE" [ref=e118] [cursor=pointer]:
+                - generic [ref=e114]: QUICK ORDER
+            - generic [ref=e115]:
+              - heading "Need a Quote?" [level=2] [ref=e116]
+              - paragraph [ref=e118]: We'll create one tailored for your needs.
+              - link "REQUEST QUOTE" [ref=e119] [cursor=pointer]:
                 - /url: https://discover.phenomenex.com/online-quote-req-en
-                - generic [ref=e119]: REQUEST QUOTE
-    - generic [ref=e120]:
-      - heading "Browse by Categories" [level=2] [ref=e122]
-      - generic [ref=e124]:
-        - generic [ref=e125] [cursor=pointer]:
-          - paragraph [ref=e127]:
-            - img "icon alt test" [ref=e129]
-          - generic [ref=e130]:
-            - heading "Liquid Chromatography" [level=4] [ref=e131]
-            - paragraph [ref=e132]:
-              - link "Explore" [ref=e133]:
+                - generic [ref=e120]: REQUEST QUOTE
+    - generic [ref=e121]:
+      - heading "Browse by Categories" [level=2] [ref=e123]
+      - generic [ref=e125]:
+        - generic [ref=e126] [cursor=pointer]:
+          - paragraph [ref=e128]:
+            - img "icon alt test" [ref=e130]
+          - generic [ref=e131]:
+            - heading "Liquid Chromatography" [level=4] [ref=e132]
+            - paragraph [ref=e133]:
+              - link "Explore" [ref=e134]:
                 - /url: /liquid-chromatography
-        - generic [ref=e134] [cursor=pointer]:
-          - paragraph [ref=e136]:
-            - img "category-gc" [ref=e138]
-          - generic [ref=e139]:
-            - heading "Gas Chromatography" [level=4] [ref=e140]
-            - paragraph [ref=e141]:
-              - link "Explore" [ref=e142]:
+        - generic [ref=e135] [cursor=pointer]:
+          - paragraph [ref=e137]:
+            - img "category-gc" [ref=e139]
+          - generic [ref=e140]:
+            - heading "Gas Chromatography" [level=4] [ref=e141]
+            - paragraph [ref=e142]:
+              - link "Explore" [ref=e143]:
                 - /url: /gas-chromatography
-        - generic [ref=e143] [cursor=pointer]:
-          - paragraph [ref=e145]:
-            - img "test-tube" [ref=e147]
-          - generic [ref=e148]:
-            - heading "Sample Preparation" [level=4] [ref=e149]
-            - paragraph [ref=e150]:
-              - link "Explore" [ref=e151]:
+        - generic [ref=e144] [cursor=pointer]:
+          - paragraph [ref=e146]:
+            - img "test-tube" [ref=e148]
+          - generic [ref=e149]:
+            - heading "Sample Preparation" [level=4] [ref=e150]
+            - paragraph [ref=e151]:
+              - link "Explore" [ref=e152]:
                 - /url: /sample-preparation
-        - generic [ref=e152] [cursor=pointer]:
-          - paragraph [ref=e154]:
-            - img "industries" [ref=e156]
-          - generic [ref=e157]:
-            - heading "Industries We Serve" [level=4] [ref=e158]
-            - paragraph [ref=e159]:
-              - link "Explore" [ref=e160]:
+        - generic [ref=e153] [cursor=pointer]:
+          - paragraph [ref=e155]:
+            - img "industries" [ref=e157]
+          - generic [ref=e158]:
+            - heading "Industries We Serve" [level=4] [ref=e159]
+            - paragraph [ref=e160]:
+              - link "Explore" [ref=e161]:
                 - /url: /industries
-    - region "Hero Banner" [ref=e163]:
-      - generic [ref=e164]:
-        - group "Title and Description Section" [ref=e165]:
-          - heading "Phenomenal Chemistry in Every Peak" [level=2] [ref=e168]
-        - group "Image section" [ref=e169]:
-          - paragraph [ref=e171]: Phenomenex is a global technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers in academic, pharmaceutical/biopharmaceutical, biotech, environmental, clinical research, government, and industrial laboratories. From drug discovery and pharmaceutical development to food safety and environmental analysis, Phenomenex chromatography solutions accelerate science and help researchers improve human health and well-being. Phenomenex is an operating company within the Life Sciences group of Danaher Corporation
-          - link "Learn More About Us" [ref=e173] [cursor=pointer]:
+    - region "Hero Banner" [ref=e164]:
+      - generic [ref=e165]:
+        - group "Title and Description Section" [ref=e166]:
+          - heading "Phenomenal Chemistry in Every Peak" [level=2] [ref=e169]
+        - group "Image section" [ref=e170]:
+          - paragraph [ref=e172]: Phenomenex is a global technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers in academic, pharmaceutical/biopharmaceutical, biotech, environmental, clinical research, government, and industrial laboratories. From drug discovery and pharmaceutical development to food safety and environmental analysis, Phenomenex chromatography solutions accelerate science and help researchers improve human health and well-being. Phenomenex is an operating company within the Life Sciences group of Danaher Corporation
+          - link "Learn More About Us" [ref=e174] [cursor=pointer]:
             - /url: /our-company/about-us
-            - generic [ref=e174]: Learn More About Us
-    - generic [ref=e175]:
-      - heading "Explore Our Leading Brands" [level=2] [ref=e177]
-      - generic [ref=e179]:
-        - generic [ref=e181] [cursor=pointer]:
-          - paragraph [ref=e182]
-          - paragraph [ref=e184]: Core Shell Technology
-          - paragraph [ref=e185]: Experience a dramatic performance leap beyond your current LC setup.
-          - paragraph [ref=e186]:
-            - link "Explore" [ref=e187]:
+            - generic [ref=e175]: Learn More About Us
+    - generic [ref=e176]:
+      - heading "Explore Our Leading Brands" [level=2] [ref=e178]
+      - generic [ref=e180]:
+        - generic [ref=e182] [cursor=pointer]:
+          - paragraph [ref=e183]
+          - paragraph [ref=e185]: Core Shell Technology
+          - paragraph [ref=e186]: Experience a dramatic performance leap beyond your current LC setup.
+          - paragraph [ref=e187]:
+            - link "Explore" [ref=e188]:
               - /url: /products/kinetex-hplc-column
-        - generic [ref=e189] [cursor=pointer]:
-          - paragraph [ref=e190]
-          - paragraph [ref=e192]: Gas Chromatography Columns
-          - paragraph [ref=e193]: Elevate your GC analyses with proven accuracy and reproducibility.
-          - paragraph [ref=e194]:
-            - link "Explore" [ref=e195]:
+        - generic [ref=e190] [cursor=pointer]:
+          - paragraph [ref=e191]
+          - paragraph [ref=e193]: Gas Chromatography Columns
+          - paragraph [ref=e194]: Elevate your GC analyses with proven accuracy and reproducibility.
+          - paragraph [ref=e195]:
+            - link "Explore" [ref=e196]:
               - /url: /products/zebron-gc-columns
-        - generic [ref=e197] [cursor=pointer]:
-          - paragraph [ref=e198]
-          - paragraph [ref=e200]: Solid Phase Extraction
-          - paragraph [ref=e201]: Reduce prep time by up to 40% with ultra-clean, high-recovery results.
-          - paragraph [ref=e202]:
-            - link "Explore" [ref=e203]:
+        - generic [ref=e198] [cursor=pointer]:
+          - paragraph [ref=e199]
+          - paragraph [ref=e201]: Solid Phase Extraction
+          - paragraph [ref=e202]: Reduce prep time by up to 40% with ultra-clean, high-recovery results.
+          - paragraph [ref=e203]:
+            - link "Explore" [ref=e204]:
               - /url: /products/strata-x-pro-solid-phase-extraction-products
-        - generic [ref=e205] [cursor=pointer]:
-          - paragraph [ref=e206]
-          - paragraph [ref=e208]: Advanced Bio Separations
-          - paragraph [ref=e209]: Optimize biologics workflows with increased resolution and productivity.
-          - paragraph [ref=e210]:
-            - link "Explore" [ref=e211]:
+        - generic [ref=e206] [cursor=pointer]:
+          - paragraph [ref=e207]
+          - paragraph [ref=e209]: Advanced Bio Separations
+          - paragraph [ref=e210]: Optimize biologics workflows with increased resolution and productivity.
+          - paragraph [ref=e211]:
+            - link "Explore" [ref=e212]:
               - /url: /products/biozenlc-hplc-column
-    - generic [ref=e212]:
-      - heading "Discover What's Trending Now" [level=2] [ref=e214]
+    - generic [ref=e213]:
+      - heading "Discover What's Trending Now" [level=2] [ref=e215]
       - generic:
         - region "Hero Banner":
           - generic:
             - group "Title and Description Section"
             - group "Image section"
-      - list [ref=e217]:
-        - listitem [ref=e218] [cursor=pointer]:
-          - img "Product Guide" [ref=e221]
-          - generic [ref=e222]:
-            - heading "New 2026 Product Guide" [level=4] [ref=e223]
-            - paragraph [ref=e225]: Featuring our most current portfolio of LC, GC, and Sample products.
-            - link "See Product Guide" [ref=e227]:
+      - list [ref=e218]:
+        - listitem [ref=e219] [cursor=pointer]:
+          - img "Product Guide" [ref=e222]
+          - generic [ref=e223]:
+            - heading "New 2026 Product Guide" [level=4] [ref=e224]
+            - paragraph [ref=e226]: Featuring our most current portfolio of LC, GC, and Sample products.
+            - link "See Product Guide" [ref=e228]:
               - /url: https://discover.phenomenex.com/new-catalog-request?utm_campaign=25catalogrequest&utm_source=phenomenex&utm_medium=redirect&_gl=1%2A1jmbwrl%2A_gcl_au%2ANjcxOTU3NDAuMTc3MDkzNTk2Ny41MzU2NzkyOTAuMTc3NTUyNTMxMC4xNzc1NTI1MzA5%2A_ga%2AMTI2MzUxMjU4Ni4xNzc1NTEyNTkw%2A_ga_790WGKEF4G%2AczE3NzYzNjMwNzYkbzIwMSRnMCR0MTc3NjM2MzA3NiRqNjAkbDAkaDA.%2A_ga_X15MFH3TKC%2AczE3NzYzNjMwNzYkbzE5NyRnMCR0MTc3NjM2MzA3OSRqNTckbDAkaDgxMDk4Nzk2Mg..
-        - listitem [ref=e228] [cursor=pointer]:
-          - img "Kinetex Amide Columns" [ref=e231]
-          - generic [ref=e232]:
-            - heading "NEW Kinetex Amide Columns" [level=4] [ref=e233]
-            - paragraph [ref=e235]: Robust, reproducible amino acid analysis
-            - link "View Product" [ref=e237]:
+        - listitem [ref=e229] [cursor=pointer]:
+          - img "Kinetex Amide Columns" [ref=e232]
+          - generic [ref=e233]:
+            - heading "NEW Kinetex Amide Columns" [level=4] [ref=e234]
+            - paragraph [ref=e236]: Robust, reproducible amino acid analysis
+            - link "View Product" [ref=e238]:
               - /url: /products/kinetex-hplc-column/kinetex-amide
-        - listitem [ref=e238] [cursor=pointer]:
-          - img "Luna HILIC" [ref=e241]
-          - generic [ref=e242]:
-            - heading "NEW Luna Omega HILIC Columns" [level=4] [ref=e243]
-            - paragraph [ref=e245]: Enhanced polar compound retention and separation.
-            - link "View Product" [ref=e247]:
+        - listitem [ref=e239] [cursor=pointer]:
+          - img "Luna HILIC" [ref=e242]
+          - generic [ref=e243]:
+            - heading "NEW Luna Omega HILIC Columns" [level=4] [ref=e244]
+            - paragraph [ref=e246]: Enhanced polar compound retention and separation.
+            - link "View Product" [ref=e248]:
               - /url: /products/luna-omega-hplc-column/luna-omega-hilic
-        - listitem [ref=e248]:
-          - generic [ref=e249]:
-            - paragraph [ref=e251]:
-              - link "/content/dam/phenomenex/homepage/bioti-50-and-150-left.webp" [ref=e252] [cursor=pointer]:
+        - listitem [ref=e249]:
+          - generic [ref=e250]:
+            - paragraph [ref=e252]:
+              - link "/content/dam/phenomenex/homepage/bioti-50-and-150-left.webp" [ref=e253] [cursor=pointer]:
                 - /url: /content/dam/phenomenex/homepage/bioti-50-and-150-left.webp
-            - paragraph [ref=e254]: Biozen dSEC-7
-            - paragraph [ref=e256]: Biozen dSEC-7
-            - paragraph [ref=e258]: Size Exclusion columns for AAV and Large Biomolecule Aggregate Analysis
-            - paragraph [ref=e260]: View Product
-            - paragraph [ref=e262]:
-              - link "/products/biozenlc-hplc-column/biozen-dsec-7" [ref=e263] [cursor=pointer]:
+            - paragraph [ref=e255]: Biozen dSEC-7
+            - paragraph [ref=e257]: Biozen dSEC-7
+            - paragraph [ref=e259]: Size Exclusion columns for AAV and Large Biomolecule Aggregate Analysis
+            - paragraph [ref=e261]: View Product
+            - paragraph [ref=e263]:
+              - link "/products/biozenlc-hplc-column/biozen-dsec-7" [ref=e264] [cursor=pointer]:
                 - /url: /products/biozenlc-hplc-column/biozen-dsec-7
-            - paragraph [ref=e265]:
-              - link "#F2F5F9" [ref=e266] [cursor=pointer]:
+            - paragraph [ref=e266]:
+              - link "#F2F5F9" [ref=e267] [cursor=pointer]:
                 - /url: "#F2F5F9"
-    - generic [ref=e267]:
-      - generic [ref=e270]:
-        - generic [ref=e271]:
-          - heading "Recent Articles" [level=2] [ref=e272]
-          - link "View All Knowledge Center Articles" [ref=e273] [cursor=pointer]:
+    - generic [ref=e268]:
+      - generic [ref=e271]:
+        - generic [ref=e272]:
+          - heading "Recent Articles" [level=2] [ref=e273]
+          - link "View All Knowledge Center Articles" [ref=e274] [cursor=pointer]:
             - /url: /resources/blog
-        - generic [ref=e274]:
-          - generic [ref=e275]:
-            - paragraph [ref=e276]: May 6, 2026
-            - 'link "Silica Gel for Column Chromatography: Principles, Types, and Applications | Phenomenex" [ref=e277] [cursor=pointer]':
+        - generic [ref=e275]:
+          - generic [ref=e276]:
+            - paragraph [ref=e277]: May 6, 2026
+            - 'link "Silica Gel for Column Chromatography: Principles, Types, and Applications | Phenomenex" [ref=e278] [cursor=pointer]':
               - /url: /resources/knowledge-center/hplc-knowledge-center/silica-gel-for-column-chromatography
-          - generic [ref=e278]:
-            - paragraph [ref=e279]: Apr 3, 2026
-            - link "Improve Chromatographic Separation for Better Results | Phenomenex" [ref=e280] [cursor=pointer]:
+          - generic [ref=e279]:
+            - paragraph [ref=e280]: Apr 3, 2026
+            - link "Improve Chromatographic Separation for Better Results | Phenomenex" [ref=e281] [cursor=pointer]:
               - /url: /resources/knowledge-center/hplc-knowledge-center/how-to-improve-chromatographic-separation
-          - generic [ref=e281]:
-            - paragraph [ref=e282]: Feb 18, 2026
-            - 'link "Matrix Effects: Causes and Solutions in Analysis | Phenomenex" [ref=e283] [cursor=pointer]':
+          - generic [ref=e282]:
+            - paragraph [ref=e283]: Feb 18, 2026
+            - 'link "Matrix Effects: Causes and Solutions in Analysis | Phenomenex" [ref=e284] [cursor=pointer]':
               - /url: /resources/knowledge-center/spe-knowledge-center/matrix-effects-in-sample-preparation
-          - generic [ref=e284]:
-            - paragraph [ref=e285]: Apr 23, 2026
-            - link "Improving PFAS Sample Preparation for LC-MS/MS Analysis | Phenomenex" [ref=e286] [cursor=pointer]:
+          - generic [ref=e285]:
+            - paragraph [ref=e286]: Apr 23, 2026
+            - link "Improving PFAS Sample Preparation for LC-MS/MS Analysis | Phenomenex" [ref=e287] [cursor=pointer]:
               - /url: /resources/blog/improving-pfas-sample-preparation-for-lc-ms-ms-analysis
-      - generic [ref=e288]:
-        - generic [ref=e289]:
-          - img "forum" [ref=e292]
-          - generic [ref=e293]:
-            - paragraph [ref=e294]: Live Chat
-            - paragraph [ref=e295]: Need a product recommendation or method development help? Chat with our live experts now.
-            - button "Start Now" [ref=e296] [cursor=pointer]
-        - generic [ref=e297]:
-          - img "drafts" [ref=e300]
-          - generic [ref=e301]:
-            - paragraph [ref=e302]: Customer Support
-            - paragraph [ref=e303]: Access product/method development support, get help with troubleshooting, and much more.
-            - link "Contact Us" [ref=e304] [cursor=pointer]:
+      - generic [ref=e289]:
+        - generic [ref=e290]:
+          - img "forum" [ref=e293]
+          - generic [ref=e294]:
+            - paragraph [ref=e295]: Live Chat
+            - paragraph [ref=e296]: Need a product recommendation or method development help? Chat with our live experts now.
+            - button "Start Now" [ref=e297] [cursor=pointer]
+        - generic [ref=e298]:
+          - img "drafts" [ref=e301]
+          - generic [ref=e302]:
+            - paragraph [ref=e303]: Customer Support
+            - paragraph [ref=e304]: Access product/method development support, get help with troubleshooting, and much more.
+            - link "Contact Us" [ref=e305] [cursor=pointer]:
               - /url: https://discover.phenomenex.com/customersupport?ajs_aid=a21ce4a2-97ec-49f2-87e3-22f54e22db6a&_gl=1*rkps0v*_ga*MjM4NjE2MDg5LjE3Nzg5NDg1NDk.*_ga_790WGKEF4G*czE3Nzk1NTM2NzIkbzExJGcxJHQxNzc5NTY3MTcyJGoxMiRsMCRoMA..*_gcl_au*NDkwNjQ0NzI3LjE3Nzg5NDg1NDg.*_ga_X15MFH3TKC*czE3Nzk1NTM2NzMkbzE4JGcxJHQxNzc5NTY3MTcyJGoxMiRsMCRoNDc3NTA1OTA.
-        - generic [ref=e305]:
-          - img "add_moderator" [ref=e308]
-          - generic [ref=e309]:
-            - paragraph [ref=e310]: CQA / CofA
-            - paragraph [ref=e311]: Access your product’s CQA and Batch CofA
-            - link "Access Now" [ref=e312] [cursor=pointer]:
+        - generic [ref=e306]:
+          - img "add_moderator" [ref=e309]
+          - generic [ref=e310]:
+            - paragraph [ref=e311]: CQA / CofA
+            - paragraph [ref=e312]: Access your product’s CQA and Batch CofA
+            - link "Access Now" [ref=e313] [cursor=pointer]:
               - /url: https://stage-aem.phenomenex.com/dashboard/cqa
-  - contentinfo [ref=e313]:
-    - generic [ref=e316]:
-      - generic [ref=e317]:
-        - generic [ref=e318]:
-          - list [ref=e319]:
-            - listitem [ref=e320]:
-              - img "Phenomenex" [ref=e322]
-              - paragraph [ref=e324]:
+  - contentinfo [ref=e314]:
+    - generic [ref=e317]:
+      - generic [ref=e318]:
+        - generic [ref=e319]:
+          - list [ref=e320]:
+            - listitem [ref=e321]:
+              - img "Phenomenex" [ref=e323]
+              - paragraph [ref=e325]:
                 - text: Phenomenal Chemistry in Every Peak.
-                - strong [ref=e325]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
-                - link "Connect With Us" [ref=e326] [cursor=pointer]:
+                - strong [ref=e326]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+                - link "Connect With Us" [ref=e327] [cursor=pointer]:
                   - /url: https://discover.phenomenex.com/customersupport
-            - listitem [ref=e327]:
-              - paragraph [ref=e328]: PRODUCTS AND SERVICES
-              - list [ref=e329]:
-                - listitem [ref=e330]:
-                  - link "Products" [ref=e331] [cursor=pointer]:
+            - listitem [ref=e328]:
+              - paragraph [ref=e329]: PRODUCTS AND SERVICES
+              - list [ref=e330]:
+                - listitem [ref=e331]:
+                  - link "Products" [ref=e332] [cursor=pointer]:
                     - /url: /products
-                - listitem [ref=e332]:
-                  - link "Techniques" [ref=e333] [cursor=pointer]:
+                - listitem [ref=e333]:
+                  - link "Techniques" [ref=e334] [cursor=pointer]:
                     - /url: /techniques
-                - listitem [ref=e334]:
-                  - link "Industries" [ref=e335] [cursor=pointer]:
+                - listitem [ref=e335]:
+                  - link "Industries" [ref=e336] [cursor=pointer]:
                     - /url: /industries
-                - listitem [ref=e336]:
-                  - link "Quick Order" [ref=e337] [cursor=pointer]:
+                - listitem [ref=e337]:
+                  - link "Quick Order" [ref=e338] [cursor=pointer]:
                     - /url: /quick-order
-            - listitem [ref=e338]:
-              - paragraph [ref=e339]: SUPPORT
-              - list [ref=e340]:
-                - listitem [ref=e341]:
-                  - link "Product/Method Support" [ref=e342] [cursor=pointer]:
+            - listitem [ref=e339]:
+              - paragraph [ref=e340]: SUPPORT
+              - list [ref=e341]:
+                - listitem [ref=e342]:
+                  - link "Product/Method Support" [ref=e343] [cursor=pointer]:
                     - /url: https://discover.phenomenex.com/customersupport
-                - listitem [ref=e343]:
-                  - link "Troubleshooting Help" [ref=e344] [cursor=pointer]:
+                - listitem [ref=e344]:
+                  - link "Troubleshooting Help" [ref=e345] [cursor=pointer]:
                     - /url: https://discover.phenomenex.com/technical-support
-                - listitem [ref=e345]:
-                  - link "Contact Us" [ref=e346] [cursor=pointer]:
+                - listitem [ref=e346]:
+                  - link "Contact Us" [ref=e347] [cursor=pointer]:
                     - /url: /our-company/contact-us
-                - listitem [ref=e347]:
-                  - link "CQA / CofA" [ref=e348] [cursor=pointer]:
+                - listitem [ref=e348]:
+                  - link "CQA / CofA" [ref=e349] [cursor=pointer]:
                     - /url: /dashboard/cqa
-            - listitem [ref=e349]:
-              - paragraph [ref=e350]: OUR COMPANY
-              - list [ref=e351]:
-                - listitem [ref=e352]:
-                  - link "About Phenomenex" [ref=e353] [cursor=pointer]:
+            - listitem [ref=e350]:
+              - paragraph [ref=e351]: OUR COMPANY
+              - list [ref=e352]:
+                - listitem [ref=e353]:
+                  - link "About Phenomenex" [ref=e354] [cursor=pointer]:
                     - /url: /our-company/about-us
-                - listitem [ref=e354]:
-                  - link "Knowledge Center" [ref=e355] [cursor=pointer]:
+                - listitem [ref=e355]:
+                  - link "Knowledge Center" [ref=e356] [cursor=pointer]:
                     - /url: /resources/knowledge-center
-                - listitem [ref=e356]:
-                  - link "News" [ref=e357] [cursor=pointer]:
+                - listitem [ref=e357]:
+                  - link "News" [ref=e358] [cursor=pointer]:
                     - /url: /our-company/newsroom/news
-                - listitem [ref=e358]:
-                  - link "Danaher Life Sciences" [ref=e359] [cursor=pointer]:
+                - listitem [ref=e359]:
+                  - link "Danaher Life Sciences" [ref=e360] [cursor=pointer]:
                     - /url: https://lifesciences.danaher.com/
-          - generic [ref=e360]:
-            - generic [ref=e361]:
-              - link "facebook link" [ref=e362] [cursor=pointer]:
+          - generic [ref=e361]:
+            - generic [ref=e362]:
+              - link "facebook link" [ref=e363] [cursor=pointer]:
                 - /url: https://www.facebook.com/phenomenex
-                - img "facebook" [ref=e364]
-              - link "instagram link" [ref=e365] [cursor=pointer]:
+                - img "facebook" [ref=e365]
+              - link "instagram link" [ref=e366] [cursor=pointer]:
                 - /url: https://www.instagram.com/phenomenex
-                - img "instagram" [ref=e367]
-              - link "linkedln link" [ref=e368] [cursor=pointer]:
+                - img "instagram" [ref=e368]
+              - link "linkedln link" [ref=e369] [cursor=pointer]:
                 - /url: https://www.linkedin.com/company/phenomenex
-                - img "linkedln" [ref=e370]
-              - link "twitter link" [ref=e371] [cursor=pointer]:
+                - img "linkedln" [ref=e371]
+              - link "twitter link" [ref=e372] [cursor=pointer]:
                 - /url: https://x.com/phenomenex
-                - img "twitter" [ref=e373]
-              - link "youtube link" [ref=e374] [cursor=pointer]:
+                - img "twitter" [ref=e374]
+              - link "youtube link" [ref=e375] [cursor=pointer]:
                 - /url: https://www.youtube.com/user/phenomenex
-                - img "youtube" [ref=e376]
-            - paragraph [ref=e377]:
-              - img "danaher-logo" [ref=e379]
-        - generic [ref=e381]:
-          - link [ref=e384] [cursor=pointer]:
+                - img "youtube" [ref=e377]
+            - paragraph [ref=e378]:
+              - img "danaher-logo" [ref=e380]
+        - generic [ref=e382]:
+          - link [ref=e385] [cursor=pointer]:
             - /url: https://www.abcam.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e387] [cursor=pointer]:
+          - link [ref=e388] [cursor=pointer]:
             - /url: https://www.aldevron.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e390] [cursor=pointer]:
+          - link [ref=e391] [cursor=pointer]:
             - /url: https://www.beckman.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e393] [cursor=pointer]:
+          - link [ref=e394] [cursor=pointer]:
             - /url: https://www.genedata.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e396] [cursor=pointer]:
+          - link [ref=e397] [cursor=pointer]:
             - /url: https://www.idbs.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e399] [cursor=pointer]:
+          - link [ref=e400] [cursor=pointer]:
             - /url: https://www.idtdna.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e402] [cursor=pointer]:
+          - link [ref=e403] [cursor=pointer]:
             - /url: https://www.leica-microsystems.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e405] [cursor=pointer]:
+          - link [ref=e406] [cursor=pointer]:
             - /url: https://www.moleculardevices.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-          - link [ref=e408] [cursor=pointer]:
+          - link [ref=e409] [cursor=pointer]:
             - /url: https://sciex.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-      - generic [ref=e409]:
-        - generic [ref=e410]:
-          - list [ref=e411]:
-            - listitem [ref=e412]:
-              - link "Terms and Conditions" [ref=e413] [cursor=pointer]:
+      - generic [ref=e410]:
+        - generic [ref=e411]:
+          - list [ref=e412]:
+            - listitem [ref=e413]:
+              - link "Terms and Conditions" [ref=e414] [cursor=pointer]:
                 - /url: /legal/phx-terms-and-conditions-of-sale
-            - listitem [ref=e414]: "|"
-            - listitem [ref=e415]:
-              - link "Privacy Statement" [ref=e416] [cursor=pointer]:
+            - listitem [ref=e415]: "|"
+            - listitem [ref=e416]:
+              - link "Privacy Statement" [ref=e417] [cursor=pointer]:
                 - /url: /legal/phx-privacy-policy
-            - listitem [ref=e417]: "|"
-            - listitem [ref=e418]:
-              - link "Quality Policy" [ref=e419] [cursor=pointer]:
+            - listitem [ref=e418]: "|"
+            - listitem [ref=e419]:
+              - link "Quality Policy" [ref=e420] [cursor=pointer]:
                 - /url: /our-company/phx-quality-policy
-            - listitem [ref=e420]: "|"
-            - listitem [ref=e421]:
-              - link "Terms of Use" [ref=e422] [cursor=pointer]:
+            - listitem [ref=e421]: "|"
+            - listitem [ref=e422]:
+              - link "Terms of Use" [ref=e423] [cursor=pointer]:
                 - /url: /legal/phx-site-terms-of-use
-            - listitem [ref=e423]: "|"
-            - listitem [ref=e424]:
-              - link "Trademarks" [ref=e425] [cursor=pointer]:
+            - listitem [ref=e424]: "|"
+            - listitem [ref=e425]:
+              - link "Trademarks" [ref=e426] [cursor=pointer]:
                 - /url: /legal/phx-trademarks
-            - listitem [ref=e426]: "|"
-            - listitem [ref=e427]:
-              - link "CA Supply Chains Act" [ref=e428] [cursor=pointer]:
+            - listitem [ref=e427]: "|"
+            - listitem [ref=e428]:
+              - link "CA Supply Chains Act" [ref=e429] [cursor=pointer]:
                 - /url: /legal/phx-california-supply-chains-act
-            - listitem [ref=e429]: "|"
-            - listitem [ref=e430]:
-              - link "CA Consumer Privacy" [ref=e431] [cursor=pointer]:
+            - listitem [ref=e430]: "|"
+            - listitem [ref=e431]:
+              - link "CA Consumer Privacy" [ref=e432] [cursor=pointer]:
                 - /url: /legal/phx-california-consumer-rights-notice
-            - listitem [ref=e432]: "|"
-            - listitem [ref=e433]:
-              - link "Cookie Policy" [ref=e434] [cursor=pointer]:
+            - listitem [ref=e433]: "|"
+            - listitem [ref=e434]:
+              - link "Cookie Policy" [ref=e435] [cursor=pointer]:
                 - /url: /legal/phx-cookie-policy
-            - listitem [ref=e435]: "|"
-            - listitem [ref=e436]:
-              - link "Cookie Settings" [ref=e437] [cursor=pointer]:
+            - listitem [ref=e436]: "|"
+            - listitem [ref=e437]:
+              - link "Cookie Settings" [ref=e438] [cursor=pointer]:
                 - /url: "#"
-            - listitem [ref=e438]: "|"
-            - listitem [ref=e439]:
-              - link "Impressum" [ref=e440] [cursor=pointer]:
+            - listitem [ref=e439]: "|"
+            - listitem [ref=e440]:
+              - link "Impressum" [ref=e441] [cursor=pointer]:
                 - /url: /legal/phx-impressum
-            - listitem [ref=e441]: "|"
-            - listitem [ref=e442]:
-              - link "Sitemap" [ref=e443] [cursor=pointer]:
+            - listitem [ref=e442]: "|"
+            - listitem [ref=e443]:
+              - link "Sitemap" [ref=e444] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/index-sitemap
-          - paragraph [ref=e444]: © 2026 Phenomenex Inc. All rights reserved.
-        - generic [ref=e447]:
-          - generic [ref=e448]: Also of Interest
-          - list [ref=e449]:
-            - listitem [ref=e450]:
-              - link "Filtration Prior to HPLC Analysis" [ref=e451] [cursor=pointer]:
+          - paragraph [ref=e445]: © 2026 Phenomenex Inc. All rights reserved.
+        - generic [ref=e448]:
+          - generic [ref=e449]: Also of Interest
+          - list [ref=e450]:
+            - listitem [ref=e451]:
+              - link "Filtration Prior to HPLC Analysis" [ref=e452] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
-            - listitem [ref=e452]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e453] [cursor=pointer]:
+            - listitem [ref=e453]:
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e454] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/products/verex-filter-vials
               - text: "|"
-            - listitem [ref=e454]:
-              - link "Optimize HPLC Method with Interactive Web Tools" [ref=e455] [cursor=pointer]:
+            - listitem [ref=e455]:
+              - link "Optimize HPLC Method with Interactive Web Tools" [ref=e456] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/tools
-  - iframe [ref=e456]:
+  - iframe [ref=e457]:
     - button "Close Live Chat window" [ref=f4e2] [cursor=pointer]:
       - img [ref=f4e4]
-  - dialog "Privacy" [ref=e459]:
-    - generic [ref=e460]:
-      - generic [ref=e461]:
+  - dialog "Privacy" [ref=e460]:
+    - generic [ref=e461]:
+      - generic [ref=e462]:
         - generic:
-          - generic [ref=e462]:
+          - generic [ref=e463]:
             - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-            - link ", opens in a new tab" [ref=e463] [cursor=pointer]:
+            - link ", opens in a new tab" [ref=e464] [cursor=pointer]:
               - /url: https://www.phenomenex.com/legal/phx-cookie-policy
               - text: Cookie Notice
-          - link "Phenomenex Cookie Partners Details" [ref=e464] [cursor=pointer]:
+          - link "Phenomenex Cookie Partners Details" [ref=e465] [cursor=pointer]:
             - /url: "#"
-      - generic [ref=e466]:
-        - button "Cookie Settings, Opens the preference center dialog" [ref=e467] [cursor=pointer]: Cookie Settings
-        - button "Accept All Cookies" [ref=e469] [cursor=pointer]
+      - generic [ref=e467]:
+        - button "Cookie Settings, Opens the preference center dialog" [ref=e468] [cursor=pointer]: Cookie Settings
+        - button "Accept All Cookies" [ref=e470] [cursor=pointer]
 ```
