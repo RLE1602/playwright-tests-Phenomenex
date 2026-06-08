@@ -1059,8 +1059,8 @@
               - link "Optimize HPLC Method with Interactive Web Tools" [ref=e456] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/tools
   - iframe [ref=e457]:
-    - button "Close Live Chat window" [ref=f4e2] [cursor=pointer]:
-      - img [ref=f4e4]
+    - button "Click to start chatting" [ref=f5e2] [cursor=pointer]:
+      - img [ref=f5e4]
   - dialog "Privacy" [ref=e460]:
     - generic [ref=e461]:
       - generic [ref=e462]:
@@ -1075,4 +1075,17 @@
       - generic [ref=e467]:
         - button "Cookie Settings, Opens the preference center dialog" [ref=e468] [cursor=pointer]: Cookie Settings
         - button "Accept All Cookies" [ref=e470] [cursor=pointer]
+  - generic:
+    - generic:
+      - generic [ref=e471]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
+      - iframe [active] [ref=e472]:
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
+              - generic [ref=f6e8]:
+                - text: LIVE CHAT NOW!
+                - text: Our experts can help with product recommendations, quotes and more!
+            - button "Type and start" [ref=f6e9]
 ```
