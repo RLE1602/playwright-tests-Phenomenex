@@ -1052,12 +1052,12 @@
                 - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
             - listitem [ref=e453]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e454] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Leader in Analytical Chemistry Solutions" [ref=e454] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
               - text: "|"
             - listitem [ref=e455]:
-              - link "Optimize HPLC Method with Interactive Web Tools" [ref=e456] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/tools
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e456] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
   - iframe [ref=e457]:
     - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
       - img [ref=f7e4]
