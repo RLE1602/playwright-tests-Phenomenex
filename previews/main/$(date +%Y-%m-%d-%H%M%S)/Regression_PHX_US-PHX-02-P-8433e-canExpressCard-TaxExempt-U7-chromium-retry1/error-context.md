@@ -33,11 +33,11 @@
               - text: Quote
               - generic [ref=e44]: sms
               - generic [ref=e45]: "0"
-            - link "Cart shopping_cart 0" [ref=e47] [cursor=pointer]:
+            - link "Cart shopping_cart 1" [ref=e47] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/cart.html
               - text: Cart
               - generic [ref=e48]: shopping_cart
-              - generic [ref=e49]: "0"
+              - generic [ref=e49]: "1"
         - list [ref=e53]:
           - listitem [ref=e54] [cursor=pointer]:
             - generic [ref=e56]: LC
@@ -221,8 +221,8 @@
         - generic [ref=e236]:
           - img [ref=e238]
           - generic [ref=e239]:
-            - generic [ref=e240]: "Part: 00D-4496-A0"
-            - paragraph [ref=e241] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e240]: "Part: 00B-4496-A0"
+            - paragraph [ref=e241] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e243]: ()
             - generic [ref=e246]:
               - generic:
@@ -242,8 +242,8 @@
         - generic [ref=e263]:
           - img [ref=e265]
           - generic [ref=e266]:
-            - generic [ref=e267]: "Part: 00B-4496-A0"
-            - paragraph [ref=e268] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e267]: "Part: 00D-4496-A0"
+            - paragraph [ref=e268] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e270]: ()
             - generic [ref=e273]:
               - generic:
@@ -284,8 +284,8 @@
         - generic [ref=e317]:
           - img [ref=e319]
           - generic [ref=e320]:
-            - generic [ref=e321]: "Part: 00F-4496-E0"
-            - paragraph [ref=e322] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
+            - generic [ref=e321]: "Part: 00F-4496-AC"
+            - paragraph [ref=e322] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
             - generic [ref=e324]: ()
             - generic [ref=e327]:
               - generic:
@@ -326,8 +326,8 @@
         - generic [ref=e371]:
           - img [ref=e373]
           - generic [ref=e374]:
-            - generic [ref=e375]: "Part: 00F-4496-AC"
-            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e375]: "Part: 00F-4496-E0"
+            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
             - generic [ref=e378]: ()
             - generic [ref=e381]:
               - generic:
@@ -524,8 +524,8 @@
         - generic [ref=e659]:
           - img [ref=e661]
           - generic [ref=e662]:
-            - generic [ref=e663]: "Part: 00F-4162-A0"
-            - paragraph [ref=e664] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e663]: "Part: 00F-4167-A0"
+            - paragraph [ref=e664] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e666]: ()
           - generic [ref=e667]:
             - generic [ref=e669]:
@@ -539,8 +539,8 @@
         - generic [ref=e682]:
           - img [ref=e684]
           - generic [ref=e685]:
-            - generic [ref=e686]: "Part: 00F-4167-A0"
-            - paragraph [ref=e687] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e686]: "Part: 00F-4162-A0"
+            - paragraph [ref=e687] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
             - generic [ref=e689]: ()
           - generic [ref=e690]:
             - generic [ref=e692]:
@@ -797,29 +797,29 @@
     - list [ref=e948]:
       - listitem [ref=e949]:
         - link "Filtration Prior to HPLC Analysis" [ref=e950] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1&ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1&ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1
+          - /url: https://www.phenomenex.com/techniques/filtration?ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee
         - text: "|"
       - listitem [ref=e951]:
         - link "Leader in Analytical Chemistry Solutions" [ref=e952] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/webinars?ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1&ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1&ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1
+          - /url: https://www.phenomenex.com/webinars?ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee
         - text: "|"
       - listitem [ref=e953]:
         - link "Verex Filter Vials for Filtration and Analysis" [ref=e954] [cursor=pointer]:
-          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1&ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1&ajs_aid=818c05a1-8f8a-45b6-b452-6dcc20d86dd1
+          - /url: https://www.phenomenex.com/products/verex-filter-vials?ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee&ajs_aid=77b2caa8-e9a3-4bcf-8972-5ce6adca31ee
   - iframe [ref=e955]:
-    - button "Click to start chatting" [ref=f16e2] [cursor=pointer]:
-      - img [ref=f16e4]
+    - button "Click to start chatting" [ref=f20e2] [cursor=pointer]:
+      - img [ref=f20e4]
   - generic:
     - generic:
       - generic [ref=e956]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [ref=e957]:
-        - generic [ref=f8e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f8e2]:
-            - img [ref=f8e3]
-          - generic [ref=f8e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f8e6]:
-              - generic [ref=f8e8]:
+        - generic [ref=f12e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f12e2]:
+            - img [ref=f12e3]
+          - generic [ref=f12e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f12e6]:
+              - generic [ref=f12e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f8e9]
+            - button "Type and start" [ref=f12e9]
 ```
