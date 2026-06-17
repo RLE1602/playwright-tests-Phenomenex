@@ -33,11 +33,11 @@
               - text: Quote
               - generic [ref=e44]: sms
               - generic [ref=e45]: "0"
-            - link "Cart shopping_cart 0" [ref=e47] [cursor=pointer]:
+            - link "Cart shopping_cart 1" [ref=e47] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/cart.html
               - text: Cart
               - generic [ref=e48]: shopping_cart
-              - generic [ref=e49]: "0"
+              - generic [ref=e49]: "1"
         - list [ref=e53]:
           - listitem [ref=e54] [cursor=pointer]:
             - generic [ref=e56]: LC
@@ -221,8 +221,8 @@
         - generic [ref=e236]:
           - img [ref=e238]
           - generic [ref=e239]:
-            - generic [ref=e240]: "Part: 00D-4496-A0"
-            - paragraph [ref=e241] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e240]: "Part: 00B-4496-A0"
+            - paragraph [ref=e241] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
             - generic [ref=e243]: ()
             - generic [ref=e246]:
               - generic:
@@ -242,8 +242,8 @@
         - generic [ref=e263]:
           - img [ref=e265]
           - generic [ref=e266]:
-            - generic [ref=e267]: "Part: 00B-4496-A0"
-            - paragraph [ref=e268] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e267]: "Part: 00D-4496-A0"
+            - paragraph [ref=e268] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
             - generic [ref=e270]: ()
             - generic [ref=e273]:
               - generic:
@@ -326,8 +326,8 @@
         - generic [ref=e371]:
           - img [ref=e373]
           - generic [ref=e374]:
-            - generic [ref=e375]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e375]: "Part: 00F-4496-E0"
+            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
             - generic [ref=e378]: ()
             - generic [ref=e381]:
               - generic:
@@ -347,8 +347,8 @@
         - generic [ref=e398]:
           - img [ref=e400]
           - generic [ref=e401]:
-            - generic [ref=e402]: "Part: 00F-4496-E0"
-            - paragraph [ref=e403] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
+            - generic [ref=e402]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e403] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
             - generic [ref=e405]: ()
             - generic [ref=e408]:
               - generic:
@@ -793,19 +793,19 @@
             - /url: /phx-impressum
         - generic [ref=e943]: © 2026 Phenomenex Inc. All rights reserved.
   - iframe [ref=e945]:
-    - button "Click to start chatting" [ref=f16e2] [cursor=pointer]:
-      - img [ref=f16e4]
+    - button "Click to start chatting" [ref=f24e2] [cursor=pointer]:
+      - img [ref=f24e4]
   - generic:
     - generic:
       - generic [ref=e946]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [ref=e947]:
-        - generic [ref=f7e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f7e2]:
-            - img [ref=f7e3]
-          - generic [ref=f7e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f7e6]:
-              - generic [ref=f7e8]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
+              - generic [ref=f13e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f7e9]
+            - button "Type and start" [ref=f13e9]
 ```
