@@ -1,105 +1,60 @@
 # Page snapshot
 
 ```yaml
-- generic [active] [ref=e1]:
+- generic [ref=e1]:
   - generic:
-    - banner
-  - contentinfo [ref=e19]:
-    - generic [ref=e20]:
-      - generic [ref=e21]:
-        - generic [ref=e22]:
-          - paragraph [ref=e23]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
-          - link "CONNECT WITH US" [ref=e24] [cursor=pointer]:
-            - /url: "#"
-        - generic [ref=e25]:
-          - paragraph [ref=e26]: Products and Services
-          - link "Products" [ref=e27] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/products
-          - link "Techniques" [ref=e28] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/techniques
-          - link "Industries" [ref=e29] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/industries
-          - link "Quick Order" [ref=e30] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/quick-order
-        - generic [ref=e31]:
-          - paragraph [ref=e32]: Support
-          - link "Product Method Support" [ref=e33] [cursor=pointer]:
-            - /url: "#"
-          - link "Product Troubleshooting" [ref=e34] [cursor=pointer]:
-            - /url: "#"
-          - link "Contact Us" [ref=e35] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/contact-us
-          - link "CQA / CofA" [ref=e36] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/dashboard/cqa
-        - generic [ref=e37]:
-          - paragraph [ref=e38]: Our company
-          - link "About Phenomenex" [ref=e39] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/our-company/about-us
-          - link "Blog" [ref=e40] [cursor=pointer]:
-            - /url: https://phenomenex.blog/
-          - link "Knowledge Center" [ref=e41] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/resources/knowledge-center
-          - link "News" [ref=e42] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/our-company/newsroom/news
-          - link "Danaher Life Sciences" [ref=e43] [cursor=pointer]:
-            - /url: https://lifesciences.danaher.com/
-        - generic [ref=e45]:
-          - link [ref=e46] [cursor=pointer]:
-            - /url: https://www.facebook.com/phenomenex
-          - link [ref=e47] [cursor=pointer]:
-            - /url: https://www.instagram.com/accounts/login/
-          - link [ref=e48] [cursor=pointer]:
-            - /url: http://www.linkedin.com/company/phenomenex
-          - link [ref=e49] [cursor=pointer]:
-            - /url: http://www.twitter.com/phenomenex
-          - link [ref=e50] [cursor=pointer]:
-            - /url: http://www.youtube.com/user/phenomenex
-      - generic [ref=e52]:
-        - link "Company Logo" [ref=e54] [cursor=pointer]:
-          - /url: https://www.abcam.com/
-          - img "Company Logo" [ref=e55]
-        - link "Company Logo" [ref=e57] [cursor=pointer]:
-          - /url: https://www.aldevron.com/
-          - img "Company Logo" [ref=e58]
-        - generic:
-          - link "Company Logo":
-            - /url: https://www.mybeckman.com/
-            - img "Company Logo"
-        - generic:
-          - link "Company Logo":
-            - /url: https://www.genedata.com/
-            - img "Company Logo"
-        - generic:
-          - link "Company Logo":
-            - /url: https://www.idbs.com/
-            - img "Company Logo"
-        - generic:
-          - link "Company Logo":
-            - /url: https://www.idtdna.com/
-            - img "Company Logo"
-        - generic:
-          - link "Company Logo":
-            - /url: https://www.leica-microsystems.com/
-            - img "Company Logo"
-        - generic:
-          - link "Company Logo":
-            - /url: https://www.moleculardevices.com/
-            - img "Company Logo"
-        - generic:
-          - link "Company Logo":
-            - /url: https://sciex.com/
-            - img "Company Logo"
-    - generic [ref=e60]:
-      - generic [ref=e61]:
-        - generic [ref=e62]:
-          - text: Terms and Conditions | Privacy Statement | Quality Policy | Terms of Use | Trademarks | CA Supply Chains Act |
-          - link "Cookie Policy" [ref=e63] [cursor=pointer]:
-            - /url: https://stage-aem.phenomenex.com/phx-cookie-policy
-          - text: "| Impressum"
-        - text: © 2025 Phenomenex Inc. All rights reserved.
-      - generic [ref=e64]:
-        - generic [ref=e65]: "Also of Interest:"
-        - text: "Our Products | Phenomenex Product Listing | Novum: Faster, Easier, Reliable SLE Simplified |"
-        - link "Zebron Gas Chromatography Columns | Phenomenex" [ref=e66] [cursor=pointer]:
-          - /url: https://stage-aem.phenomenex.com/products/zebron-gc-columns
+    - img
+    - paragraph: One Login. More Access.
+    - paragraph: Use one account to access select Danaher life sciences companies today, with more joining later this year for a seamless experience.
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img "Phenomenex Apps" [ref=e7]
+        - heading "Welcome" [level=1] [ref=e8]
+        - paragraph [ref=e10]: Sign in to Phenomenex— your login gives you access to the Danaher family.
+      - generic [ref=e11]:
+        - generic [ref=e14]:
+          - button: Continue
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - generic [ref=e20]: Work email address *
+              - textbox "Work email address" [active] [ref=e21]
+            - text: "!"
+          - button "Continue" [ref=e23] [cursor=pointer]
+        - paragraph [ref=e25]:
+          - text: Need an account?
+          - link "Sign up" [ref=e26] [cursor=pointer]:
+            - /url: /u/signup/identifier?state=hqFo2SBBVmZKV3QxQ280ZXQxT3NoaW82dGNQQ1BXNUhtRzRFY6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIG1HYTNGUk5nR1h0TWFqeU00aGItemRxc3ZwLVJNd2dyo2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
+  - contentinfo "Danaher Life Sciences companies" [ref=e27]:
+    - generic [ref=e29]:
+      - link "Abcam" [ref=e31] [cursor=pointer]:
+        - /url: https://www.abcam.com/
+        - img "Abcam" [ref=e32]
+      - link "Aldevron" [ref=e34] [cursor=pointer]:
+        - /url: https://www.aldevron.com/
+        - img "Aldevron" [ref=e35]
+      - link "Beckman Coulter Life Sciences" [ref=e37] [cursor=pointer]:
+        - /url: https://www.mybeckman.com/
+        - img "Beckman Coulter Life Sciences" [ref=e38]
+      - link "Genedata" [ref=e40] [cursor=pointer]:
+        - /url: https://www.genedata.com/
+        - img "Genedata" [ref=e41]
+      - link "IDBS" [ref=e43] [cursor=pointer]:
+        - /url: https://www.idbs.com/
+        - img "IDBS" [ref=e44]
+      - link "IDT" [ref=e46] [cursor=pointer]:
+        - /url: https://www.idtdna.com/
+        - img "IDT" [ref=e47]
+      - link "Leica Microsystems" [ref=e49] [cursor=pointer]:
+        - /url: https://www.leica-microsystems.com/
+        - img "Leica Microsystems" [ref=e50]
+      - link "Molecular Devices" [ref=e52] [cursor=pointer]:
+        - /url: https://www.moleculardevices.com/
+        - img "Molecular Devices" [ref=e53]
+      - link "Phenomenex" [ref=e55] [cursor=pointer]:
+        - /url: https://www.phenomenex.com/
+        - img "Phenomenex" [ref=e56]
+      - link "SCIEX" [ref=e58] [cursor=pointer]:
+        - /url: https://www.sciex.com/
+        - img "SCIEX" [ref=e59]
 ```
