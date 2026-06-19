@@ -28,11 +28,11 @@
               - /url: /quick-order
               - text: Quick Order
               - generic [ref=e47]: bolt
-            - link "Quote sms 1" [ref=e49] [cursor=pointer]:
+            - link "Quote sms 0" [ref=e49] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/quote-cart.html
               - text: Quote
               - generic [ref=e50]: sms
-              - generic [ref=e51]: "1"
+              - generic [ref=e51]: "0"
             - link "Cart shopping_cart 0" [ref=e53] [cursor=pointer]:
               - /url: https://stage-shop.phenomenex.com/us/en/cart.html
               - text: Cart
@@ -219,9 +219,9 @@
         - generic [ref=e243]:
           - img [ref=e245]
           - generic [ref=e246]:
-            - generic [ref=e247]: "Part: 00B-4496-A0"
-            - paragraph [ref=e248] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
-            - generic [ref=e250]: $926.00 (USD) (Ea)
+            - generic [ref=e247]: "Part: 00D-4496-A0"
+            - paragraph [ref=e248] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
+            - generic [ref=e250]: $1,017.00 (USD) (Ea)
           - generic [ref=e251]:
             - generic [ref=e253]:
               - link "link" [ref=e254] [cursor=pointer]:
@@ -238,9 +238,9 @@
         - generic [ref=e271]:
           - img [ref=e273]
           - generic [ref=e274]:
-            - generic [ref=e275]: "Part: 00D-4496-A0"
-            - paragraph [ref=e276] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 1.0 mm, Ea
-            - generic [ref=e278]: $1,017.00 (USD) (Ea)
+            - generic [ref=e275]: "Part: 00B-4496-A0"
+            - paragraph [ref=e276] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 1.0 mm, Ea
+            - generic [ref=e278]: $926.00 (USD) (Ea)
           - generic [ref=e279]:
             - generic [ref=e281]:
               - link "link" [ref=e282] [cursor=pointer]:
@@ -276,9 +276,9 @@
         - generic [ref=e327]:
           - img [ref=e329]
           - generic [ref=e330]:
-            - generic [ref=e331]: "Part: 00F-4496-E0"
-            - paragraph [ref=e332] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
-            - generic [ref=e334]: $1,082.00 (USD) (Ea)
+            - generic [ref=e331]: "Part: 00F-4496-AC"
+            - paragraph [ref=e332] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e334]: $1,145.00 (USD) (Ea)
           - generic [ref=e335]:
             - generic [ref=e337]:
               - link "link" [ref=e338] [cursor=pointer]:
@@ -314,9 +314,9 @@
         - generic [ref=e383]:
           - img [ref=e385]
           - generic [ref=e386]:
-            - generic [ref=e387]: "Part: 00F-4496-AC"
-            - paragraph [ref=e388] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
-            - generic [ref=e390]: $1,145.00 (USD) (Ea)
+            - generic [ref=e387]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e388] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e390]: $1,082.00 (USD) (Ea)
           - generic [ref=e391]:
             - generic [ref=e393]:
               - link "link" [ref=e394] [cursor=pointer]:
@@ -333,8 +333,8 @@
         - generic [ref=e411]:
           - img [ref=e413]
           - generic [ref=e414]:
-            - generic [ref=e415]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e416] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e415]: "Part: 00F-4496-E0"
+            - paragraph [ref=e416] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 4.6 mm, Ea
             - generic [ref=e418]: $1,082.00 (USD) (Ea)
           - generic [ref=e419]:
             - generic [ref=e421]:
@@ -542,9 +542,9 @@
         - generic [ref=e719]:
           - img [ref=e721]
           - generic [ref=e722]:
-            - generic [ref=e723]: "Part: 00F-4167-A0"
-            - paragraph [ref=e724] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e726]: $1,182.00 (USD) (Ea)
+            - generic [ref=e723]: "Part: 00F-4162-A0"
+            - paragraph [ref=e724] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e726]: $1,058.00 (USD) (Ea)
           - generic [ref=e727]:
             - generic [ref=e729]:
               - link "link" [ref=e730] [cursor=pointer]:
@@ -561,9 +561,9 @@
         - generic [ref=e747]:
           - img [ref=e749]
           - generic [ref=e750]:
-            - generic [ref=e751]: "Part: 00F-4162-A0"
-            - paragraph [ref=e752] [cursor=pointer]: Luna 3 µm Silica (2) 100 Å, LC Column 150 x 1 mm, Ea
-            - generic [ref=e754]: $1,058.00 (USD) (Ea)
+            - generic [ref=e751]: "Part: 00F-4167-A0"
+            - paragraph [ref=e752] [cursor=pointer]: Jupiter 5 µm C4 300 Å, LC Column 150 x 1 mm, Ea
+            - generic [ref=e754]: $1,182.00 (USD) (Ea)
           - generic [ref=e755]:
             - generic [ref=e757]:
               - link "link" [ref=e758] [cursor=pointer]:
@@ -599,9 +599,9 @@
         - generic [ref=e803]:
           - img [ref=e805]
           - generic [ref=e806]:
-            - generic [ref=e807]: "Part: 00A-4496-AN"
-            - paragraph [ref=e808] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
-            - generic [ref=e810]: $849.00 (USD) (Ea)
+            - generic [ref=e807]: "Part: 00C-4496-AN"
+            - paragraph [ref=e808] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
+            - generic [ref=e810]: $986.00 (USD) (Ea)
           - generic [ref=e811]:
             - generic [ref=e813]:
               - link "link" [ref=e814] [cursor=pointer]:
@@ -618,9 +618,9 @@
         - generic [ref=e831]:
           - img [ref=e833]
           - generic [ref=e834]:
-            - generic [ref=e835]: "Part: 00D-4496-AN"
-            - paragraph [ref=e836] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
-            - generic [ref=e838]: $1,017.00 (USD) (Ea)
+            - generic [ref=e835]: "Part: 00B-4496-AN"
+            - paragraph [ref=e836] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
+            - generic [ref=e838]: $926.00 (USD) (Ea)
           - generic [ref=e839]:
             - generic [ref=e841]:
               - link "link" [ref=e842] [cursor=pointer]:
@@ -637,9 +637,9 @@
         - generic [ref=e859]:
           - img [ref=e861]
           - generic [ref=e862]:
-            - generic [ref=e863]: "Part: 00C-4496-AN"
-            - paragraph [ref=e864] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 75 x 2.1 mm, Ea
-            - generic [ref=e866]: $986.00 (USD) (Ea)
+            - generic [ref=e863]: "Part: 00A-4496-AN"
+            - paragraph [ref=e864] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 30 x 2.1 mm, Ea
+            - generic [ref=e866]: $849.00 (USD) (Ea)
           - generic [ref=e867]:
             - generic [ref=e869]:
               - link "link" [ref=e870] [cursor=pointer]:
@@ -656,9 +656,9 @@
         - generic [ref=e887]:
           - img [ref=e889]
           - generic [ref=e890]:
-            - generic [ref=e891]: "Part: 00B-4496-AN"
-            - paragraph [ref=e892] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 50 x 2.1 mm, Ea
-            - generic [ref=e894]: $926.00 (USD) (Ea)
+            - generic [ref=e891]: "Part: 00D-4496-AN"
+            - paragraph [ref=e892] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 100 x 2.1 mm, Ea
+            - generic [ref=e894]: $1,017.00 (USD) (Ea)
           - generic [ref=e895]:
             - generic [ref=e897]:
               - link "link" [ref=e898] [cursor=pointer]:
@@ -815,19 +815,6 @@
             - /url: /phx-impressum
         - generic [ref=e1021]: © 2026 Phenomenex Inc. All rights reserved.
   - iframe [ref=e1023]:
-    - button "Click to start chatting" [ref=f24e2] [cursor=pointer]:
-      - img [ref=f24e4]
-  - generic:
-    - generic:
-      - generic [ref=e1024]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [ref=e1025]:
-        - generic [ref=f13e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f13e2]:
-            - img [ref=f13e3]
-          - generic [ref=f13e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
-              - generic [ref=f13e8]:
-                - text: LIVE CHAT NOW!
-                - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f13e9]
+    - button "Close Live Chat window" [ref=f19e2] [cursor=pointer]:
+      - img [ref=f19e4]
 ```
