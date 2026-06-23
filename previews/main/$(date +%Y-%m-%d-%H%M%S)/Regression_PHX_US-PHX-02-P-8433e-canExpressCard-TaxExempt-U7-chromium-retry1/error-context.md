@@ -284,8 +284,8 @@
         - generic [ref=e317]:
           - img [ref=e319]
           - generic [ref=e320]:
-            - generic [ref=e321]: "Part: 00F-4496-AC"
-            - paragraph [ref=e322] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e321]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e322] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
             - generic [ref=e324]: ()
             - generic [ref=e327]:
               - generic:
@@ -305,8 +305,8 @@
         - generic [ref=e344]:
           - img [ref=e346]
           - generic [ref=e347]:
-            - generic [ref=e348]: "Part: 00F-4496-AF"
-            - paragraph [ref=e349] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
+            - generic [ref=e348]: "Part: 00F-4496-AC"
+            - paragraph [ref=e349] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
             - generic [ref=e351]: ()
             - generic [ref=e354]:
               - generic:
@@ -326,8 +326,8 @@
         - generic [ref=e371]:
           - img [ref=e373]
           - generic [ref=e374]:
-            - generic [ref=e375]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e375]: "Part: 00F-4496-AF"
+            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
             - generic [ref=e378]: ()
             - generic [ref=e381]:
               - generic:

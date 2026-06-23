@@ -284,8 +284,8 @@
         - generic [ref=e317]:
           - img [ref=e319]
           - generic [ref=e320]:
-            - generic [ref=e321]: "Part: 00F-4496-AC"
-            - paragraph [ref=e322] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
+            - generic [ref=e321]: "Part: 00F-4496-Y0"
+            - paragraph [ref=e322] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
             - generic [ref=e324]: ()
             - generic [ref=e327]:
               - generic:
@@ -305,8 +305,8 @@
         - generic [ref=e344]:
           - img [ref=e346]
           - generic [ref=e347]:
-            - generic [ref=e348]: "Part: 00F-4496-AF"
-            - paragraph [ref=e349] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
+            - generic [ref=e348]: "Part: 00F-4496-AC"
+            - paragraph [ref=e349] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.3 mm, Ea
             - generic [ref=e351]: ()
             - generic [ref=e354]:
               - generic:
@@ -326,8 +326,8 @@
         - generic [ref=e371]:
           - img [ref=e373]
           - generic [ref=e374]:
-            - generic [ref=e375]: "Part: 00F-4496-Y0"
-            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6 µm XB-C18 100 Å, LC Column 150 x 3 mm, Ea
+            - generic [ref=e375]: "Part: 00F-4496-AF"
+            - paragraph [ref=e376] [cursor=pointer]: Kinetex 2.6µm XB-C18 100 Å, LC Column 150 x 0.5 mm, Ea
             - generic [ref=e378]: ()
             - generic [ref=e381]:
               - generic:
@@ -793,19 +793,19 @@
             - /url: /phx-impressum
         - generic [ref=e943]: © 2026 Phenomenex Inc. All rights reserved.
   - iframe [ref=e945]:
-    - button "Click to start chatting" [ref=f28e2] [cursor=pointer]:
-      - img [ref=f28e4]
+    - button "Click to start chatting" [ref=f24e2] [cursor=pointer]:
+      - img [ref=f24e4]
   - generic:
     - generic:
       - generic [ref=e946]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [ref=e947]:
-        - generic [ref=f12e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f12e2]:
-            - img [ref=f12e3]
-          - generic [ref=f12e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f12e6]:
-              - generic [ref=f12e8]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
+              - generic [ref=f13e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f12e9]
+            - button "Type and start" [ref=f13e9]
 ```
