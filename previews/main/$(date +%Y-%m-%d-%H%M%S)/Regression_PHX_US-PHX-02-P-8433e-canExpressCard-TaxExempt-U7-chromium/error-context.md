@@ -57,7 +57,7 @@
             - img "Phenomenex" [ref=e89]
             - generic [ref=e91]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
             - link "Connect With Us" [ref=e93] [cursor=pointer]:
-              - /url: https://discover.phenomenex.com/customersupport?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+              - /url: https://discover.phenomenex.com/customersupport?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
           - generic [ref=e95]:
             - generic [ref=e96]:
               - paragraph [ref=e97]: Products and Services
@@ -77,10 +77,10 @@
               - paragraph [ref=e107]: Support
               - paragraph [ref=e108]:
                 - link "Product/Method Support" [ref=e109] [cursor=pointer]:
-                  - /url: https://discover.phenomenex.com/customersupport?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+                  - /url: https://discover.phenomenex.com/customersupport?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
               - paragraph [ref=e110]:
                 - link "Troubleshooting Help" [ref=e111] [cursor=pointer]:
-                  - /url: https://discover.phenomenex.com/technical-support?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+                  - /url: https://discover.phenomenex.com/technical-support?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
               - paragraph [ref=e112]:
                 - link "Contact Us" [ref=e113] [cursor=pointer]:
                   - /url: /contact-us
@@ -121,31 +121,31 @@
             - img "Danaher" [ref=e138]
         - generic [ref=e142]:
           - link "Company Logo" [ref=e143] [cursor=pointer]:
-            - /url: https://www.abcam.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.abcam.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e144]
           - link "Company Logo" [ref=e145] [cursor=pointer]:
-            - /url: https://www.aldevron.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.aldevron.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e146]
           - link "Company Logo" [ref=e147] [cursor=pointer]:
             - /url: https://www.mybeckman.com
             - img "Company Logo" [ref=e148]
           - link "Company Logo" [ref=e149] [cursor=pointer]:
-            - /url: https://www.genedata.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.genedata.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e150]
           - link "Company Logo" [ref=e151] [cursor=pointer]:
-            - /url: https://www.idbs.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.idbs.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e152]
           - link "Company Logo" [ref=e153] [cursor=pointer]:
-            - /url: https://www.idtdna.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.idtdna.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e154]
           - link "Company Logo" [ref=e155] [cursor=pointer]:
-            - /url: https://www.leica-microsystems.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.leica-microsystems.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e156]
           - link "Company Logo" [ref=e157] [cursor=pointer]:
-            - /url: https://www.moleculardevices.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://www.moleculardevices.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e158]
           - link "Company Logo" [ref=e159] [cursor=pointer]:
-            - /url: https://sciex.com/?ajs_aid=5193f06d-add7-4633-83ec-c487700809ae&ajs_aid=5193f06d-add7-4633-83ec-c487700809ae
+            - /url: https://sciex.com/?ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089&ajs_aid=fc60dc4c-1d74-4c59-8221-a4f03ea6c089
             - img "Company Logo" [ref=e160]
       - generic [ref=e163]:
         - generic [ref=e165]:
@@ -189,19 +189,19 @@
             - /url: /phx-impressum
         - generic [ref=e186]: © 2026 Phenomenex Inc. All rights reserved.
   - iframe [ref=e188]:
-    - button "Click to start chatting" [ref=f20e2] [cursor=pointer]:
-      - img [ref=f20e4]
+    - button "Click to start chatting" [ref=f15e2] [cursor=pointer]:
+      - img [ref=f15e4]
   - generic:
     - generic:
       - generic [ref=e189]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [active] [ref=e190]:
-        - generic [ref=f14e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f14e2]:
-            - img [ref=f14e3]
-          - generic [ref=f14e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f14e6]:
-              - generic [ref=f14e8]:
+        - generic [ref=f13e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f13e2]:
+            - img [ref=f13e3]
+          - generic [ref=f13e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f13e6]:
+              - generic [ref=f13e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f14e9]
+            - button "Type and start" [ref=f13e9]
 ```
