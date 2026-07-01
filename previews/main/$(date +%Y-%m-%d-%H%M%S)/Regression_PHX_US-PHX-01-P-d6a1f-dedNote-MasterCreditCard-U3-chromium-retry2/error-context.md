@@ -1,190 +1,60 @@
 # Page snapshot
 
 ```yaml
-- generic [ref=e10]:
-  - generic [ref=e14]:
-    - generic [ref=e17]:
-      - generic [ref=e19]:
-        - link "white_wave_logo":
-          - /url: /
-          - img "white_wave_logo" [ref=e20] [cursor=pointer]
-      - list [ref=e22]:
-        - listitem [ref=e23]:
-          - generic [ref=e24]:
-            - link "Sign In" [ref=e25] [cursor=pointer]:
-              - /url: javascript:void(0)
-            - generic [ref=e26]: account_circle
-        - listitem [ref=e27]:
-          - generic [ref=e29] [cursor=pointer]:
-            - text: United States
-            - generic [ref=e30]: language
-    - generic [ref=e32]:
-      - generic [ref=e33]:
-        - generic [ref=e38]:
-          - generic [ref=e40] [cursor=pointer]: search
-          - textbox "Search by Part No., Product, Application, or Keyword" [ref=e41]
-        - generic [ref=e43]:
-          - link "Quick Order bolt" [ref=e45] [cursor=pointer]:
-            - /url: /quick-order
-            - text: Quick Order
-            - generic [ref=e46]: bolt
-          - generic [ref=e48] [cursor=pointer]:
-            - text: Quote
-            - generic [ref=e49]: sms
-          - generic [ref=e51] [cursor=pointer]:
-            - text: Cart
-            - generic [ref=e52]: shopping_cart
-            - generic [ref=e53]: "0"
-      - list [ref=e57]:
-        - listitem [ref=e58] [cursor=pointer]:
-          - generic [ref=e60]: LC
-        - listitem [ref=e61] [cursor=pointer]:
-          - generic [ref=e63]: GC
-        - listitem [ref=e64] [cursor=pointer]:
-          - generic [ref=e66]: Sample Prep
-        - listitem [ref=e67] [cursor=pointer]:
-          - link "Industry Applications" [ref=e69]:
-            - /url: /service-listing-industries
-        - listitem [ref=e70] [cursor=pointer]:
-          - generic [ref=e72]: Resources
-        - listitem [ref=e73] [cursor=pointer]:
-          - generic [ref=e75]: Our Company
-  - generic [ref=e79]:
-    - generic [ref=e82]:
-      - generic [ref=e83]:
-        - generic [ref=e84]:
-          - img "Phenomenex" [ref=e86]
-          - generic [ref=e88]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
-          - link "Connect With Us" [ref=e90] [cursor=pointer]:
-            - /url: https://discover.phenomenex.com/customersupport
-        - generic [ref=e92]:
-          - generic [ref=e93]:
-            - paragraph [ref=e94]: Products and Services
-            - paragraph [ref=e95]:
-              - link "Products" [ref=e96] [cursor=pointer]:
-                - /url: /service-listing-products
-            - paragraph [ref=e97]:
-              - link "Techniques" [ref=e98] [cursor=pointer]:
-                - /url: /service-listing-techniques
-            - paragraph [ref=e99]:
-              - link "Industries" [ref=e100] [cursor=pointer]:
-                - /url: /service-listing-industries
-            - paragraph [ref=e101]:
-              - link "Quick Order" [ref=e102] [cursor=pointer]:
-                - /url: /quick-order
-          - generic [ref=e103]:
-            - paragraph [ref=e104]: Support
-            - paragraph [ref=e105]:
-              - link "Product/Method Support" [ref=e106] [cursor=pointer]:
-                - /url: https://discover.phenomenex.com/customersupport
-            - paragraph [ref=e107]:
-              - link "Troubleshooting Help" [ref=e108] [cursor=pointer]:
-                - /url: https://discover.phenomenex.com/technical-support
-            - paragraph [ref=e109]:
-              - link "Contact Us" [ref=e110] [cursor=pointer]:
-                - /url: /contact-us
-            - paragraph [ref=e111]:
-              - link "CQA / CofA" [ref=e112] [cursor=pointer]:
-                - /url: /dashboard/cqa
-          - generic [ref=e113]:
-            - paragraph [ref=e114]: Our company
-            - paragraph [ref=e115]:
-              - link "About Phenomenex" [ref=e116] [cursor=pointer]:
-                - /url: /our-company/about-phenomenex
-            - paragraph [ref=e117]:
-              - link "Blog" [ref=e118] [cursor=pointer]:
-                - /url: /our-company/phenomenex-blog
-            - paragraph [ref=e119]:
-              - link "News" [ref=e120] [cursor=pointer]:
-                - /url: /news
-            - paragraph [ref=e121]:
-              - link "Danaher Life Sciences" [ref=e122] [cursor=pointer]:
-                - /url: https://lifesciences.danaher.com/?utm_source=phenomenex_website&amp;utm_medium=referral&amp;utm_content=footer&amp;ajs_aid=d5d95cbf-ead4-43e4-a243-b3a5be722d51
-        - generic [ref=e123]:
-          - generic [ref=e124]:
-            - link "Facebook" [ref=e125] [cursor=pointer]:
-              - /url: http://www.facebook.com/phenomenex
-              - img "Facebook"
-            - link "Instagram" [ref=e126] [cursor=pointer]:
-              - /url: https://www.instagram.com/phenomenex
-              - img "Instagram"
-            - link "Linkedln" [ref=e127] [cursor=pointer]:
-              - /url: http://www.linkedin.com/company/phenomenex
-              - img "Linkedln"
-            - link "Twitter" [ref=e128] [cursor=pointer]:
-              - /url: http://www.twitter.com/phenomenex
-              - img "Twitter"
-            - link "Youtube" [ref=e129] [cursor=pointer]:
-              - /url: http://www.youtube.com/user/phenomenex
-              - img "Youtube"
-          - img "Danaher" [ref=e130]
-      - generic [ref=e134]:
-        - link "Company Logo" [ref=e135] [cursor=pointer]:
-          - /url: https://www.abcam.com
-          - img "Company Logo" [ref=e136]
-        - link "Company Logo" [ref=e137] [cursor=pointer]:
-          - /url: https://www.aldevron.com
-          - img "Company Logo" [ref=e138]
-        - link "Company Logo" [ref=e139] [cursor=pointer]:
-          - /url: https://www.mybeckman.com
-          - img "Company Logo" [ref=e140]
-        - link "Company Logo" [ref=e141] [cursor=pointer]:
-          - /url: https://www.genedata.com
-          - img "Company Logo" [ref=e142]
-        - link "Company Logo" [ref=e143] [cursor=pointer]:
-          - /url: https://www.idbs.com
-          - img "Company Logo" [ref=e144]
-        - link "Company Logo" [ref=e145] [cursor=pointer]:
-          - /url: https://www.idtdna.com
-          - img "Company Logo" [ref=e146]
-        - link "Company Logo" [ref=e147] [cursor=pointer]:
-          - /url: https://www.leica-microsystems.com
-          - img "Company Logo" [ref=e148]
-        - link "Company Logo" [ref=e149] [cursor=pointer]:
-          - /url: https://www.moleculardevices.com
-          - img "Company Logo" [ref=e150]
-        - link "Company Logo" [ref=e151] [cursor=pointer]:
-          - /url: https://sciex.com/
-          - img "Company Logo" [ref=e152]
-    - generic [ref=e155]:
-      - generic [ref=e157]:
-        - generic [ref=e158]:
-          - link "Terms and Conditions" [ref=e159] [cursor=pointer]:
-            - /url: /phx-terms-and-conditions-of-sale
-          - text: "|"
-        - generic [ref=e160]:
-          - link "Privacy Statement" [ref=e161] [cursor=pointer]:
-            - /url: /phx-privacy-policy
-          - text: "|"
-        - generic [ref=e162]:
-          - link "Quality Policy" [ref=e163] [cursor=pointer]:
-            - /url: /phx-quality-policy
-          - text: "|"
-        - generic [ref=e164]:
-          - link "Terms of Use" [ref=e165] [cursor=pointer]:
-            - /url: /phx-site-terms-of-use
-          - text: "|"
-        - generic [ref=e166]:
-          - link "Trademarks" [ref=e167] [cursor=pointer]:
-            - /url: /phx-trademarks
-          - text: "|"
-        - generic [ref=e168]:
-          - link "CA Supply Chains Act" [ref=e169] [cursor=pointer]:
-            - /url: /phx-california-supply-chains-act
-          - text: "|"
-        - generic [ref=e170]:
-          - link "CA Consumer Privacy" [ref=e171] [cursor=pointer]:
-            - /url: /phx-california-consumer-rights-notice
-          - text: "|"
-        - generic [ref=e172]:
-          - link "Cookie Policy" [ref=e173] [cursor=pointer]:
-            - /url: /phx-cookie-policy
-          - text: "|"
-        - generic [ref=e174]:
-          - link "Cookie Settings" [ref=e175] [cursor=pointer]:
-            - /url: /phx-cookie-policy
-          - text: "|"
-        - link "Impressum" [ref=e177] [cursor=pointer]:
-          - /url: /phx-impressum
-      - generic [ref=e178]: © 2026 Phenomenex Inc. All rights reserved.
+- generic [ref=e1]:
+  - generic:
+    - img
+    - paragraph: One Login. More Access.
+    - paragraph: Use one account to access select Danaher life sciences companies today, with more joining later this year for a seamless experience.
+  - main [ref=e2]:
+    - generic [ref=e5]:
+      - generic [ref=e6]:
+        - img "Phenomenex Apps" [ref=e7]
+        - heading "Welcome" [level=1] [ref=e8]
+        - paragraph [ref=e10]: Sign in to Phenomenex— your login gives you access to the Danaher family.
+      - generic [ref=e11]:
+        - generic [ref=e14]:
+          - button: Continue
+          - generic [ref=e18]:
+            - generic [ref=e19]:
+              - generic [ref=e20]: Work email address *
+              - textbox "Work email address" [active] [ref=e21]
+            - text: "!"
+          - button "Continue" [ref=e23] [cursor=pointer]
+        - paragraph [ref=e25]:
+          - text: Need an account?
+          - link "Sign up" [ref=e26] [cursor=pointer]:
+            - /url: /u/signup/identifier?state=hqFo2SBXQWliRkZPTVRNaEZIRklBa1QzWGdfaDJpMnNXNGpBa6Fur3VuaXZlcnNhbC1sb2dpbqN0aWTZIGNlTjJRWGRwRmg3MTJJamJWM0VSRlhORFEzdXFucnYto2NpZNkgck9lc0VobGk4d3VKU0MzN0JMYTJ5NXBrQlNpaW02RGOlb3JnaWS0b3JnX1BnbDdkcXQwOGpaYjRoYkmnb3JnbmFtZa9waGVub21lbmV4LWFwcHM&ui_locales=en
+  - contentinfo "Danaher Life Sciences companies" [ref=e27]:
+    - generic [ref=e29]:
+      - link "Abcam" [ref=e31] [cursor=pointer]:
+        - /url: https://www.abcam.com/
+        - img "Abcam" [ref=e32]
+      - link "Aldevron" [ref=e34] [cursor=pointer]:
+        - /url: https://www.aldevron.com/
+        - img "Aldevron" [ref=e35]
+      - link "Beckman Coulter Life Sciences" [ref=e37] [cursor=pointer]:
+        - /url: https://www.mybeckman.com/
+        - img "Beckman Coulter Life Sciences" [ref=e38]
+      - link "Genedata" [ref=e40] [cursor=pointer]:
+        - /url: https://www.genedata.com/
+        - img "Genedata" [ref=e41]
+      - link "IDBS" [ref=e43] [cursor=pointer]:
+        - /url: https://www.idbs.com/
+        - img "IDBS" [ref=e44]
+      - link "IDT" [ref=e46] [cursor=pointer]:
+        - /url: https://www.idtdna.com/
+        - img "IDT" [ref=e47]
+      - link "Leica Microsystems" [ref=e49] [cursor=pointer]:
+        - /url: https://www.leica-microsystems.com/
+        - img "Leica Microsystems" [ref=e50]
+      - link "Molecular Devices" [ref=e52] [cursor=pointer]:
+        - /url: https://www.moleculardevices.com/
+        - img "Molecular Devices" [ref=e53]
+      - link "Phenomenex" [ref=e55] [cursor=pointer]:
+        - /url: https://www.phenomenex.com/
+        - img "Phenomenex" [ref=e56]
+      - link "SCIEX" [ref=e58] [cursor=pointer]:
+        - /url: https://www.sciex.com/
+        - img "SCIEX" [ref=e59]
 ```
