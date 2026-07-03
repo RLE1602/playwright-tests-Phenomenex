@@ -715,6 +715,6 @@
             - /url: /phx-impressum
         - generic [ref=e891]: © 2026 Phenomenex Inc. All rights reserved.
   - iframe [ref=e893]:
-    - button "Close Live Chat window" [ref=f17e2] [cursor=pointer]:
-      - img [ref=f17e4]
+    - button "Close Live Chat window" [ref=f14e2] [cursor=pointer]:
+      - img [ref=f14e4]
 ```
