@@ -1048,31 +1048,31 @@
           - generic [ref=e449]: Also of Interest
           - list [ref=e450]:
             - listitem [ref=e451]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e452] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Leader in Analytical Chemistry Solutions" [ref=e452] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
               - text: "|"
             - listitem [ref=e453]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e454] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e454] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
               - text: "|"
             - listitem [ref=e455]:
               - link "Filtration Prior to HPLC Analysis" [ref=e456] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/techniques/filtration
   - iframe [ref=e457]:
-    - button "Close Live Chat window" [ref=f6e2] [cursor=pointer]:
-      - img [ref=f6e4]
-  - dialog "Privacy" [ref=e461]:
-    - generic [ref=e462]:
-      - generic [ref=e463]:
+    - button "Close Live Chat window" [ref=f5e2] [cursor=pointer]:
+      - img [ref=f5e4]
+  - dialog "Privacy" [ref=e460]:
+    - generic [ref=e461]:
+      - generic [ref=e462]:
         - generic:
-          - generic [ref=e464]:
+          - generic [ref=e463]:
             - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-            - link ", opens in a new tab" [ref=e465] [cursor=pointer]:
+            - link ", opens in a new tab" [ref=e464] [cursor=pointer]:
               - /url: https://www.phenomenex.com/legal/phx-cookie-policy
               - text: Cookie Notice
-          - link "Phenomenex Cookie Partners Details" [ref=e466] [cursor=pointer]:
+          - link "Phenomenex Cookie Partners Details" [ref=e465] [cursor=pointer]:
             - /url: "#"
-      - generic [ref=e468]:
-        - button "Cookie Settings, Opens the preference center dialog" [ref=e469] [cursor=pointer]: Cookie Settings
-        - button "Accept All Cookies" [ref=e471] [cursor=pointer]
+      - generic [ref=e467]:
+        - button "Cookie Settings, Opens the preference center dialog" [ref=e468] [cursor=pointer]: Cookie Settings
+        - button "Accept All Cookies" [ref=e470] [cursor=pointer]
 ```

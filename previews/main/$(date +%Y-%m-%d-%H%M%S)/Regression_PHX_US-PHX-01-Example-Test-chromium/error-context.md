@@ -1048,12 +1048,12 @@
           - generic [ref=e449]: Also of Interest
           - list [ref=e450]:
             - listitem [ref=e451]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e452] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Leader in Analytical Chemistry Solutions" [ref=e452] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
               - text: "|"
             - listitem [ref=e453]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e454] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e454] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
               - text: "|"
             - listitem [ref=e455]:
               - link "Filtration Prior to HPLC Analysis" [ref=e456] [cursor=pointer]:
