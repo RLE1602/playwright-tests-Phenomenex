@@ -1048,19 +1048,19 @@
           - generic [ref=e449]: Also of Interest
           - list [ref=e450]:
             - listitem [ref=e451]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e452] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars
+              - link "Filtration Prior to HPLC Analysis" [ref=e452] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
             - listitem [ref=e453]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e454] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Leader in Analytical Chemistry Solutions" [ref=e454] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
               - text: "|"
             - listitem [ref=e455]:
-              - link "Filtration Prior to HPLC Analysis" [ref=e456] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/techniques/filtration
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e456] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
   - iframe [ref=e457]:
-    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
-      - img [ref=f7e4]
+    - button "Close Live Chat window" [ref=f6e2] [cursor=pointer]:
+      - img [ref=f6e4]
   - dialog "Privacy" [ref=e460]:
     - generic [ref=e461]:
       - generic [ref=e462]:
@@ -1075,17 +1075,4 @@
       - generic [ref=e467]:
         - button "Cookie Settings, Opens the preference center dialog" [ref=e468] [cursor=pointer]: Cookie Settings
         - button "Accept All Cookies" [ref=e470] [cursor=pointer]
-  - generic:
-    - generic:
-      - generic [ref=e471]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [ref=e472]:
-        - generic [ref=f6e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f6e2]:
-            - img [ref=f6e3]
-          - generic [ref=f6e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
-              - generic [ref=f6e8]:
-                - text: LIVE CHAT NOW!
-                - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f6e9]
 ```
