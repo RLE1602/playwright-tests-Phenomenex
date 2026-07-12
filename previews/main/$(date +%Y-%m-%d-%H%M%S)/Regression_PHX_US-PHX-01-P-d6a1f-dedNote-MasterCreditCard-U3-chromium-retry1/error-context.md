@@ -1,0 +1,366 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e4]:
+  - generic [ref=e8]:
+    - generic [ref=e11]:
+      - generic [ref=e13]:
+        - link "white_wave_logo":
+          - /url: /
+          - img "white_wave_logo" [ref=e14] [cursor=pointer]
+      - list [ref=e16]:
+        - listitem [ref=e17]:
+          - generic [ref=e18]:
+            - link "Sign In" [ref=e19] [cursor=pointer]:
+              - /url: javascript:void(0)
+            - generic [ref=e20]: account_circle
+        - listitem [ref=e21]:
+          - generic [ref=e23] [cursor=pointer]:
+            - text: United States
+            - generic [ref=e24]: language
+    - generic [ref=e26]:
+      - generic [ref=e27]:
+        - generic [ref=e32]:
+          - generic [ref=e34] [cursor=pointer]: search
+          - textbox "Search by Part No., Product, Application, or Keyword" [ref=e35]
+        - generic [ref=e37]:
+          - link "Quick Order bolt" [ref=e39] [cursor=pointer]:
+            - /url: /quick-order
+            - text: Quick Order
+            - generic [ref=e40]: bolt
+          - generic [ref=e42] [cursor=pointer]:
+            - text: Quote
+            - generic [ref=e43]: sms
+          - generic [ref=e45] [cursor=pointer]:
+            - text: Cart
+            - generic [ref=e46]: shopping_cart
+            - generic [ref=e47]: "0"
+      - list [ref=e51]:
+        - listitem [ref=e52] [cursor=pointer]:
+          - generic [ref=e54]: LC
+        - listitem [ref=e55] [cursor=pointer]:
+          - generic [ref=e57]: GC
+        - listitem [ref=e58] [cursor=pointer]:
+          - generic [ref=e60]: Sample Prep
+        - listitem [ref=e61] [cursor=pointer]:
+          - link "Industry Applications" [ref=e63]:
+            - /url: /service-listing-industries
+        - listitem [ref=e64] [cursor=pointer]:
+          - generic [ref=e66]: Resources
+        - listitem [ref=e67] [cursor=pointer]:
+          - generic [ref=e69]: Our Company
+  - generic [ref=e71]:
+    - generic [ref=e77]:
+      - tablist [ref=e78]:
+        - tab "Slide 1 of 3 24-general-product Shop our LC, GC, and Sample Prep Products Easily Find Applications, Pricing, Discounts, and More! SHOP NOW general-products" [selected] [ref=e79] [cursor=pointer]
+        - tab "Slide 2 of 3 Chromatography Seminars Live Training with our Industry Experts SIGN UP TODAY 24-seminar-bubble" [ref=e80] [cursor=pointer]
+        - tab "Slide 3 of 3 24_Clinical Edocrinology-gradient-1501573866-bp0924 Endocrinology /Biomarker Analysis and Research Hub LEARN MORE 24_Clinical Edocrinology-body-1501573866-bp0924" [ref=e81] [cursor=pointer]
+      - tabpanel [ref=e83] [cursor=pointer]:
+        - generic [ref=e84]: Slide 1 of 3
+        - link "24-general-product Shop our LC, GC, and Sample Prep Products Easily Find Applications, Pricing, Discounts, and More! SHOP NOW general-products" [ref=e85]:
+          - /url: /quick-order
+          - img "24-general-product" [ref=e86]
+          - generic [ref=e88]:
+            - generic [ref=e89]:
+              - heading "Shop our LC, GC, and Sample Prep Products" [level=2] [ref=e90]
+              - paragraph [ref=e91]: Easily Find Applications, Pricing, Discounts, and More!
+              - button "SHOP NOW" [ref=e93]
+            - img "general-products" [ref=e95]
+      - button "Previous" [ref=e96] [cursor=pointer]:
+        - generic [ref=e98]: Previous
+      - button "Next" [ref=e99] [cursor=pointer]:
+        - generic [ref=e101]: Next
+    - generic [ref=e103]:
+      - heading "Trending now" [level=2] [ref=e106]
+      - generic [ref=e107]:
+        - link "Solutions for Biopharma Biozen UHPLC/HPLC columns are seamlessly designed to bring peace of mind to your analysis of biologics. bioTi-50-and-150-left" [ref=e109] [cursor=pointer]:
+          - /url: /products/biozenlc-hplc-column
+          - generic [ref=e110]:
+            - heading "Solutions for Biopharma" [level=2] [ref=e111]
+            - paragraph [ref=e112]: Biozen UHPLC/HPLC columns are seamlessly designed to bring peace of mind to your analysis of biologics.
+            - paragraph [ref=e113]:
+              - img "bioTi-50-and-150-left" [ref=e114]
+            - paragraph
+        - link "Thermally Modified Fully Porous Particles Elevate your reproducibility and scalability with Luna HPLC columns for unparalleled quality you can trust. generic-hplc-column" [ref=e116] [cursor=pointer]:
+          - /url: /products/luna-omega-hplc-column/luna-omega-c18
+          - generic [ref=e117]:
+            - heading "Thermally Modified Fully Porous Particles" [level=2] [ref=e118]
+            - paragraph [ref=e119]: Elevate your reproducibility and scalability with Luna HPLC columns for unparalleled quality you can trust.
+            - paragraph [ref=e120]:
+              - img "generic-hplc-column" [ref=e121]
+            - paragraph
+        - link "Core-Shell Technology Experience a dramatic enhancement in performance with Kinetex core-shell LC columns compared to your current choice. preparative-lc-combo" [ref=e123] [cursor=pointer]:
+          - /url: /products/kinetex-hplc-column
+          - generic [ref=e124]:
+            - heading "Core-Shell Technology" [level=2] [ref=e125]
+            - paragraph [ref=e126]: Experience a dramatic enhancement in performance with Kinetex core-shell LC columns compared to your current choice.
+            - paragraph [ref=e127]:
+              - img "preparative-lc-combo" [ref=e128]
+            - paragraph
+        - link "On-Demand Webinars Check out our on-demand webinars featuring topics on the latest LC, GC, sample preparation, and industry trends." [ref=e130] [cursor=pointer]:
+          - /url: /webinars
+          - generic [ref=e131]:
+            - heading "On-Demand Webinars" [level=2] [ref=e132]
+            - paragraph [ref=e133]: Check out our on-demand webinars featuring topics on the latest LC, GC, sample preparation, and industry trends.
+            - paragraph [ref=e134]
+            - paragraph
+    - generic [ref=e136]:
+      - heading "Featured Products" [level=2] [ref=e139]
+      - generic [ref=e140]:
+        - generic [ref=e142]:
+          - paragraph [ref=e143]
+          - heading "Robust Biologics Analysis" [level=3] [ref=e144]
+          - paragraph [ref=e145]:
+            - link "Biozen LC Columns chevron_right" [ref=e146] [cursor=pointer]:
+              - /url: /products/biozenlc-hplc-column
+              - text: Biozen LC Columns
+              - generic [ref=e147]: chevron_right
+        - generic [ref=e149]:
+          - paragraph [ref=e150]
+          - heading "Low Bleed GC Separations" [level=3] [ref=e151]
+          - paragraph [ref=e152]:
+            - link "Zebron GC Columns chevron_right" [ref=e153] [cursor=pointer]:
+              - /url: /products/zebron-gc-columns
+              - text: Zebron GC Columns
+              - generic [ref=e154]: chevron_right
+        - generic [ref=e156]:
+          - paragraph [ref=e157]
+          - heading "Reduce Sample Clean-up Time by 40%" [level=3] [ref=e158]
+          - paragraph [ref=e159]:
+            - link "Strata-X PRO SPE Products chevron_right" [ref=e160] [cursor=pointer]:
+              - /url: /products/strata-x-pro-solid-phase-extraction-products
+              - text: Strata-X PRO SPE Products
+              - generic [ref=e161]: chevron_right
+        - generic [ref=e163]:
+          - paragraph [ref=e164]
+          - heading "Ultra High Performance on ANY System" [level=3] [ref=e165]
+          - paragraph [ref=e166]:
+            - link "Kinetex Core-Shell LC Columns chevron_right" [ref=e167] [cursor=pointer]:
+              - /url: /products/kinetex-hplc-column
+              - text: Kinetex Core-Shell LC Columns
+              - generic [ref=e168]: chevron_right
+        - generic [ref=e170]:
+          - paragraph [ref=e171]
+          - heading "Robust Biologics Analysis" [level=3] [ref=e172]
+          - paragraph [ref=e173]:
+            - link "Biozen LC Columns chevron_right" [ref=e174] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/products/biozenlc-hplc-column?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+              - text: Biozen LC Columns
+              - generic [ref=e175]: chevron_right
+        - generic [ref=e177]:
+          - paragraph [ref=e178]
+          - paragraph [ref=e179]:
+            - link "Zebron GC Columns chevron_right" [ref=e180] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/products/zebron-gc-columns?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+              - text: Zebron GC Columns
+              - generic [ref=e181]: chevron_right
+        - generic [ref=e183]:
+          - paragraph [ref=e184]
+          - heading "Reduce Sample Clean-up Time by 40%" [level=3] [ref=e185]
+          - paragraph [ref=e186]:
+            - link "Strata-X PRO SPE Products chevron_right" [ref=e187] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/products/strata-x-pro-solid-phase-extraction-products?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+              - text: Strata-X PRO SPE Products
+              - generic [ref=e188]: chevron_right
+        - generic [ref=e190]:
+          - paragraph [ref=e191]
+          - heading "Ultra High Performance on ANY System" [level=3] [ref=e192]
+          - paragraph [ref=e193]:
+            - link "Kinetex Core-Shell LC Columns chevron_right" [ref=e194] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/products/kinetex-hplc-column?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+              - text: Kinetex Core-Shell LC Columns
+              - generic [ref=e195]: chevron_right
+    - generic [ref=e197]:
+      - heading "Popular Applications" [level=2] [ref=e200]
+      - generic [ref=e201]:
+        - generic [ref=e203]:
+          - img [ref=e204]
+          - generic [ref=e205]: Signature Peptides of Rituximab on a bioZen Peptide XB-C18 Column Using bioZen MagBeads
+        - generic [ref=e207]:
+          - img [ref=e208]
+          - generic [ref=e209]: GC-MS Analysis of PAH, PCB and Terphenyl using a 30 meter Zebron ZB-PAH-EU GC column
+        - generic [ref=e211]:
+          - img [ref=e212]
+          - generic [ref=e213]: GenX replacement PFOA compound by LC-MS/MS
+        - generic [ref=e215]:
+          - img [ref=e216]
+          - generic [ref=e217]: USP Doxepin Assay - Standard Solution on Kinetex® 2.6 µm C8 75 x 4.6 mm
+        - generic [ref=e219]:
+          - img [ref=e220]
+          - generic [ref=e221]: Multiclass Antibiotics Screening of Meat for Human Consumption by LC/MS/MS
+        - generic [ref=e223]:
+          - img [ref=e224]
+          - generic [ref=e225]: Fat-Soluble Vitamins on Kinetex 2.6µm C18 100 x 4.6mm ID
+        - generic [ref=e227]:
+          - img [ref=e228]
+          - generic [ref=e229]: Tricyclic Antidepressants Panel by LC-MS/MS with Kinetex 2.6 um PS C18
+        - generic [ref=e231]:
+          - img [ref=e232]
+          - generic [ref=e233]: THC and Metabolites from Whole Blood on Strata-X-Drug B and Kinetex C18 by LC-MS-MS
+      - paragraph [ref=e234]:
+        - link "EXPLORE OUR APPLICATIONS LIBRARY chevron_right" [ref=e235] [cursor=pointer]:
+          - /url: /applications
+          - generic [ref=e236]: EXPLORE OUR APPLICATIONS LIBRARY
+          - generic [ref=e237]: chevron_right
+    - generic [ref=e239]:
+      - heading "Featured Webinars" [level=2] [ref=e242]
+      - generic [ref=e243]:
+        - link "HPLC Webinar Essential LC-MS Method Development" [ref=e245] [cursor=pointer]:
+          - /url: /webinars/essential-lc-ms-method-development
+          - generic [ref=e246]:
+            - img "HPLC Webinar" [ref=e247]
+            - paragraph [ref=e248]: Essential LC-MS Method Development
+        - link "PhenoWebinars Novel Oligonucleotide Sample Clean-up and Method Optimizations" [ref=e250] [cursor=pointer]:
+          - /url: /webinars/novel-oligonucleotide-sample-clean-up-and-method-optimizations
+          - generic [ref=e251]:
+            - img "PhenoWebinars" [ref=e252]
+            - paragraph [ref=e253]: Novel Oligonucleotide Sample Clean-up and Method Optimizations
+        - link "Environmental Webinar PFAS LC-MS/MS Workflows Applied to EPA Methods 537.1 and 533" [ref=e255] [cursor=pointer]:
+          - /url: /webinars/pfas-lc-msms-workflows-applied-to-epa-methods-5371-and-533
+          - generic [ref=e256]:
+            - img "Environmental Webinar" [ref=e257]
+            - paragraph [ref=e258]: PFAS LC-MS/MS Workflows Applied to EPA Methods 537.1 and 533
+      - paragraph [ref=e259]:
+        - link "SEARCH MORE WEBINARS chevron_right" [ref=e260] [cursor=pointer]:
+          - /url: /webinars
+          - generic [ref=e261]: SEARCH MORE WEBINARS
+          - generic [ref=e262]: chevron_right
+  - generic [ref=e265]:
+    - generic [ref=e268]:
+      - generic [ref=e269]:
+        - generic [ref=e270]:
+          - img "Phenomenex" [ref=e272]
+          - generic [ref=e274]: Phenomenex is a technology leader committed to developing novel analytical chemistry solutions that solve the separation and purification challenges of researchers worldwide.
+          - link "Connect With Us" [ref=e276] [cursor=pointer]:
+            - /url: https://discover.phenomenex.com/customersupport?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+        - generic [ref=e278]:
+          - generic [ref=e279]:
+            - paragraph [ref=e280]: Products and Services
+            - paragraph [ref=e281]:
+              - link "Products" [ref=e282] [cursor=pointer]:
+                - /url: /service-listing-products
+            - paragraph [ref=e283]:
+              - link "Techniques" [ref=e284] [cursor=pointer]:
+                - /url: /service-listing-techniques
+            - paragraph [ref=e285]:
+              - link "Industries" [ref=e286] [cursor=pointer]:
+                - /url: /service-listing-industries
+            - paragraph [ref=e287]:
+              - link "Quick Order" [ref=e288] [cursor=pointer]:
+                - /url: /quick-order
+          - generic [ref=e289]:
+            - paragraph [ref=e290]: Support
+            - paragraph [ref=e291]:
+              - link "Product/Method Support" [ref=e292] [cursor=pointer]:
+                - /url: https://discover.phenomenex.com/customersupport?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+            - paragraph [ref=e293]:
+              - link "Troubleshooting Help" [ref=e294] [cursor=pointer]:
+                - /url: https://discover.phenomenex.com/technical-support?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+            - paragraph [ref=e295]:
+              - link "Contact Us" [ref=e296] [cursor=pointer]:
+                - /url: /contact-us
+            - paragraph [ref=e297]:
+              - link "CQA / CofA" [ref=e298] [cursor=pointer]:
+                - /url: /dashboard/cqa
+          - generic [ref=e299]:
+            - paragraph [ref=e300]: Our company
+            - paragraph [ref=e301]:
+              - link "About Phenomenex" [ref=e302] [cursor=pointer]:
+                - /url: /our-company/about-phenomenex
+            - paragraph [ref=e303]:
+              - link "Blog" [ref=e304] [cursor=pointer]:
+                - /url: /our-company/phenomenex-blog
+            - paragraph [ref=e305]:
+              - link "News" [ref=e306] [cursor=pointer]:
+                - /url: /news
+            - paragraph [ref=e307]:
+              - link "Danaher Life Sciences" [ref=e308] [cursor=pointer]:
+                - /url: https://lifesciences.danaher.com/?utm_source=phenomenex_website&amp;utm_medium=referral&amp;utm_content=footer&amp;ajs_aid=d5d95cbf-ead4-43e4-a243-b3a5be722d51
+        - generic [ref=e309]:
+          - generic [ref=e310]:
+            - link "Facebook" [ref=e311] [cursor=pointer]:
+              - /url: http://www.facebook.com/phenomenex
+              - img "Facebook" [ref=e312]
+            - link "Instagram" [ref=e313] [cursor=pointer]:
+              - /url: https://www.instagram.com/phenomenex
+              - img "Instagram" [ref=e314]
+            - link "Linkedln" [ref=e315] [cursor=pointer]:
+              - /url: http://www.linkedin.com/company/phenomenex
+              - img "Linkedln" [ref=e316]
+            - link "Twitter" [ref=e317] [cursor=pointer]:
+              - /url: http://www.twitter.com/phenomenex
+              - img "Twitter" [ref=e318]
+            - link "Youtube" [ref=e319] [cursor=pointer]:
+              - /url: http://www.youtube.com/user/phenomenex
+              - img "Youtube" [ref=e320]
+          - img "Danaher" [ref=e321]
+      - generic [ref=e325]:
+        - link "Company Logo" [ref=e326] [cursor=pointer]:
+          - /url: https://www.abcam.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e327]
+        - link "Company Logo" [ref=e328] [cursor=pointer]:
+          - /url: https://www.aldevron.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e329]
+        - link "Company Logo" [ref=e330] [cursor=pointer]:
+          - /url: https://www.mybeckman.com
+          - img "Company Logo" [ref=e331]
+        - link "Company Logo" [ref=e332] [cursor=pointer]:
+          - /url: https://www.genedata.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e333]
+        - link "Company Logo" [ref=e334] [cursor=pointer]:
+          - /url: https://www.idbs.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e335]
+        - link "Company Logo" [ref=e336] [cursor=pointer]:
+          - /url: https://www.idtdna.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e337]
+        - link "Company Logo" [ref=e338] [cursor=pointer]:
+          - /url: https://www.leica-microsystems.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e339]
+        - link "Company Logo" [ref=e340] [cursor=pointer]:
+          - /url: https://www.moleculardevices.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e341]
+        - link "Company Logo" [ref=e342] [cursor=pointer]:
+          - /url: https://sciex.com/?ajs_aid=89ae3391-4ea8-4e3b-be80-4decb050f80c
+          - img "Company Logo" [ref=e343]
+    - generic [ref=e346]:
+      - generic [ref=e348]:
+        - generic [ref=e349]:
+          - link "Terms and Conditions" [ref=e350] [cursor=pointer]:
+            - /url: /phx-terms-and-conditions-of-sale
+          - text: "|"
+        - generic [ref=e351]:
+          - link "Privacy Statement" [ref=e352] [cursor=pointer]:
+            - /url: /phx-privacy-policy
+          - text: "|"
+        - generic [ref=e353]:
+          - link "Quality Policy" [ref=e354] [cursor=pointer]:
+            - /url: /phx-quality-policy
+          - text: "|"
+        - generic [ref=e355]:
+          - link "Terms of Use" [ref=e356] [cursor=pointer]:
+            - /url: /phx-site-terms-of-use
+          - text: "|"
+        - generic [ref=e357]:
+          - link "Trademarks" [ref=e358] [cursor=pointer]:
+            - /url: /phx-trademarks
+          - text: "|"
+        - generic [ref=e359]:
+          - link "CA Supply Chains Act" [ref=e360] [cursor=pointer]:
+            - /url: /phx-california-supply-chains-act
+          - text: "|"
+        - generic [ref=e361]:
+          - link "CA Consumer Privacy" [ref=e362] [cursor=pointer]:
+            - /url: /phx-california-consumer-rights-notice
+          - text: "|"
+        - generic [ref=e363]:
+          - link "Cookie Policy" [ref=e364] [cursor=pointer]:
+            - /url: /phx-cookie-policy
+          - text: "|"
+        - generic [ref=e365]:
+          - link "Cookie Settings" [ref=e366] [cursor=pointer]:
+            - /url: /phx-cookie-policy
+          - text: "|"
+        - link "Impressum" [ref=e368] [cursor=pointer]:
+          - /url: /phx-impressum
+      - generic [ref=e369]: © 2026 Phenomenex Inc. All rights reserved.
+```
