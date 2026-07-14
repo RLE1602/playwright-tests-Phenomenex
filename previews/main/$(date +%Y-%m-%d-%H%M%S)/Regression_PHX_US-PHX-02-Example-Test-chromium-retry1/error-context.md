@@ -1078,9 +1078,9 @@
   - generic:
     - generic:
       - generic [ref=e471]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [ref=e472]:
+      - iframe [active] [ref=e472]:
         - generic [ref=f5e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f5e2]:
+          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
             - img [ref=f5e3]
           - generic [ref=f5e5]:
             - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f5e6]:
