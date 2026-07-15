@@ -1059,8 +1059,8 @@
               - link "Verex Filter Vials for Filtration and Analysis" [ref=e456] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/products/verex-filter-vials
   - iframe [ref=e457]:
-    - button "Click to start chatting" [ref=f9e2] [cursor=pointer]:
-      - img [ref=f9e4]
+    - button "Click to start chatting" [ref=f8e2] [cursor=pointer]:
+      - img [ref=f8e4]
   - dialog "Privacy" [ref=e460]:
     - generic [ref=e461]:
       - generic [ref=e462]:
@@ -1078,14 +1078,14 @@
   - generic:
     - generic:
       - generic [ref=e471]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [ref=e472]:
-        - generic [ref=f7e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f7e2]:
-            - img [ref=f7e3]
-          - generic [ref=f7e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f7e6]:
-              - generic [ref=f7e8]:
+      - iframe [active] [ref=e472]:
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
+              - generic [ref=f6e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f7e9]
+            - button "Type and start" [ref=f6e9]
 ```
