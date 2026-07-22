@@ -1061,8 +1061,8 @@
               - link "Filtration Prior to HPLC Analysis" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/techniques/filtration
   - iframe [ref=e460]:
-    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
-      - img [ref=f7e4]
+    - button "Click to start chatting" [ref=f8e2] [cursor=pointer]:
+      - img [ref=f8e4]
   - dialog "Privacy" [ref=e463]:
     - generic [ref=e464]:
       - generic [ref=e465]:
@@ -1080,14 +1080,14 @@
   - generic:
     - generic:
       - generic [ref=e474]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
-      - iframe [active] [ref=e475]:
-        - generic [ref=f5e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
-            - img [ref=f5e3]
-          - generic [ref=f5e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f5e6]:
-              - generic [ref=f5e8]:
+      - iframe [ref=e475]:
+        - generic [ref=f7e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f7e2]:
+            - img [ref=f7e3]
+          - generic [ref=f7e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f7e6]:
+              - generic [ref=f7e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f5e9]
+            - button "Type and start" [ref=f7e9]
 ```

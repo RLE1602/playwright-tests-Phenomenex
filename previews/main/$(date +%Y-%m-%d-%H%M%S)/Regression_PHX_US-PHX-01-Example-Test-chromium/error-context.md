@@ -1081,13 +1081,13 @@
     - generic:
       - generic [ref=e474]: "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!}"
       - iframe [active] [ref=e475]:
-        - generic [ref=f5e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
-            - img [ref=f5e3]
-          - generic [ref=f5e5]:
-            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f5e6]:
-              - generic [ref=f5e8]:
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "LIVE CHAT NOW! Our experts can help with product recommendations, quotes and more!" [ref=f6e6]:
+              - generic [ref=f6e8]:
                 - text: LIVE CHAT NOW!
                 - text: Our experts can help with product recommendations, quotes and more!
-            - button "Type and start" [ref=f5e9]
+            - button "Type and start" [ref=f6e9]
 ```
