@@ -1061,8 +1061,8 @@
               - link "Filtration Prior to HPLC Analysis" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/techniques/filtration
   - iframe [ref=e460]:
-    - button "Close Live Chat window" [ref=f4e2] [cursor=pointer]:
-      - img [ref=f4e4]
+    - button "Close Live Chat window" [ref=f5e2] [cursor=pointer]:
+      - img [ref=f5e4]
   - dialog "Privacy" [ref=e463]:
     - generic [ref=e464]:
       - generic [ref=e465]:
