@@ -1,7 +1,7 @@
 # Page snapshot
 
 ```yaml
-- generic [ref=e1]:
+- generic [active] [ref=e1]:
   - banner [ref=e2]:
     - generic:
       - generic [ref=e3]:
@@ -1060,21 +1060,4 @@
             - listitem [ref=e458]:
               - link "Leader in Analytical Chemistry Solutions" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
-  - iframe [ref=e460]:
-    - button "Close Live Chat window" [ref=f5e2] [cursor=pointer]:
-      - img [ref=f5e4]
-  - dialog "Privacy" [ref=e463]:
-    - generic [ref=e464]:
-      - generic [ref=e465]:
-        - generic:
-          - generic [ref=e466]:
-            - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-            - link ", opens in a new tab" [ref=e467] [cursor=pointer]:
-              - /url: https://www.phenomenex.com/legal/phx-cookie-policy
-              - text: Cookie Notice
-          - link "Phenomenex Cookie Partners Details" [ref=e468] [cursor=pointer]:
-            - /url: "#"
-      - generic [ref=e470]:
-        - button "Cookie Settings, Opens the preference center dialog" [ref=e471] [cursor=pointer]: Cookie Settings
-        - button "Accept All Cookies" [ref=e473] [cursor=pointer]
 ```
