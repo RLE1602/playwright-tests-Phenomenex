@@ -1080,9 +1080,9 @@
   - generic:
     - generic:
       - generic [ref=e474]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
-      - iframe [ref=e475]:
+      - iframe [active] [ref=e475]:
         - generic [ref=f5e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f5e2]:
+          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
             - img [ref=f5e3]
           - generic [ref=f5e5]:
             - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f5e6]:
