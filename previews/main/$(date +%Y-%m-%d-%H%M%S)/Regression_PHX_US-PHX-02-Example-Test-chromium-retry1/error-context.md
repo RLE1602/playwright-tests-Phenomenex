@@ -1061,8 +1061,8 @@
               - link "Leader in Analytical Chemistry Solutions" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
   - iframe [ref=e460]:
-    - button "Close Live Chat window" [ref=f5e2] [cursor=pointer]:
-      - img [ref=f5e4]
+    - button "Close Live Chat window" [ref=f6e2] [cursor=pointer]:
+      - img [ref=f6e4]
   - dialog "Privacy" [ref=e463]:
     - generic [ref=e464]:
       - generic [ref=e465]:
