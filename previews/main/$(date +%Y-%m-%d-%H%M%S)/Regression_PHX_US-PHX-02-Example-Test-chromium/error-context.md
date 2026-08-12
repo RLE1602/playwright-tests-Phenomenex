@@ -1061,8 +1061,8 @@
               - link "Leader in Analytical Chemistry Solutions" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
   - iframe [ref=e460]:
-    - button "Click to start chatting" [ref=f8e2] [cursor=pointer]:
-      - img [ref=f8e4]
+    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
+      - img [ref=f7e4]
   - dialog "Privacy" [ref=e463]:
     - generic [ref=e464]:
       - generic [ref=e465]:
@@ -1080,9 +1080,9 @@
   - generic:
     - generic:
       - generic [ref=e474]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
-      - iframe [active] [ref=e475]:
+      - iframe [ref=e475]:
         - generic [ref=f6e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f6e2]:
+          - button "Click to decline the chat invitation" [ref=f6e2]:
             - img [ref=f6e3]
           - generic [ref=f6e5]:
             - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f6e6]:
