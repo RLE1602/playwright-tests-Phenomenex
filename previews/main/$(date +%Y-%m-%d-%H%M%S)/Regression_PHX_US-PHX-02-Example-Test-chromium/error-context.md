@@ -1063,29 +1063,29 @@
   - iframe [ref=e460]:
     - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
       - img [ref=f7e4]
-  - dialog "Privacy" [ref=e463]:
-    - generic [ref=e464]:
-      - generic [ref=e465]:
-        - generic:
-          - generic [ref=e466]:
-            - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-            - link ", opens in a new tab" [ref=e467] [cursor=pointer]:
-              - /url: https://www.phenomenex.com/legal/phx-cookie-policy
-              - text: Cookie Notice
-          - link "Phenomenex Cookie Partners Details" [ref=e468] [cursor=pointer]:
-            - /url: "#"
-      - generic [ref=e470]:
-        - button "Cookie Settings, Opens the preference center dialog" [ref=e471] [cursor=pointer]: Cookie Settings
-        - button "Accept All Cookies" [ref=e473] [cursor=pointer]
   - generic:
     - generic:
-      - generic [ref=e474]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
-      - iframe [active] [ref=e475]:
+      - generic [ref=e461]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
+      - iframe [ref=e462]:
         - generic [ref=f5e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
+          - button "Click to decline the chat invitation" [ref=f5e2]:
             - img [ref=f5e3]
           - generic [ref=f5e5]:
             - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f5e6]:
               - generic [ref=f5e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
             - button "Type and start" [ref=f5e9]
+  - dialog "Privacy" [ref=e465]:
+    - generic [ref=e466]:
+      - generic [ref=e467]:
+        - generic:
+          - generic [ref=e468]:
+            - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
+            - link ", opens in a new tab" [ref=e469] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/legal/phx-cookie-policy
+              - text: Cookie Notice
+          - link "Phenomenex Cookie Partners Details" [ref=e470] [cursor=pointer]:
+            - /url: "#"
+      - generic [ref=e472]:
+        - button "Cookie Settings, Opens the preference center dialog" [ref=e473] [cursor=pointer]: Cookie Settings
+        - button "Accept All Cookies" [ref=e475] [cursor=pointer]
 ```
