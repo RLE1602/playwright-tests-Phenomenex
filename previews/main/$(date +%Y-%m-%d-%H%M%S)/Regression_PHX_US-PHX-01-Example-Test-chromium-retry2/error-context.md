@@ -1061,8 +1061,8 @@
               - link "Verex Filter Vials for Filtration and Analysis" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/products/verex-filter-vials
   - iframe [ref=e460]:
-    - button "Click to start chatting" [ref=f9e2] [cursor=pointer]:
-      - img [ref=f9e4]
+    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
+      - img [ref=f7e4]
   - dialog "Privacy" [ref=e463]:
     - generic [ref=e464]:
       - generic [ref=e465]:
@@ -1081,11 +1081,11 @@
     - generic:
       - generic [ref=e474]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
       - iframe [ref=e475]:
-        - generic [ref=f7e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f7e2]:
-            - img [ref=f7e3]
-          - generic [ref=f7e5]:
-            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f7e6]:
-              - generic [ref=f7e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
-            - button "Type and start" [ref=f7e9]
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f6e6]:
+              - generic [ref=f6e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
+            - button "Type and start" [ref=f6e9]
 ```
