@@ -1061,8 +1061,8 @@
               - link "Verex Filter Vials for Filtration and Analysis" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/products/verex-filter-vials
   - iframe [ref=e460]:
-    - button "Click to start chatting" [ref=f8e2] [cursor=pointer]:
-      - img [ref=f8e4]
+    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
+      - img [ref=f7e4]
   - dialog "Privacy" [ref=e463]:
     - generic [ref=e464]:
       - generic [ref=e465]:
