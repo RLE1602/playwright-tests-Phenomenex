@@ -341,8 +341,9 @@
               - generic:
                 - img "chevron-forward"
             - listitem:
-              - link "Shopping Hub":
-                - /url: https://stage-aem.phenomenex.com/resources/shopping-hub
+              - text: Shopping Hub
+              - generic:
+                - img "chevron-forward"
             - listitem:
               - link "Sign up Chromatography eNewsletter":
                 - /url: https://discover.phenomenex.com/newsletter-subscription
@@ -658,6 +659,27 @@
             - listitem:
               - link "View All About Knowledge Center & Training":
                 - /url: https://stage-aem.phenomenex.com/resources/knowledge-center
+            - listitem:
+              - link "Shopping Hub":
+                - /url: https://stage-aem.phenomenex.com/resources/shopping-hub
+            - listitem:
+              - link "Promotions & Offers":
+                - /url: https://stage-aem.phenomenex.com/resources/shopping-hub/promotions-and-offers
+            - listitem:
+              - link "FAQs":
+                - /url: https://stage-aem.phenomenex.com/resources/support/faqs
+            - listitem:
+              - link "Product/Method Support":
+                - /url: https://discover.phenomenex.com/customersupport
+            - listitem:
+              - link "Request a Quote":
+                - /url: https://discover.phenomenex.com/online-quote-req-en
+            - listitem:
+              - link "Troubleshooting Help":
+                - /url: https://discover.phenomenex.com/technical-support
+            - listitem:
+              - link "View All Support":
+                - /url: https://stage-aem.phenomenex.com/resources/support
             - listitem:
               - link "FAQs":
                 - /url: https://stage-aem.phenomenex.com/resources/support/faqs
@@ -1060,32 +1082,21 @@
             - listitem [ref=e458]:
               - link "Verex Filter Vials for Filtration and Analysis" [ref=e459] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/products/verex-filter-vials
-  - iframe [ref=e460]:
-    - button "Click to start chatting" [ref=f7e2] [cursor=pointer]:
-      - img [ref=f7e4]
-  - dialog "Privacy" [ref=e463]:
-    - generic [ref=e464]:
-      - generic [ref=e465]:
-        - generic:
-          - generic [ref=e466]:
-            - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-            - link ", opens in a new tab" [ref=e467] [cursor=pointer]:
-              - /url: https://www.phenomenex.com/legal/phx-cookie-policy
-              - text: Cookie Notice
-          - link "Phenomenex Cookie Partners Details" [ref=e468] [cursor=pointer]:
-            - /url: "#"
-      - generic [ref=e470]:
-        - button "Cookie Settings, Opens the preference center dialog" [ref=e471] [cursor=pointer]: Cookie Settings
-        - button "Accept All Cookies" [ref=e473] [cursor=pointer]
-  - generic:
-    - generic:
-      - generic [ref=e474]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
-      - iframe [active] [ref=e475]:
-        - generic [ref=f5e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [active] [ref=f5e2]:
-            - img [ref=f5e3]
-          - generic [ref=f5e5]:
-            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f5e6]:
-              - generic [ref=f5e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
-            - button "Type and start" [ref=f5e9]
+  - generic "You must interact with the banner to dismiss it." [active] [ref=e461]:
+    - dialog "You must interact with the banner to dismiss it." [ref=e462]:
+      - generic [ref=e463]:
+        - generic [ref=e464]:
+          - generic:
+            - generic [ref=e465]:
+              - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
+              - link "More information about your privacy, opens in a new tab" [ref=e466] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/legal/phx-cookie-policy
+                - text: Cookie Notice
+            - link "Phenomenex Cookie Partners Details" [ref=e467] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e469]:
+          - button "Cookie Settings, Opens the preference center dialog" [ref=e470] [cursor=pointer]: Cookie Settings
+          - generic [ref=e471]:
+            - button "Reject All" [ref=e472] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e473] [cursor=pointer]
 ```
