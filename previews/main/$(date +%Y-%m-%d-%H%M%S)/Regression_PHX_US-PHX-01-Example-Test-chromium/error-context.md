@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Click to start chatting" [ref=f11e2] [cursor=pointer]:
-      - img [ref=f11e4]
+    - button "Click to start chatting" [ref=f8e2] [cursor=pointer]:
+      - img [ref=f8e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:
@@ -1090,13 +1090,13 @@
     - generic:
       - generic [ref=e461]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
       - iframe [ref=e462]:
-        - generic [ref=f8e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f8e2]:
-            - img [ref=f8e3]
-          - generic [ref=f8e5]:
-            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f8e6]:
-              - generic [ref=f8e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
-            - button "Type and start" [ref=f8e9]
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f6e6]:
+              - generic [ref=f6e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
+            - button "Type and start" [ref=f6e9]
   - generic "You must interact with the banner to dismiss it." [active] [ref=e464]:
     - dialog "You must interact with the banner to dismiss it." [ref=e465]:
       - generic [ref=e466]:
