@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Click to start chatting" [ref=f8e2] [cursor=pointer]:
-      - img [ref=f8e4]
+    - button "Close Live Chat window" [ref=f7e2] [cursor=pointer]:
+      - img [ref=f7e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:
@@ -1086,32 +1086,21 @@
             - listitem [ref=e459]:
               - link "Verex Filter Vials for Filtration and Analysis" [ref=e460] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/products/verex-filter-vials
-  - generic:
-    - generic:
-      - generic [ref=e461]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
-      - iframe [ref=e462]:
-        - generic [ref=f6e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f6e2]:
-            - img [ref=f6e3]
-          - generic [ref=f6e5]:
-            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f6e6]:
-              - generic [ref=f6e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
-            - button "Type and start" [ref=f6e9]
-  - generic "You must interact with the banner to dismiss it." [active] [ref=e464]:
-    - dialog "You must interact with the banner to dismiss it." [ref=e465]:
-      - generic [ref=e466]:
-        - generic [ref=e467]:
+  - generic "You must interact with the banner to dismiss it." [active] [ref=e463]:
+    - dialog "You must interact with the banner to dismiss it." [ref=e464]:
+      - generic [ref=e465]:
+        - generic [ref=e466]:
           - generic:
-            - generic [ref=e468]:
+            - generic [ref=e467]:
               - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-              - link "More information about your privacy, opens in a new tab" [ref=e469] [cursor=pointer]:
+              - link "More information about your privacy, opens in a new tab" [ref=e468] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/legal/phx-cookie-policy
                 - text: Cookie Notice
-            - link "Phenomenex Cookie Partners Details" [ref=e470] [cursor=pointer]:
+            - link "Phenomenex Cookie Partners Details" [ref=e469] [cursor=pointer]:
               - /url: "#"
-        - generic [ref=e472]:
-          - button "Cookie Settings, Opens the preference center dialog" [ref=e473] [cursor=pointer]: Cookie Settings
-          - generic [ref=e474]:
-            - button "Reject All" [ref=e475] [cursor=pointer]
-            - button "Accept All Cookies" [ref=e476] [cursor=pointer]
+        - generic [ref=e471]:
+          - button "Cookie Settings, Opens the preference center dialog" [ref=e472] [cursor=pointer]: Cookie Settings
+          - generic [ref=e473]:
+            - button "Reject All" [ref=e474] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e475] [cursor=pointer]
 ```
