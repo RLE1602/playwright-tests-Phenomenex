@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Close Live Chat window" [ref=f7e2] [cursor=pointer]:
-      - img [ref=f7e4]
+    - button "Close Live Chat window" [ref=f8e2] [cursor=pointer]:
+      - img [ref=f8e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:
