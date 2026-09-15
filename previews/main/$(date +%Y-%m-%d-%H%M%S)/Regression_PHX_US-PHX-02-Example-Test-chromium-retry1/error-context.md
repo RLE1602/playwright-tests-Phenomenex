@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Click to start chatting" [ref=f13e2] [cursor=pointer]:
-      - img [ref=f13e4]
+    - button "Click to start chatting" [ref=f12e2] [cursor=pointer]:
+      - img [ref=f12e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:

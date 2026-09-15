@@ -1090,13 +1090,13 @@
     - generic:
       - generic [ref=e461]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
       - iframe [ref=e462]:
-        - generic [ref=f11e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f11e2]:
-            - img [ref=f11e3]
-          - generic [ref=f11e5]:
-            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f11e6]:
-              - generic [ref=f11e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
-            - button "Type and start" [ref=f11e9]
+        - generic [ref=f12e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f12e2]:
+            - img [ref=f12e3]
+          - generic [ref=f12e5]:
+            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f12e6]:
+              - generic [ref=f12e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
+            - button "Type and start" [ref=f12e9]
   - generic "You must interact with the banner to dismiss it." [active] [ref=e464]:
     - dialog "You must interact with the banner to dismiss it." [ref=e465]:
       - generic [ref=e466]:
