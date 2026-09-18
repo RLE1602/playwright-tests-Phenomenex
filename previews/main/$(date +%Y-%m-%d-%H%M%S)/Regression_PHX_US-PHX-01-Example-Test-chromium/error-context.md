@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Click to start chatting" [ref=f12e2] [cursor=pointer]:
-      - img [ref=f12e4]
+    - button "Click to start chatting" [ref=f9e2] [cursor=pointer]:
+      - img [ref=f9e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:
@@ -1090,15 +1090,15 @@
     - generic:
       - generic [ref=e461]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
       - iframe [ref=e462]:
-        - generic [ref=f9e1] [cursor=pointer]:
-          - button "Click to decline the chat invitation" [ref=f9e2]:
-            - img [ref=f9e3]
-          - generic [ref=f9e5]:
-            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f9e6]:
-              - generic [ref=f9e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
-            - button "Type and start" [ref=f9e9]
-  - generic "You must interact with the banner to dismiss it." [active] [ref=e464]:
-    - dialog "You must interact with the banner to dismiss it." [ref=e465]:
+        - generic [ref=f6e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f6e2]:
+            - img [ref=f6e3]
+          - generic [ref=f6e5]:
+            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f6e6]:
+              - generic [ref=f6e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
+            - button "Type and start" [ref=f6e9]
+  - generic "Privacy" [active] [ref=e464]:
+    - dialog "Privacy" [ref=e465]:
       - generic [ref=e466]:
         - generic [ref=e467]:
           - generic:

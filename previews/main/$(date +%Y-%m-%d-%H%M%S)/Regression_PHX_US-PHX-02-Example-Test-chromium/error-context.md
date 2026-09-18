@@ -1097,8 +1097,8 @@
             - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f10e6]:
               - generic [ref=f10e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
             - button "Type and start" [ref=f10e9]
-  - generic "You must interact with the banner to dismiss it." [active] [ref=e464]:
-    - dialog "You must interact with the banner to dismiss it." [ref=e465]:
+  - generic "Privacy" [active] [ref=e464]:
+    - dialog "Privacy" [ref=e465]:
       - generic [ref=e466]:
         - generic [ref=e467]:
           - generic:
