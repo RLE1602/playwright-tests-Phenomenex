@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Close Live Chat window" [ref=f9e2] [cursor=pointer]:
-      - img [ref=f9e4]
+    - button "Close Live Chat window" [ref=f6e2] [cursor=pointer]:
+      - img [ref=f6e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:
@@ -1076,16 +1076,16 @@
           - generic [ref=e453]: Also of Interest
           - list [ref=e454]:
             - listitem [ref=e455]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e456] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e456] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
               - text: "|"
             - listitem [ref=e457]:
               - link "Filtration Prior to HPLC Analysis" [ref=e458] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
             - listitem [ref=e459]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e460] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Leader in Analytical Chemistry Solutions" [ref=e460] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
   - generic "Privacy" [active] [ref=e463]:
     - dialog "Privacy" [ref=e464]:
       - generic [ref=e465]:
