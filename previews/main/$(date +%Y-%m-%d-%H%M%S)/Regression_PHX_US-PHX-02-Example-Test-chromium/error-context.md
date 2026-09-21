@@ -3,8 +3,8 @@
 ```yaml
 - generic [ref=e1]:
   - iframe [ref=e2]:
-    - button "Close Live Chat window" [ref=f9e2] [cursor=pointer]:
-      - img [ref=f9e4]
+    - button "Click to start chatting" [ref=f14e2] [cursor=pointer]:
+      - img [ref=f14e4]
   - banner [ref=e3]:
     - generic:
       - generic [ref=e4]:
@@ -1076,31 +1076,42 @@
           - generic [ref=e453]: Also of Interest
           - list [ref=e454]:
             - listitem [ref=e455]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e456] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Filtration Prior to HPLC Analysis" [ref=e456] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
             - listitem [ref=e457]:
-              - link "Filtration Prior to HPLC Analysis" [ref=e458] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/techniques/filtration
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e458] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
               - text: "|"
             - listitem [ref=e459]:
               - link "Leader in Analytical Chemistry Solutions" [ref=e460] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/webinars
-  - generic "Privacy" [active] [ref=e463]:
-    - dialog "Privacy" [ref=e464]:
-      - generic [ref=e465]:
-        - generic [ref=e466]:
+  - generic:
+    - generic:
+      - generic [ref=e461]: "Have questions? Chat with our support team - no bots, just real people & chromatography expertise.}"
+      - iframe [ref=e462]:
+        - generic [ref=f11e1] [cursor=pointer]:
+          - button "Click to decline the chat invitation" [ref=f11e2]:
+            - img [ref=f11e3]
+          - generic [ref=f11e5]:
+            - button "Have questions? Chat with our support team - no bots, just real people & chromatography expertise." [ref=f11e6]:
+              - generic [ref=f11e8]: Have questions? Chat with our support team - no bots, just real people & chromatography expertise.
+            - button "Type and start" [ref=f11e9]
+  - generic "Privacy" [active] [ref=e464]:
+    - dialog "Privacy" [ref=e465]:
+      - generic [ref=e466]:
+        - generic [ref=e467]:
           - generic:
-            - generic [ref=e467]:
+            - generic [ref=e468]:
               - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-              - link "More information about your privacy, opens in a new tab" [ref=e468] [cursor=pointer]:
+              - link "More information about your privacy, opens in a new tab" [ref=e469] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/legal/phx-cookie-policy
                 - text: Cookie Notice
-            - link "Phenomenex Cookie Partners Details" [ref=e469] [cursor=pointer]:
+            - link "Phenomenex Cookie Partners Details" [ref=e470] [cursor=pointer]:
               - /url: "#"
-        - generic [ref=e471]:
-          - button "Cookie Settings, Opens the preference center dialog" [ref=e472] [cursor=pointer]: Cookie Settings
-          - generic [ref=e473]:
-            - button "Reject All" [ref=e474] [cursor=pointer]
-            - button "Accept All Cookies" [ref=e475] [cursor=pointer]
+        - generic [ref=e472]:
+          - button "Cookie Settings, Opens the preference center dialog" [ref=e473] [cursor=pointer]: Cookie Settings
+          - generic [ref=e474]:
+            - button "Reject All" [ref=e475] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e476] [cursor=pointer]
 ```
