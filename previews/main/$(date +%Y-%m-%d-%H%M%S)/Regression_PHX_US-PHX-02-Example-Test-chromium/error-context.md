@@ -1077,12 +1077,12 @@
                 - /url: https://www.phenomenex.com/techniques/filtration
               - text: "|"
             - listitem [ref=e456]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e457] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
+              - link "Leader in Analytical Chemistry Solutions" [ref=e457] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/webinars
               - text: "|"
             - listitem [ref=e458]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e459] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars
+              - link "Verex Filter Vials for Filtration and Analysis" [ref=e459] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/products/verex-filter-vials
   - generic "Privacy" [active] [ref=e461]:
     - dialog "Privacy" [ref=e462]:
       - generic [ref=e463]:
