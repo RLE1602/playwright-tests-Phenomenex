@@ -1022,82 +1022,67 @@
             - /url: https://www.moleculardevices.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
           - link [ref=e412] [cursor=pointer]:
             - /url: https://sciex.com/?utm_source=phenomenex_website&utm_medium=referral&utm_content=footer
-      - generic [ref=e413]:
-        - generic [ref=e414]:
-          - list [ref=e415]:
-            - listitem [ref=e416]:
-              - link "Terms and Conditions" [ref=e417] [cursor=pointer]:
-                - /url: /legal/phx-terms-and-conditions-of-sale
-            - listitem [ref=e418]: "|"
-            - listitem [ref=e419]:
-              - link "Privacy Statement" [ref=e420] [cursor=pointer]:
-                - /url: /legal/phx-privacy-policy
-            - listitem [ref=e421]: "|"
-            - listitem [ref=e422]:
-              - link "Quality Policy" [ref=e423] [cursor=pointer]:
-                - /url: /our-company/phx-quality-policy
-            - listitem [ref=e424]: "|"
-            - listitem [ref=e425]:
-              - link "Terms of Use" [ref=e426] [cursor=pointer]:
-                - /url: /legal/phx-site-terms-of-use
-            - listitem [ref=e427]: "|"
-            - listitem [ref=e428]:
-              - link "Trademarks" [ref=e429] [cursor=pointer]:
-                - /url: /legal/phx-trademarks
-            - listitem [ref=e430]: "|"
-            - listitem [ref=e431]:
-              - link "CA Supply Chains Act" [ref=e432] [cursor=pointer]:
-                - /url: /legal/phx-california-supply-chains-act
-            - listitem [ref=e433]: "|"
-            - listitem [ref=e434]:
-              - link "CA Consumer Privacy" [ref=e435] [cursor=pointer]:
-                - /url: /legal/phx-california-consumer-rights-notice
-            - listitem [ref=e436]: "|"
-            - listitem [ref=e437]:
-              - link "Cookie Policy" [ref=e438] [cursor=pointer]:
-                - /url: /legal/phx-cookie-policy
-            - listitem [ref=e439]: "|"
-            - listitem [ref=e440]:
-              - link "Cookie Settings" [ref=e441] [cursor=pointer]:
-                - /url: "#"
-            - listitem [ref=e442]: "|"
-            - listitem [ref=e443]:
-              - link "Impressum" [ref=e444] [cursor=pointer]:
-                - /url: /legal/phx-impressum
-            - listitem [ref=e445]: "|"
-            - listitem [ref=e446]:
-              - link "Sitemap" [ref=e447] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/index-sitemap
-          - paragraph [ref=e448]: © 2026 Phenomenex Inc. All rights reserved.
-        - generic [ref=e451]:
-          - generic [ref=e452]: Also of Interest
-          - list [ref=e453]:
-            - listitem [ref=e454]:
-              - link "Filtration Prior to HPLC Analysis" [ref=e455] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/techniques/filtration
-              - text: "|"
-            - listitem [ref=e456]:
-              - link "Leader in Analytical Chemistry Solutions" [ref=e457] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/webinars
-              - text: "|"
-            - listitem [ref=e458]:
-              - link "Verex Filter Vials for Filtration and Analysis" [ref=e459] [cursor=pointer]:
-                - /url: https://www.phenomenex.com/products/verex-filter-vials
-  - generic "Privacy" [active] [ref=e461]:
-    - dialog "Privacy" [ref=e462]:
-      - generic [ref=e463]:
-        - generic [ref=e464]:
+      - generic [ref=e414]:
+        - list [ref=e415]:
+          - listitem [ref=e416]:
+            - link "Terms and Conditions" [ref=e417] [cursor=pointer]:
+              - /url: /legal/phx-terms-and-conditions-of-sale
+          - listitem [ref=e418]: "|"
+          - listitem [ref=e419]:
+            - link "Privacy Statement" [ref=e420] [cursor=pointer]:
+              - /url: /legal/phx-privacy-policy
+          - listitem [ref=e421]: "|"
+          - listitem [ref=e422]:
+            - link "Quality Policy" [ref=e423] [cursor=pointer]:
+              - /url: /our-company/phx-quality-policy
+          - listitem [ref=e424]: "|"
+          - listitem [ref=e425]:
+            - link "Terms of Use" [ref=e426] [cursor=pointer]:
+              - /url: /legal/phx-site-terms-of-use
+          - listitem [ref=e427]: "|"
+          - listitem [ref=e428]:
+            - link "Trademarks" [ref=e429] [cursor=pointer]:
+              - /url: /legal/phx-trademarks
+          - listitem [ref=e430]: "|"
+          - listitem [ref=e431]:
+            - link "CA Supply Chains Act" [ref=e432] [cursor=pointer]:
+              - /url: /legal/phx-california-supply-chains-act
+          - listitem [ref=e433]: "|"
+          - listitem [ref=e434]:
+            - link "CA Consumer Privacy" [ref=e435] [cursor=pointer]:
+              - /url: /legal/phx-california-consumer-rights-notice
+          - listitem [ref=e436]: "|"
+          - listitem [ref=e437]:
+            - link "Cookie Policy" [ref=e438] [cursor=pointer]:
+              - /url: /legal/phx-cookie-policy
+          - listitem [ref=e439]: "|"
+          - listitem [ref=e440]:
+            - link "Cookie Settings" [ref=e441] [cursor=pointer]:
+              - /url: "#"
+          - listitem [ref=e442]: "|"
+          - listitem [ref=e443]:
+            - link "Impressum" [ref=e444] [cursor=pointer]:
+              - /url: /legal/phx-impressum
+          - listitem [ref=e445]: "|"
+          - listitem [ref=e446]:
+            - link "Sitemap" [ref=e447] [cursor=pointer]:
+              - /url: https://www.phenomenex.com/index-sitemap
+        - paragraph [ref=e448]: © 2026 Phenomenex Inc. All rights reserved.
+  - generic "Privacy" [active] [ref=e450]:
+    - dialog "Privacy" [ref=e451]:
+      - generic [ref=e452]:
+        - generic [ref=e453]:
           - generic:
-            - generic [ref=e465]:
+            - generic [ref=e454]:
               - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
-              - link "More information about your privacy, opens in a new tab" [ref=e466] [cursor=pointer]:
+              - link "More information about your privacy, opens in a new tab" [ref=e455] [cursor=pointer]:
                 - /url: https://www.phenomenex.com/legal/phx-cookie-policy
                 - text: Cookie Notice
-            - link "Phenomenex Cookie Partners Details" [ref=e467] [cursor=pointer]:
+            - link "Phenomenex Cookie Partners Details" [ref=e456] [cursor=pointer]:
               - /url: "#"
-        - generic [ref=e469]:
-          - button "Cookie Settings, Opens the preference center dialog" [ref=e470] [cursor=pointer]: Cookie Settings
-          - generic [ref=e471]:
-            - button "Reject All" [ref=e472] [cursor=pointer]
-            - button "Accept All Cookies" [ref=e473] [cursor=pointer]
+        - generic [ref=e458]:
+          - button "Cookie Settings, Opens the preference center dialog" [ref=e459] [cursor=pointer]: Cookie Settings
+          - generic [ref=e460]:
+            - button "Reject All" [ref=e461] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e462] [cursor=pointer]
 ```
