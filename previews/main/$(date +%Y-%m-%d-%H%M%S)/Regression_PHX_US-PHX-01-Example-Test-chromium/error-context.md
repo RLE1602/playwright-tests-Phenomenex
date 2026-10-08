@@ -706,6 +706,21 @@
               - link "USP/Ph. Eur. Calculator":
                 - /url: https://stage-aem.phenomenex.com/resources/webtools/usp-calculator
             - listitem:
+              - link "SPE Method Development":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/spe-method-development
+            - listitem:
+              - link "LC Transfer":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/lc-transfer
+            - listitem:
+              - link "GC Column Finder":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/gc-column-finder
+            - listitem:
+              - link "Vial Finder Tool":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/vial-finder-tool
+            - listitem:
+              - link "Prep Calculator":
+                - /url: https://stage-aem.phenomenex.com/resources/webtools/prep-calculator
+            - listitem:
               - link "View All Web Tools":
                 - /url: https://stage-aem.phenomenex.com/resources/webtools
   - main [ref=e52]:
