@@ -1,7 +1,7 @@
 # Page snapshot
 
 ```yaml
-- generic [active] [ref=e1]:
+- generic [ref=e1]:
   - banner [ref=e2]:
     - generic:
       - generic [ref=e3]:
@@ -1083,4 +1083,21 @@
             - link "Sitemap" [ref=e447] [cursor=pointer]:
               - /url: https://www.phenomenex.com/index-sitemap
         - paragraph [ref=e448]: © 2026 Phenomenex Inc. All rights reserved.
+  - generic "Privacy" [active] [ref=e450]:
+    - dialog "Privacy" [ref=e451]:
+      - generic [ref=e452]:
+        - generic [ref=e453]:
+          - generic:
+            - generic [ref=e454]:
+              - text: We and our partners use cookies and other tracking technologies and some of the data you directly provide to us such as your contact details to improve your experience of using our website, provide you with personalized ads and content based on your interactions with these and other websites, allow you to share content on social media, to perform analytics and measure the effectiveness of our advertising campaigns. By clicking “Accept All Cookies”, you consent to this and to the sharing of this data with our partners (find the link below). You can change your consent preferences at any time in the “Cookie Settings” section at the bottom of our website. Review our Cookie Notice to learn more about our practices
+              - link "More information about your privacy, opens in a new tab" [ref=e455] [cursor=pointer]:
+                - /url: https://www.phenomenex.com/legal/phx-cookie-policy
+                - text: Cookie Notice
+            - link "Phenomenex Cookie Partners Details" [ref=e456] [cursor=pointer]:
+              - /url: "#"
+        - generic [ref=e458]:
+          - button "Cookie Settings, Opens the preference center dialog" [ref=e459] [cursor=pointer]: Cookie Settings
+          - generic [ref=e460]:
+            - button "Reject All" [ref=e461] [cursor=pointer]
+            - button "Accept All Cookies" [ref=e462] [cursor=pointer]
 ```
